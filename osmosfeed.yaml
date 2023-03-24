@@ -3,7 +3,8 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-  cacheUrl: https://marshalmiller.github.io/podcasts/cache.json
+#  cacheUrl: https://marshalmiller.github.io/podcasts/cache.json
+
 sources:
   - href: https://feeds.fireside.fm/linuxactionnews/rss/
   - href: https://linuxunplugged.com/rss/
