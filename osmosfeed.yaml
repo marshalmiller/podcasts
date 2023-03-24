@@ -5,5 +5,5 @@
 
   cacheUrl: https://marshalmiller.github.io/podcasts/cache.json
 sources:
-  - href: https://feeds.fireside.fm/linuxactionnews/rss
-  - href: https://linuxunplugged.com/rss
+  - href: https://feeds.fireside.fm/linuxactionnews/rss/
+  - href: https://linuxunplugged.com/rss/
