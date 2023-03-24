@@ -1,0 +1,163 @@
+{
+  "sources": [
+    {
+      "title": "Linux Action News",
+      "feedUrl": "https://feeds.fireside.fm/linuxactionnews/rss/",
+      "siteUrl": "https://linuxactionnews.com",
+      "articles": [
+        {
+          "id": "6e5d580d-2a80-47ab-af05-bedf0e4140fe",
+          "author": "Jupiter Broadcasting",
+          "description": "Nextcloud moves to the front of the pack with their new release, a moment to appreciate curl, and Amazon goes all in with Fedora. Special Guest: Brent Gervais.",
+          "link": "https://linuxactionnews.com/285",
+          "publishedOn": "2023-03-22T22:45:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 285",
+          "itunes": {
+            "duration": "19:24"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/6e5d580d-2a80-47ab-af05-bedf0e4140fe.mp3",
+            "length": "16297557",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "9c967b27-b635-4de1-adcb-123f23211db2",
+          "author": "Jupiter Broadcasting",
+          "description": "Docker's open-source crackdown, the Wayland regression solved this week, and why ipmitool's repo has been locked.",
+          "link": "https://linuxactionnews.com/284",
+          "publishedOn": "2023-03-16T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 284",
+          "itunes": {
+            "duration": "16:57"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/9c967b27-b635-4de1-adcb-123f23211db2.mp3",
+            "length": "14250288",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "90ff6248-b73b-4d15-a5c3-470bee06110b",
+          "author": "Jupiter Broadcasting",
+          "description": "Nextcloud's big new customer, some last-minute surprises in GNOME 44, and Flathub's ambitious plans for 2023.",
+          "link": "https://linuxactionnews.com/283",
+          "publishedOn": "2023-03-09T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 283",
+          "itunes": {
+            "duration": "13:50"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/90ff6248-b73b-4d15-a5c3-470bee06110b.mp3",
+            "length": "11633967",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "794b58b8-2d30-47f0-ba1d-64962f690e61",
+          "author": "Jupiter Broadcasting",
+          "description": "FFmpeg gets new superpowers, Plasma’s switch to Qt6 gets official; what you need to know. Plus we round up the top features coming to Linux 6.3.",
+          "link": "https://linuxactionnews.com/282",
+          "publishedOn": "2023-03-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 282",
+          "itunes": {
+            "duration": "19:32"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/794b58b8-2d30-47f0-ba1d-64962f690e61.mp3",
+            "length": "16416048",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "LINUX Unplugged",
+      "feedUrl": "https://linuxunplugged.com/rss/",
+      "siteUrl": "https://linuxunplugged.com",
+      "articles": [
+        {
+          "id": "05924797-644e-43d2-92b7-89903299fa6a",
+          "author": "Jupiter Broadcasting",
+          "description": "The story of an open-source hero who became a villain. Special Guest: Alex Kretzschmar.",
+          "link": "https://linuxunplugged.com/502",
+          "publishedOn": "2023-03-20T03:00:00.000Z",
+          "wordCount": null,
+          "title": "502: Docker Shocker",
+          "itunes": {
+            "duration": "1:19:17"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/05924797-644e-43d2-92b7-89903299fa6a.mp3",
+            "length": "66603020",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "933a0cb5-bd3b-40bb-851c-fb3a1ee45795",
+          "author": "Jupiter Broadcasting",
+          "description": "Robert McQueen shares the inside scoop on Flathub’s ambitious plans to create a universal app store for all distros—and we ask the hard questions. Special Guest: Robert McQueen.",
+          "link": "https://linuxunplugged.com/501",
+          "publishedOn": "2023-03-13T02:00:00.000Z",
+          "wordCount": null,
+          "title": "501: Fat Stacks for Flatpaks",
+          "itunes": {
+            "duration": "1:15:55"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/933a0cb5-bd3b-40bb-851c-fb3a1ee45795.mp3",
+            "length": "63771294",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "b25f0e15-65ce-4737-ac19-435e72d0f8ed",
+          "author": "Jupiter Broadcasting",
+          "description": "We're celebrating 500 episodes with the biggest announcement yet. Special Guest: Listener Jeff.",
+          "link": "https://linuxunplugged.com/500",
+          "publishedOn": "2023-03-06T03:45:00.000Z",
+          "wordCount": null,
+          "title": "500: Our Biggest Announcement Yet",
+          "itunes": {
+            "duration": "1:41:22"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b25f0e15-65ce-4737-ac19-435e72d0f8ed.mp3",
+            "length": "85157168",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
+          "id": "db5f1be4-3695-4d26-bc31-e15111ee07cc",
+          "author": "Jupiter Broadcasting",
+          "description": "Ubuntu makes its anti-Flatpak stance official, while KDE and GNOME team up to turn Flathub into a universal Linux app store.\nPlus, we try the Intel Arc GPU. Could this new hardware make Linux bulletproof?",
+          "link": "https://linuxunplugged.com/499",
+          "publishedOn": "2023-02-27T02:15:00.000Z",
+          "wordCount": null,
+          "title": "499: 'velopers Choose Snap",
+          "itunes": {
+            "duration": "1:27:10"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/db5f1be4-3695-4d26-bc31-e15111ee07cc.mp3",
+            "length": "73225374",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
