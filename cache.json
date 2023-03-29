@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "db5f1be4-3695-4d26-bc31-e15111ee07cc",
-          "author": "Jupiter Broadcasting",
-          "description": "Ubuntu makes its anti-Flatpak stance official, while KDE and GNOME team up to turn Flathub into a universal Linux app store.\nPlus, we try the Intel Arc GPU. Could this new hardware make Linux bulletproof?",
-          "link": "https://linuxunplugged.com/499",
-          "publishedOn": "2023-02-27T02:15:00.000Z",
-          "wordCount": null,
-          "title": "499: 'velopers Choose Snap",
-          "itunes": {
-            "duration": "1:27:10"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/db5f1be4-3695-4d26-bc31-e15111ee07cc.mp3",
-            "length": "73225374",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

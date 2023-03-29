@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-28T00:02:36.512Z</updated>
+    <updated>2023-03-29T00:02:25.579Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -122,17 +122,6 @@
         <link href="https://linuxactionnews.com/282"/>
         <updated>2023-03-02T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[FFmpeg gets new superpowers, Plasma’s switch to Qt6 gets official; what you need to know. Plus we round up the top features coming to Linux 6.3.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[499: 'velopers Choose Snap]]></title>
-        <id>db5f1be4-3695-4d26-bc31-e15111ee07cc</id>
-        <link href="https://linuxunplugged.com/499"/>
-        <updated>2023-02-27T02:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu makes its anti-Flatpak stance official, while KDE and GNOME team up to turn Flathub into a universal Linux app store.
-Plus, we try the Intel Arc GPU. Could this new hardware make Linux bulletproof?]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
