@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-29T00:02:25.579Z</updated>
+    <updated>2023-03-30T00:02:25.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[511: Robot Chat Shack]]></title>
+        <id>82c2022a-6751-4883-bc59-d40bd895a021</id>
+        <link href="https://coder.show/511"/>
+        <updated>2023-03-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mike's spent 90+ days with GitHub Co-Pilot, and shares the surprising conclusion.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[503: Berlin with Brent]]></title>
         <id>ae7dc562-a38e-4fb3-b343-b47ae33635ca</id>
