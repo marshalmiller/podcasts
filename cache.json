@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "794b58b8-2d30-47f0-ba1d-64962f690e61",
-          "author": "Jupiter Broadcasting",
-          "description": "FFmpeg gets new superpowers, Plasma’s switch to Qt6 gets official; what you need to know. Plus we round up the top features coming to Linux 6.3.",
-          "link": "https://linuxactionnews.com/282",
-          "publishedOn": "2023-03-02T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 282",
-          "itunes": {
-            "duration": "19:32"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/794b58b8-2d30-47f0-ba1d-64962f690e61.mp3",
-            "length": "16416048",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

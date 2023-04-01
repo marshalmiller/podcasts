@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-03-31T00:02:16.702Z</updated>
+    <updated>2023-04-01T00:02:38.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -132,16 +132,6 @@
         <link href="https://coder.show/507"/>
         <updated>2023-03-04T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mike's got a new rig, and Ford wants to recall yours automatically! Plus, we get a bit spicy about money.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 282]]></title>
-        <id>794b58b8-2d30-47f0-ba1d-64962f690e61</id>
-        <link href="https://linuxactionnews.com/282"/>
-        <updated>2023-03-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[FFmpeg gets new superpowers, Plasma’s switch to Qt6 gets official; what you need to know. Plus we round up the top features coming to Linux 6.3.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
