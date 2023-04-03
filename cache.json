@@ -234,24 +234,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "8058f24c-58c1-4cfe-b73e-1d3c1d610c53",
-          "author": "Jupiter Broadcasting",
-          "description": "Mike's got a new rig, and Ford wants to recall yours automatically! Plus, we get a bit spicy about money.",
-          "link": "https://coder.show/507",
-          "publishedOn": "2023-03-04T11:00:00.000Z",
-          "wordCount": null,
-          "title": "507: Tough Little Liver",
-          "itunes": {
-            "duration": "58:18"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/8058f24c-58c1-4cfe-b73e-1d3c1d610c53.mp3",
-            "length": "48978151",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-02T00:02:44.803Z</updated>
+    <updated>2023-04-03T00:02:26.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://linuxunplugged.com/500"/>
         <updated>2023-03-06T03:45:00.000Z</updated>
         <summary type="html"><![CDATA[We're celebrating 500 episodes with the biggest announcement yet. Special Guest: Listener Jeff.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[507: Tough Little Liver]]></title>
-        <id>8058f24c-58c1-4cfe-b73e-1d3c1d610c53</id>
-        <link href="https://coder.show/507"/>
-        <updated>2023-03-04T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mike's got a new rig, and Ford wants to recall yours automatically! Plus, we get a bit spicy about money.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
