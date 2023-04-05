@@ -155,24 +155,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "b25f0e15-65ce-4737-ac19-435e72d0f8ed",
-          "author": "Jupiter Broadcasting",
-          "description": "We're celebrating 500 episodes with the biggest announcement yet. Special Guest: Listener Jeff.",
-          "link": "https://linuxunplugged.com/500",
-          "publishedOn": "2023-03-06T03:45:00.000Z",
-          "wordCount": null,
-          "title": "500: Our Biggest Announcement Yet",
-          "itunes": {
-            "duration": "1:41:22"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b25f0e15-65ce-4737-ac19-435e72d0f8ed.mp3",
-            "length": "85157168",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
