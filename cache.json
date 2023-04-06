@@ -6,6 +6,24 @@
       "siteUrl": "https://linuxactionnews.com",
       "articles": [
         {
+          "id": "e2e7dfc8-0ec8-4135-bb28-89b726eb9dfe",
+          "author": "Jupiter Broadcasting",
+          "description": "A fresh take on open-source funding, Fedora’s plan for better encryption out of the box, and our impressions of the latest Ubuntu Beta.",
+          "link": "https://linuxactionnews.com/287",
+          "publishedOn": "2023-04-05T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 287",
+          "itunes": {
+            "duration": "14:58"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/e2e7dfc8-0ec8-4135-bb28-89b726eb9dfe.mp3",
+            "length": "12584824",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "bfb01254-4fad-4e00-a759-6a8c5cb5975e",
           "author": "Jupiter Broadcasting",
           "description": "What we're liking about GNOME 44, how Microsoft's Linux distro is trying to attract more users, and we bust a CentOS myth.",
@@ -163,6 +181,24 @@
       "feedUrl": "https://coder.show/rss",
       "siteUrl": "https://coder.show",
       "articles": [
+        {
+          "id": "ab02a08e-d414-4a0e-82f3-c64efad9ca62",
+          "author": "Jupiter Broadcasting",
+          "description": "Our thoughts on the recent AI hysteria and why it betrays the massive egos involved, our issues with the RESTRICT Act, and we do some Monday morning code review.",
+          "link": "https://coder.show/512",
+          "publishedOn": "2023-04-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "512: The Hysterics Chronicles",
+          "itunes": {
+            "duration": "59:42"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ab02a08e-d414-4a0e-82f3-c64efad9ca62.mp3",
+            "length": "50150265",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
         {
           "id": "82c2022a-6751-4883-bc59-d40bd895a021",
           "author": "Jupiter Broadcasting",

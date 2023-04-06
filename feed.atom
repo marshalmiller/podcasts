@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-05T00:02:30.863Z</updated>
+    <updated>2023-04-06T00:02:18.152Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 287]]></title>
+        <id>e2e7dfc8-0ec8-4135-bb28-89b726eb9dfe</id>
+        <link href="https://linuxactionnews.com/287"/>
+        <updated>2023-04-05T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A fresh take on open-source funding, Fedora’s plan for better encryption out of the box, and our impressions of the latest Ubuntu Beta.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[512: The Hysterics Chronicles]]></title>
+        <id>ab02a08e-d414-4a0e-82f3-c64efad9ca62</id>
+        <link href="https://coder.show/512"/>
+        <updated>2023-04-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our thoughts on the recent AI hysteria and why it betrays the massive egos involved, our issues with the RESTRICT Act, and we do some Monday morning code review.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[504: It's a Trap!]]></title>
         <id>19266fec-26b3-4243-b035-a3677745400c</id>
