@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "90ff6248-b73b-4d15-a5c3-470bee06110b",
-          "author": "Jupiter Broadcasting",
-          "description": "Nextcloud's big new customer, some last-minute surprises in GNOME 44, and Flathub's ambitious plans for 2023.",
-          "link": "https://linuxactionnews.com/283",
-          "publishedOn": "2023-03-09T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 283",
-          "itunes": {
-            "duration": "13:50"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/90ff6248-b73b-4d15-a5c3-470bee06110b.mp3",
-            "length": "11633967",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
