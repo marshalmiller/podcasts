@@ -85,6 +85,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "c7316eb3-d1a0-4291-b799-deecabec9842",
+          "author": "Jupiter Broadcasting",
+          "description": "We try out the most secure messaging app in the world, and Wes’ new note system that's so great you’ll want to abandon your current one.",
+          "link": "https://linuxunplugged.com/505",
+          "publishedOn": "2023-04-10T03:00:00.000Z",
+          "wordCount": null,
+          "title": "505: Keep Your Darn Secrets",
+          "itunes": {
+            "duration": "1:13:47"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c7316eb3-d1a0-4291-b799-deecabec9842.mp3",
+            "length": "61984048",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "19266fec-26b3-4243-b035-a3677745400c",
           "author": "Jupiter Broadcasting",
           "description": "Why using the iPhone makes it harder to run Linux; Chris follows up on his four-month-long challenge to ditch iOS for GrapheneOS. \nPlus, Brent's extended stay in Berlin has led to some developments you won't want to miss.",
