@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "933a0cb5-bd3b-40bb-851c-fb3a1ee45795",
-          "author": "Jupiter Broadcasting",
-          "description": "Robert McQueen shares the inside scoop on Flathub’s ambitious plans to create a universal app store for all distros—and we ask the hard questions. Special Guest: Robert McQueen.",
-          "link": "https://linuxunplugged.com/501",
-          "publishedOn": "2023-03-13T02:00:00.000Z",
-          "wordCount": null,
-          "title": "501: Fat Stacks for Flatpaks",
-          "itunes": {
-            "duration": "1:15:55"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/933a0cb5-bd3b-40bb-851c-fb3a1ee45795.mp3",
-            "length": "63771294",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
