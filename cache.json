@@ -164,6 +164,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "930a217b-adfc-4a89-8888-58a40f0467b8",
+          "author": "Jupiter Broadcasting",
+          "description": "Forces beyond Apple's control just reined in their rise, and we ponder the coming sunset.\nPlus, the tool we found uses ChatGPT to help you debug errors.",
+          "link": "https://coder.show/513",
+          "publishedOn": "2023-04-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "513: Apple's Golden Hour",
+          "itunes": {
+            "duration": "54:54"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/930a217b-adfc-4a89-8888-58a40f0467b8.mp3",
+            "length": "46127042",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "ab02a08e-d414-4a0e-82f3-c64efad9ca62",
           "author": "Jupiter Broadcasting",
           "description": "Our thoughts on the recent AI hysteria and why it betrays the massive egos involved, our issues with the RESTRICT Act, and we do some Monday morning code review.",
@@ -231,24 +249,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/599447f3-8a13-485c-9a60-720ddccfa0a3.mp3",
             "length": "36430860",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "4a3878a8-1fe3-4d3a-b061-49597c19ea7f",
-          "author": "Jupiter Broadcasting",
-          "description": "Our spicy take on the Silicon Valley Bank bailout, how it will impact everyday developers, and how badly this screws over small businesses.",
-          "link": "https://coder.show/508",
-          "publishedOn": "2023-03-14T10:00:00.000Z",
-          "wordCount": null,
-          "title": "508: Hybrid Hangover",
-          "itunes": {
-            "duration": "50:53"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/4a3878a8-1fe3-4d3a-b061-49597c19ea7f.mp3",
-            "length": "42746014",
             "type": "audio/mp3"
           },
           "imageUrl": null
