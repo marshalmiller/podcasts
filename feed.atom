@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-13T00:02:28.914Z</updated>
+    <updated>2023-04-14T00:02:29.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 288]]></title>
+        <id>40f8a23d-fe84-40a4-89a7-2bafc8fde20d</id>
+        <link href="https://linuxactionnews.com/288"/>
+        <updated>2023-04-13T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A classic gadget gets a Linux-powered new lease on life, the next project getting Rusty, great news for Btrfs users, and more.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[513: Apple's Golden Hour]]></title>
         <id>930a217b-adfc-4a89-8888-58a40f0467b8</id>
@@ -124,16 +134,6 @@ Plus, Brent's extended stay in Berlin has led to some developments you won't wan
         <link href="https://linuxactionnews.com/284"/>
         <updated>2023-03-16T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[Docker's open-source crackdown, the Wayland regression solved this week, and why ipmitool's repo has been locked.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[509: The Great Cloud Exodus]]></title>
-        <id>599447f3-8a13-485c-9a60-720ddccfa0a3</id>
-        <link href="https://coder.show/509"/>
-        <updated>2023-03-15T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're told companies are abandoning the cloud to save money. But is the trend our friend?]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
