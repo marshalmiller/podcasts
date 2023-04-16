@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "9c967b27-b635-4de1-adcb-123f23211db2",
-          "author": "Jupiter Broadcasting",
-          "description": "Docker's open-source crackdown, the Wayland regression solved this week, and why ipmitool's repo has been locked.",
-          "link": "https://linuxactionnews.com/284",
-          "publishedOn": "2023-03-16T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 284",
-          "itunes": {
-            "duration": "16:57"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/9c967b27-b635-4de1-adcb-123f23211db2.mp3",
-            "length": "14250288",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

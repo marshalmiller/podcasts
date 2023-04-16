@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-15T00:02:36.090Z</updated>
+    <updated>2023-04-16T00:02:41.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -124,16 +124,6 @@ Plus, Brent's extended stay in Berlin has led to some developments you won't wan
         <link href="https://linuxunplugged.com/502"/>
         <updated>2023-03-20T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[The story of an open-source hero who became a villain. Special Guest: Alex Kretzschmar.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 284]]></title>
-        <id>9c967b27-b635-4de1-adcb-123f23211db2</id>
-        <link href="https://linuxactionnews.com/284"/>
-        <updated>2023-03-16T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Docker's open-source crackdown, the Wayland regression solved this week, and why ipmitool's repo has been locked.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
