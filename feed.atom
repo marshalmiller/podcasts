@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-17T00:02:27.752Z</updated>
+    <updated>2023-04-18T00:02:15.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[506: Three Wild and Crazy Topics]]></title>
+        <id>823167ba-61c2-4949-8849-7beca22621a0</id>
+        <link href="https://linuxunplugged.com/506"/>
+        <updated>2023-04-17T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[We surprise each other with three secret topics, with one big catch.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Action News 288]]></title>
         <id>40f8a23d-fe84-40a4-89a7-2bafc8fde20d</id>

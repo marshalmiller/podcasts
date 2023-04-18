@@ -85,6 +85,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "823167ba-61c2-4949-8849-7beca22621a0",
+          "author": "Jupiter Broadcasting",
+          "description": "We surprise each other with three secret topics, with one big catch.",
+          "link": "https://linuxunplugged.com/506",
+          "publishedOn": "2023-04-17T02:45:00.000Z",
+          "wordCount": null,
+          "title": "506: Three Wild and Crazy Topics",
+          "itunes": {
+            "duration": "1:16:14"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/823167ba-61c2-4949-8849-7beca22621a0.mp3",
+            "length": "64048505",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "c7316eb3-d1a0-4291-b799-deecabec9842",
           "author": "Jupiter Broadcasting",
           "description": "We try out the most secure messaging app in the world, and Wes’ new note system that's so great you’ll want to abandon your current one.",
