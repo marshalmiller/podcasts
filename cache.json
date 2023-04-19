@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "05924797-644e-43d2-92b7-89903299fa6a",
-          "author": "Jupiter Broadcasting",
-          "description": "The story of an open-source hero who became a villain. Special Guest: Alex Kretzschmar.",
-          "link": "https://linuxunplugged.com/502",
-          "publishedOn": "2023-03-20T03:00:00.000Z",
-          "wordCount": null,
-          "title": "502: Docker Shocker",
-          "itunes": {
-            "duration": "1:19:17"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/05924797-644e-43d2-92b7-89903299fa6a.mp3",
-            "length": "66603020",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

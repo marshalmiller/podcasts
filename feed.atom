@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-18T00:02:15.709Z</updated>
+    <updated>2023-04-19T00:02:36.852Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -124,16 +124,6 @@ Plus, Brent's extended stay in Berlin has led to some developments you won't wan
         <link href="https://coder.show/510"/>
         <updated>2023-03-22T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft's moonshot is turning into a crapshoot.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[502: Docker Shocker]]></title>
-        <id>05924797-644e-43d2-92b7-89903299fa6a</id>
-        <link href="https://linuxunplugged.com/502"/>
-        <updated>2023-03-20T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The story of an open-source hero who became a villain. Special Guest: Alex Kretzschmar.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
