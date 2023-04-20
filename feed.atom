@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-19T00:02:36.852Z</updated>
+    <updated>2023-04-20T00:02:25.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[514: Designing a Villain]]></title>
+        <id>5856f364-95c2-489e-b86e-71c634fdb242</id>
+        <link href="https://coder.show/514"/>
+        <updated>2023-04-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Elon launches another AI company, leaks suggest Apple might enable sideloading, and why we should let Chaos-GPT run free.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[506: Three Wild and Crazy Topics]]></title>
         <id>823167ba-61c2-4949-8849-7beca22621a0</id>

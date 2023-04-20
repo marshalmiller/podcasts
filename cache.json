@@ -164,6 +164,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "5856f364-95c2-489e-b86e-71c634fdb242",
+          "author": "Jupiter Broadcasting",
+          "description": "Elon launches another AI company, leaks suggest Apple might enable sideloading, and why we should let Chaos-GPT run free.",
+          "link": "https://coder.show/514",
+          "publishedOn": "2023-04-19T10:00:00.000Z",
+          "wordCount": null,
+          "title": "514: Designing a Villain",
+          "itunes": {
+            "duration": "51:24"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5856f364-95c2-489e-b86e-71c634fdb242.mp3",
+            "length": "43185237",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "930a217b-adfc-4a89-8888-58a40f0467b8",
           "author": "Jupiter Broadcasting",
           "description": "Forces beyond Apple's control just reined in their rise, and we ponder the coming sunset.\nPlus, the tool we found uses ChatGPT to help you debug errors.",
