@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-20T00:02:25.165Z</updated>
+    <updated>2023-04-21T00:02:25.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 289]]></title>
+        <id>fc9988fc-8dad-4a51-9a3c-ec31183232c0</id>
+        <link href="https://linuxactionnews.com/289"/>
+        <updated>2023-04-20T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What we like about Fedora 38, why the Rust foundation is in hot water, and more.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[514: Designing a Villain]]></title>
         <id>5856f364-95c2-489e-b86e-71c634fdb242</id>
@@ -124,16 +134,6 @@ Plus, Brent's extended stay in Berlin has led to some developments you won't wan
         <link href="https://linuxactionnews.com/285"/>
         <updated>2023-03-22T22:45:00.000Z</updated>
         <summary type="html"><![CDATA[Nextcloud moves to the front of the pack with their new release, a moment to appreciate curl, and Amazon goes all in with Fedora. Special Guest: Brent Gervais.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[510: Edge of Disaster]]></title>
-        <id>c88785c7-d7ef-4432-8845-8eadb8deeb56</id>
-        <link href="https://coder.show/510"/>
-        <updated>2023-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's moonshot is turning into a crapshoot.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
