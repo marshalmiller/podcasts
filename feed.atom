@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-21T00:02:25.990Z</updated>
+    <updated>2023-04-22T00:02:43.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -124,16 +124,6 @@ Plus, Brent's extended stay in Berlin has led to some developments you won't wan
         <link href="https://linuxunplugged.com/503"/>
         <updated>2023-03-27T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[Brent dives deep into Nextcloud's new release from inside their offices, and takes an unexpected dip in the local lake with a listener.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 285]]></title>
-        <id>6e5d580d-2a80-47ab-af05-bedf0e4140fe</id>
-        <link href="https://linuxactionnews.com/285"/>
-        <updated>2023-03-22T22:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Nextcloud moves to the front of the pack with their new release, a moment to appreciate curl, and Amazon goes all in with Fedora. Special Guest: Brent Gervais.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

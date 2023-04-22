@@ -76,24 +76,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6e5d580d-2a80-47ab-af05-bedf0e4140fe",
-          "author": "Jupiter Broadcasting",
-          "description": "Nextcloud moves to the front of the pack with their new release, a moment to appreciate curl, and Amazon goes all in with Fedora. Special Guest: Brent Gervais.",
-          "link": "https://linuxactionnews.com/285",
-          "publishedOn": "2023-03-22T22:45:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 285",
-          "itunes": {
-            "duration": "19:24"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/6e5d580d-2a80-47ab-af05-bedf0e4140fe.mp3",
-            "length": "16297557",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
