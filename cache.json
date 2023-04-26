@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "ae7dc562-a38e-4fb3-b343-b47ae33635ca",
-          "author": "Jupiter Broadcasting",
-          "description": "Brent dives deep into Nextcloud's new release from inside their offices, and takes an unexpected dip in the local lake with a listener.",
-          "link": "https://linuxunplugged.com/503",
-          "publishedOn": "2023-03-27T02:45:00.000Z",
-          "wordCount": null,
-          "title": "503: Berlin with Brent",
-          "itunes": {
-            "duration": "1:29:04"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ae7dc562-a38e-4fb3-b343-b47ae33635ca.mp3",
-            "length": "74826471",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
