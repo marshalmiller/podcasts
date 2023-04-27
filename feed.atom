@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-26T00:02:14.137Z</updated>
+    <updated>2023-04-27T00:02:25.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[515: Codeium Comes for Copilot]]></title>
+        <id>defe4ec1-e275-4abf-a484-406602d4c736</id>
+        <link href="https://coder.show/515"/>
+        <updated>2023-04-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We have a laugh at Elon's alt account, why the knives are out for GitHub Co-pilot, and our thoughts on Apple's "major victory" this week.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[507: Full Wobble]]></title>
         <id>51ed08a7-8d3f-4391-a8fc-5abaa4a074fe</id>

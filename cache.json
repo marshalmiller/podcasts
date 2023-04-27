@@ -164,6 +164,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "defe4ec1-e275-4abf-a484-406602d4c736",
+          "author": "Jupiter Broadcasting",
+          "description": "We have a laugh at Elon's alt account, why the knives are out for GitHub Co-pilot, and our thoughts on Apple's \"major victory\" this week.",
+          "link": "https://coder.show/515",
+          "publishedOn": "2023-04-26T10:00:00.000Z",
+          "wordCount": null,
+          "title": "515: Codeium Comes for Copilot",
+          "itunes": {
+            "duration": "56:04"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/defe4ec1-e275-4abf-a484-406602d4c736.mp3",
+            "length": "47099842",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5856f364-95c2-489e-b86e-71c634fdb242",
           "author": "Jupiter Broadcasting",
           "description": "Elon launches another AI company, leaks suggest Apple might enable sideloading, and why we should let Chaos-GPT run free.",
