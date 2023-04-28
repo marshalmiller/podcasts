@@ -6,6 +6,24 @@
       "siteUrl": "https://linuxactionnews.com",
       "articles": [
         {
+          "id": "04d77163-2916-41ce-99db-8cf0605698a2",
+          "author": "Jupiter Broadcasting",
+          "description": "What we know about the Red Hat layoffs, highlights of Linux 6.3, and Canonical's bold claim in Ubuntu 23.04.",
+          "link": "https://linuxactionnews.com/290",
+          "publishedOn": "2023-04-27T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 290",
+          "itunes": {
+            "duration": "12:15"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/04d77163-2916-41ce-99db-8cf0605698a2.mp3",
+            "length": "10293259",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "fc9988fc-8dad-4a51-9a3c-ec31183232c0",
           "author": "Jupiter Broadcasting",
           "description": "What we like about Fedora 38, why the Rust foundation is in hot water, and more.",
@@ -231,24 +249,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ab02a08e-d414-4a0e-82f3-c64efad9ca62.mp3",
             "length": "50150265",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "82c2022a-6751-4883-bc59-d40bd895a021",
-          "author": "Jupiter Broadcasting",
-          "description": "Mike's spent 90+ days with GitHub Co-Pilot, and shares the surprising conclusion.",
-          "link": "https://coder.show/511",
-          "publishedOn": "2023-03-29T10:00:00.000Z",
-          "wordCount": null,
-          "title": "511: Robot Chat Shack",
-          "itunes": {
-            "duration": "57:01"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/82c2022a-6751-4883-bc59-d40bd895a021.mp3",
-            "length": "47896734",
             "type": "audio/mp3"
           },
           "imageUrl": null
