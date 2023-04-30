@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-04-29T00:02:10.120Z</updated>
+    <updated>2023-04-30T00:02:32.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -124,16 +124,6 @@ Plus, the tool we found uses ChatGPT to help you debug errors.]]></summary>
         <updated>2023-04-03T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[Why using the iPhone makes it harder to run Linux; Chris follows up on his four-month-long challenge to ditch iOS for GrapheneOS. 
 Plus, Brent's extended stay in Berlin has led to some developments you won't want to miss.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 286]]></title>
-        <id>bfb01254-4fad-4e00-a759-6a8c5cb5975e</id>
-        <link href="https://linuxactionnews.com/286"/>
-        <updated>2023-03-30T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[What we're liking about GNOME 44, how Microsoft's Linux distro is trying to attract more users, and we bust a CentOS myth.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

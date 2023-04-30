@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "bfb01254-4fad-4e00-a759-6a8c5cb5975e",
-          "author": "Jupiter Broadcasting",
-          "description": "What we're liking about GNOME 44, how Microsoft's Linux distro is trying to attract more users, and we bust a CentOS myth.",
-          "link": "https://linuxactionnews.com/286",
-          "publishedOn": "2023-03-30T19:30:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 286",
-          "itunes": {
-            "duration": "20:52"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/bfb01254-4fad-4e00-a759-6a8c5cb5975e.mp3",
-            "length": "17532208",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
