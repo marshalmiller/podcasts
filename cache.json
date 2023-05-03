@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "19266fec-26b3-4243-b035-a3677745400c",
-          "author": "Jupiter Broadcasting",
-          "description": "Why using the iPhone makes it harder to run Linux; Chris follows up on his four-month-long challenge to ditch iOS for GrapheneOS. \nPlus, Brent's extended stay in Berlin has led to some developments you won't want to miss.",
-          "link": "https://linuxunplugged.com/504",
-          "publishedOn": "2023-04-03T02:30:00.000Z",
-          "wordCount": null,
-          "title": "504: It's a Trap!",
-          "itunes": {
-            "duration": "1:25:26"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/19266fec-26b3-4243-b035-a3677745400c.mp3",
-            "length": "71771294",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
