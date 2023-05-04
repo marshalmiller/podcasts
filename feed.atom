@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-03T00:02:18.087Z</updated>
+    <updated>2023-05-04T00:02:29.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 291]]></title>
+        <id>185b6ee1-0d61-4667-af4e-6ce1b2587d8c</id>
+        <link href="https://linuxactionnews.com/291"/>
+        <updated>2023-05-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The results from the recent HDR Hackfest, Mozilla's new acquisition, and the concerning crack down on free software encryption.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[516: There is No Moat]]></title>
+        <id>6917d19d-fe7c-497a-90f0-08ebb4ff7aca</id>
+        <link href="https://coder.show/516"/>
+        <updated>2023-05-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why open source might be the real AI winner long-term, and Mike gets the ultimate "I told you so."]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[508: The Worst Distro Ever]]></title>
         <id>f18ef078-1cf2-4517-b31f-f973d2f7d9ac</id>

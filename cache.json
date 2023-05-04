@@ -6,6 +6,24 @@
       "siteUrl": "https://linuxactionnews.com",
       "articles": [
         {
+          "id": "185b6ee1-0d61-4667-af4e-6ce1b2587d8c",
+          "author": "Jupiter Broadcasting",
+          "description": "The results from the recent HDR Hackfest, Mozilla's new acquisition, and the concerning crack down on free software encryption.",
+          "link": "https://linuxactionnews.com/291",
+          "publishedOn": "2023-05-03T15:00:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 291",
+          "itunes": {
+            "duration": "10:34"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/185b6ee1-0d61-4667-af4e-6ce1b2587d8c.mp3",
+            "length": "8878310",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "04d77163-2916-41ce-99db-8cf0605698a2",
           "author": "Jupiter Broadcasting",
           "description": "What we know about the Red Hat layoffs, highlights of Linux 6.3, and Canonical's bold claim in Ubuntu 23.04.",
@@ -163,6 +181,24 @@
       "feedUrl": "https://coder.show/rss",
       "siteUrl": "https://coder.show",
       "articles": [
+        {
+          "id": "6917d19d-fe7c-497a-90f0-08ebb4ff7aca",
+          "author": "Jupiter Broadcasting",
+          "description": "Why open source might be the real AI winner long-term, and Mike gets the ultimate \"I told you so.\"",
+          "link": "https://coder.show/516",
+          "publishedOn": "2023-05-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "516: There is No Moat",
+          "itunes": {
+            "duration": "1:00:06"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/6917d19d-fe7c-497a-90f0-08ebb4ff7aca.mp3",
+            "length": "50495500",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
         {
           "id": "defe4ec1-e275-4abf-a484-406602d4c736",
           "author": "Jupiter Broadcasting",
