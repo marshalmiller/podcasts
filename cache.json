@@ -252,24 +252,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "ab02a08e-d414-4a0e-82f3-c64efad9ca62",
-          "author": "Jupiter Broadcasting",
-          "description": "Our thoughts on the recent AI hysteria and why it betrays the massive egos involved, our issues with the RESTRICT Act, and we do some Monday morning code review.",
-          "link": "https://coder.show/512",
-          "publishedOn": "2023-04-05T10:00:00.000Z",
-          "wordCount": null,
-          "title": "512: The Hysterics Chronicles",
-          "itunes": {
-            "duration": "59:42"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ab02a08e-d414-4a0e-82f3-c64efad9ca62.mp3",
-            "length": "50150265",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
