@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "e2e7dfc8-0ec8-4135-bb28-89b726eb9dfe",
-          "author": "Jupiter Broadcasting",
-          "description": "A fresh take on open-source funding, Fedora’s plan for better encryption out of the box, and our impressions of the latest Ubuntu Beta.",
-          "link": "https://linuxactionnews.com/287",
-          "publishedOn": "2023-04-05T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 287",
-          "itunes": {
-            "duration": "14:58"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/e2e7dfc8-0ec8-4135-bb28-89b726eb9dfe.mp3",
-            "length": "12584824",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
