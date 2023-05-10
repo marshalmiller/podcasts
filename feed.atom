@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-09T00:02:36.887Z</updated>
+    <updated>2023-05-10T00:02:20.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -124,16 +124,6 @@ Why we think every desktop will copy ideas from Hyprland soon.]]></summary>
         <updated>2023-04-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Forces beyond Apple's control just reined in their rise, and we ponder the coming sunset.
 Plus, the tool we found uses ChatGPT to help you debug errors.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[505: Keep Your Darn Secrets]]></title>
-        <id>c7316eb3-d1a0-4291-b799-deecabec9842</id>
-        <link href="https://linuxunplugged.com/505"/>
-        <updated>2023-04-10T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We try out the most secure messaging app in the world, and Wes’ new note system that's so great you’ll want to abandon your current one.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
