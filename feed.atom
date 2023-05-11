@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-10T00:02:20.806Z</updated>
+    <updated>2023-05-11T00:02:21.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[517: Savage Serverless Shutdown]]></title>
+        <id>bca7d297-5610-4549-b565-97db2cc1487e</id>
+        <link href="https://coder.show/517"/>
+        <updated>2023-05-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A scathing takedown of Serverless... By Amazon? We react to this strange revelation and more.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[509: The Next Gen Desktop]]></title>
         <id>adf0e688-6480-4036-a396-37b6a478bc31</id>
