@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-11T00:02:21.096Z</updated>
+    <updated>2023-05-12T00:02:24.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 292]]></title>
+        <id>4ba6d778-5b49-4f82-9df7-2fd4fe11945e</id>
+        <link href="https://linuxactionnews.com/292"/>
+        <updated>2023-05-11T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We get you up to speed on two serious flaws, Linux's recent gaming loss, Ubuntu doubling down on RISC-V, and news from the Open Source Summit North America.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[517: Savage Serverless Shutdown]]></title>
         <id>bca7d297-5610-4549-b565-97db2cc1487e</id>
@@ -123,17 +133,6 @@ Why we think every desktop will copy ideas from Hyprland soon.]]></summary>
         <link href="https://linuxactionnews.com/288"/>
         <updated>2023-04-13T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[A classic gadget gets a Linux-powered new lease on life, the next project getting Rusty, great news for Btrfs users, and more.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[513: Apple's Golden Hour]]></title>
-        <id>930a217b-adfc-4a89-8888-58a40f0467b8</id>
-        <link href="https://coder.show/513"/>
-        <updated>2023-04-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Forces beyond Apple's control just reined in their rise, and we ponder the coming sunset.
-Plus, the tool we found uses ChatGPT to help you debug errors.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

@@ -6,6 +6,24 @@
       "siteUrl": "https://linuxactionnews.com",
       "articles": [
         {
+          "id": "4ba6d778-5b49-4f82-9df7-2fd4fe11945e",
+          "author": "Jupiter Broadcasting",
+          "description": "We get you up to speed on two serious flaws, Linux's recent gaming loss, Ubuntu doubling down on RISC-V, and news from the Open Source Summit North America.",
+          "link": "https://linuxactionnews.com/292",
+          "publishedOn": "2023-05-11T16:30:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 292",
+          "itunes": {
+            "duration": "13:05"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/4ba6d778-5b49-4f82-9df7-2fd4fe11945e.mp3",
+            "length": "10995430",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "185b6ee1-0d61-4667-af4e-6ce1b2587d8c",
           "author": "Jupiter Broadcasting",
           "description": "The results from the recent HDR Hackfest, Mozilla's new acquisition, and the concerning crack down on free software encryption.",
@@ -231,24 +249,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5856f364-95c2-489e-b86e-71c634fdb242.mp3",
             "length": "43185237",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "930a217b-adfc-4a89-8888-58a40f0467b8",
-          "author": "Jupiter Broadcasting",
-          "description": "Forces beyond Apple's control just reined in their rise, and we ponder the coming sunset.\nPlus, the tool we found uses ChatGPT to help you debug errors.",
-          "link": "https://coder.show/513",
-          "publishedOn": "2023-04-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "513: Apple's Golden Hour",
-          "itunes": {
-            "duration": "54:54"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/930a217b-adfc-4a89-8888-58a40f0467b8.mp3",
-            "length": "46127042",
             "type": "audio/mp3"
           },
           "imageUrl": null
