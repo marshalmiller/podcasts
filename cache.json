@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "40f8a23d-fe84-40a4-89a7-2bafc8fde20d",
-          "author": "Jupiter Broadcasting",
-          "description": "A classic gadget gets a Linux-powered new lease on life, the next project getting Rusty, great news for Btrfs users, and more.",
-          "link": "https://linuxactionnews.com/288",
-          "publishedOn": "2023-04-13T18:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 288",
-          "itunes": {
-            "duration": "14:24"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/40f8a23d-fe84-40a4-89a7-2bafc8fde20d.mp3",
-            "length": "12102447",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
