@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-14T00:02:37.184Z</updated>
+    <updated>2023-05-15T00:02:26.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[510: Thinking in Decades]]></title>
+        <id>89d0b705-ebd5-46d2-bba4-70a71e0feec3</id>
+        <link href="https://linuxunplugged.com/510"/>
+        <updated>2023-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The push for free software takes years, maybe even generations. Brent gets the inside story from the Free Software Foundation Europe. Special Guest: Matthias Kirschner.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Action News 292]]></title>
         <id>4ba6d778-5b49-4f82-9df7-2fd4fe11945e</id>

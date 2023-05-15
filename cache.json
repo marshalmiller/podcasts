@@ -85,6 +85,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "89d0b705-ebd5-46d2-bba4-70a71e0feec3",
+          "author": "Jupiter Broadcasting",
+          "description": "The push for free software takes years, maybe even generations. Brent gets the inside story from the Free Software Foundation Europe. Special Guest: Matthias Kirschner.",
+          "link": "https://linuxunplugged.com/510",
+          "publishedOn": "2023-05-14T10:00:00.000Z",
+          "wordCount": null,
+          "title": "510: Thinking in Decades",
+          "itunes": {
+            "duration": "1:08:15"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/89d0b705-ebd5-46d2-bba4-70a71e0feec3.mp3",
+            "length": "57342037",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "adf0e688-6480-4036-a396-37b6a478bc31",
           "author": "Jupiter Broadcasting",
           "description": "The first new desktop environment in a while that has caught our attention, and it promises to unlock the full power of cutting-edge Linux.\nWhy we think every desktop will copy ideas from Hyprland soon.",
