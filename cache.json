@@ -164,6 +164,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "bd667c8f-4a53-4edd-9991-844edbe94ade",
+          "author": "Jupiter Broadcasting",
+          "description": "We laugh at Google's scramble, check in on the Twitter collapse, and how one developer's little mistake screwed millions.",
+          "link": "https://coder.show/518",
+          "publishedOn": "2023-05-17T10:00:00.000Z",
+          "wordCount": null,
+          "title": "518: Driving Mr. Dominick",
+          "itunes": {
+            "duration": "1:00:33"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/bd667c8f-4a53-4edd-9991-844edbe94ade.mp3",
+            "length": "50874380",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "bca7d297-5610-4549-b565-97db2cc1487e",
           "author": "Jupiter Broadcasting",
           "description": "A scathing takedown of Serverless... By Amazon? We react to this strange revelation and more.",
