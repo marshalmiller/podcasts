@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-19T00:02:21.845Z</updated>
+    <updated>2023-05-20T00:02:15.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -123,16 +123,6 @@ Why we think every desktop will copy ideas from Hyprland soon.]]></summary>
         <link href="https://linuxunplugged.com/507"/>
         <updated>2023-04-24T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[Why Fedora 38 might Sway you to try it; and how it runs on the MacBook M1 Max.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 289]]></title>
-        <id>fc9988fc-8dad-4a51-9a3c-ec31183232c0</id>
-        <link href="https://linuxactionnews.com/289"/>
-        <updated>2023-04-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What we like about Fedora 38, why the Rust foundation is in hot water, and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

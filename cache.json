@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "fc9988fc-8dad-4a51-9a3c-ec31183232c0",
-          "author": "Jupiter Broadcasting",
-          "description": "What we like about Fedora 38, why the Rust foundation is in hot water, and more.",
-          "link": "https://linuxactionnews.com/289",
-          "publishedOn": "2023-04-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 289",
-          "itunes": {
-            "duration": "15:49"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/fc9988fc-8dad-4a51-9a3c-ec31183232c0.mp3",
-            "length": "13295407",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
