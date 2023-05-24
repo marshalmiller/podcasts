@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "51ed08a7-8d3f-4391-a8fc-5abaa4a074fe",
-          "author": "Jupiter Broadcasting",
-          "description": "Why Fedora 38 might Sway you to try it; and how it runs on the MacBook M1 Max.",
-          "link": "https://linuxunplugged.com/507",
-          "publishedOn": "2023-04-24T01:45:00.000Z",
-          "wordCount": null,
-          "title": "507: Full Wobble",
-          "itunes": {
-            "duration": "52:01"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/51ed08a7-8d3f-4391-a8fc-5abaa4a074fe.mp3",
-            "length": "43704551",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
