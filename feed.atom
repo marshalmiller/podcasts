@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-24T00:02:05.741Z</updated>
+    <updated>2023-05-25T00:02:26.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[519: Not So OpenAI]]></title>
+        <id>ab648877-1f21-4559-9b4c-5c563261c09a</id>
+        <link href="https://coder.show/519"/>
+        <updated>2023-05-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI's CEO Sam Altman has gone straight for the open-source kill move.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[511: Accepting the Future]]></title>
         <id>684c5ff8-088f-499e-886a-50dc94731934</id>

@@ -164,6 +164,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "ab648877-1f21-4559-9b4c-5c563261c09a",
+          "author": "Jupiter Broadcasting",
+          "description": "OpenAI's CEO Sam Altman has gone straight for the open-source kill move.",
+          "link": "https://coder.show/519",
+          "publishedOn": "2023-05-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "519: Not So OpenAI",
+          "itunes": {
+            "duration": "44:53"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ab648877-1f21-4559-9b4c-5c563261c09a.mp3",
+            "length": "37710494",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "bd667c8f-4a53-4edd-9991-844edbe94ade",
           "author": "Jupiter Broadcasting",
           "description": "We laugh at Google's scramble, check in on the Twitter collapse, and how one developer's little mistake screwed millions.",
