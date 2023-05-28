@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "04d77163-2916-41ce-99db-8cf0605698a2",
-          "author": "Jupiter Broadcasting",
-          "description": "What we know about the Red Hat layoffs, highlights of Linux 6.3, and Canonical's bold claim in Ubuntu 23.04.",
-          "link": "https://linuxactionnews.com/290",
-          "publishedOn": "2023-04-27T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 290",
-          "itunes": {
-            "duration": "12:15"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/04d77163-2916-41ce-99db-8cf0605698a2.mp3",
-            "length": "10293259",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
