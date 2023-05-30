@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-05-29T00:02:30.147Z</updated>
+    <updated>2023-05-30T00:02:11.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[512: The Sound of Rust]]></title>
+        <id>38317c5e-8541-447c-9bdb-bdb64923deea</id>
+        <link href="https://linuxunplugged.com/512"/>
+        <updated>2023-05-29T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We take a "Rust-only tools" challenge for a week and admit what worked, and what sucked. Plus, a surprise guest.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Action News 294]]></title>
         <id>e917ee57-3c60-484a-8951-a260f1875db0</id>
