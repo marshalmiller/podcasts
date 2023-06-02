@@ -6,6 +6,24 @@
       "siteUrl": "https://linuxactionnews.com",
       "articles": [
         {
+          "id": "d4137662-24d6-49da-af22-e93c4d504352",
+          "author": "Jupiter Broadcasting",
+          "description": "How the recent XFS bug was squashed, insights into why Microsoft built their own Linux from scratch, and recent attacks on Archive.org.",
+          "link": "https://linuxactionnews.com/295",
+          "publishedOn": "2023-06-01T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 295",
+          "itunes": {
+            "duration": "10:52"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/d4137662-24d6-49da-af22-e93c4d504352.mp3",
+            "length": "9140527",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "e917ee57-3c60-484a-8951-a260f1875db0",
           "author": "Jupiter Broadcasting",
           "description": "Microsoft's new Linux server distro, Red Hat Summit 2023 highlights, big changes at CodeWeavers, and Podman catches up to Docker Desktop.",
@@ -231,24 +249,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/bca7d297-5610-4549-b565-97db2cc1487e.mp3",
             "length": "39732162",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "6917d19d-fe7c-497a-90f0-08ebb4ff7aca",
-          "author": "Jupiter Broadcasting",
-          "description": "Why open source might be the real AI winner long-term, and Mike gets the ultimate \"I told you so.\"",
-          "link": "https://coder.show/516",
-          "publishedOn": "2023-05-03T10:00:00.000Z",
-          "wordCount": null,
-          "title": "516: There is No Moat",
-          "itunes": {
-            "duration": "1:00:06"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/6917d19d-fe7c-497a-90f0-08ebb4ff7aca.mp3",
-            "length": "50495500",
             "type": "audio/mp3"
           },
           "imageUrl": null
