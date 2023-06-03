@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "185b6ee1-0d61-4667-af4e-6ce1b2587d8c",
-          "author": "Jupiter Broadcasting",
-          "description": "The results from the recent HDR Hackfest, Mozilla's new acquisition, and the concerning crack down on free software encryption.",
-          "link": "https://linuxactionnews.com/291",
-          "publishedOn": "2023-05-03T15:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 291",
-          "itunes": {
-            "duration": "10:34"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/185b6ee1-0d61-4667-af4e-6ce1b2587d8c.mp3",
-            "length": "8878310",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
