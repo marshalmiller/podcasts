@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-06T00:02:18.534Z</updated>
+    <updated>2023-06-07T00:02:34.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -122,17 +122,6 @@
         <link href="https://coder.show/517"/>
         <updated>2023-05-10T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[A scathing takedown of Serverless... By Amazon? We react to this strange revelation and more.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[509: The Next Gen Desktop]]></title>
-        <id>adf0e688-6480-4036-a396-37b6a478bc31</id>
-        <link href="https://linuxunplugged.com/509"/>
-        <updated>2023-05-08T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[The first new desktop environment in a while that has caught our attention, and it promises to unlock the full power of cutting-edge Linux.
-Why we think every desktop will copy ideas from Hyprland soon.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

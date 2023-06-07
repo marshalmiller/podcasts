@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "adf0e688-6480-4036-a396-37b6a478bc31",
-          "author": "Jupiter Broadcasting",
-          "description": "The first new desktop environment in a while that has caught our attention, and it promises to unlock the full power of cutting-edge Linux.\nWhy we think every desktop will copy ideas from Hyprland soon.",
-          "link": "https://linuxunplugged.com/509",
-          "publishedOn": "2023-05-08T00:45:00.000Z",
-          "wordCount": null,
-          "title": "509: The Next Gen Desktop",
-          "itunes": {
-            "duration": "59:50"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/adf0e688-6480-4036-a396-37b6a478bc31.mp3",
-            "length": "50949929",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },
