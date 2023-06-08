@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-07T00:02:34.936Z</updated>
+    <updated>2023-06-08T00:02:26.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[521: More Pro, More Problems]]></title>
+        <id>691ea057-d65d-429d-ac04-7d9fa6b4c0e3</id>
+        <link href="https://coder.show/521"/>
+        <updated>2023-06-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We argue over what sucked the most at WWDC this year and then surprise each other with two things that thrill us.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[513: There Is No Distro]]></title>
         <id>5773516d-88a4-4eb6-95b4-d4e4ebb3bcfa</id>

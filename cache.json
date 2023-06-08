@@ -164,6 +164,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "691ea057-d65d-429d-ac04-7d9fa6b4c0e3",
+          "author": "Jupiter Broadcasting",
+          "description": "We argue over what sucked the most at WWDC this year and then surprise each other with two things that thrill us.",
+          "link": "https://coder.show/521",
+          "publishedOn": "2023-06-07T10:00:00.000Z",
+          "wordCount": null,
+          "title": "521: More Pro, More Problems",
+          "itunes": {
+            "duration": "1:02:34"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/691ea057-d65d-429d-ac04-7d9fa6b4c0e3.mp3",
+            "length": "52559957",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5353aa90-c034-4ed3-8474-bedfc86cb999",
           "author": "Jupiter Broadcasting",
           "description": "We chew on the best bits from this year's Microsoft Build and the bright red flag coming from the Rust community.",
