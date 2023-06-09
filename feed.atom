@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-08T00:02:26.279Z</updated>
+    <updated>2023-06-09T00:02:37.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 296]]></title>
+        <id>ad451f96-3b1c-423f-a406-1180c475dc1e</id>
+        <link href="https://linuxactionnews.com/296"/>
+        <updated>2023-06-08T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu gets serious about the immutable desktop, red flags from Red Hat, and the little tricks Apple used to patch Wine.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[521: More Pro, More Problems]]></title>
         <id>691ea057-d65d-429d-ac04-7d9fa6b4c0e3</id>
@@ -122,16 +132,6 @@
         <link href="https://linuxactionnews.com/292"/>
         <updated>2023-05-11T16:30:00.000Z</updated>
         <summary type="html"><![CDATA[We get you up to speed on two serious flaws, Linux's recent gaming loss, Ubuntu doubling down on RISC-V, and news from the Open Source Summit North America.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[517: Savage Serverless Shutdown]]></title>
-        <id>bca7d297-5610-4549-b565-97db2cc1487e</id>
-        <link href="https://coder.show/517"/>
-        <updated>2023-05-10T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A scathing takedown of Serverless... By Amazon? We react to this strange revelation and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
