@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-10T00:02:33.606Z</updated>
+    <updated>2023-06-11T00:02:45.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -122,16 +122,6 @@
         <link href="https://linuxunplugged.com/510"/>
         <updated>2023-05-14T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The push for free software takes years, maybe even generations. Brent gets the inside story from the Free Software Foundation Europe. Special Guest: Matthias Kirschner.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 292]]></title>
-        <id>4ba6d778-5b49-4f82-9df7-2fd4fe11945e</id>
-        <link href="https://linuxactionnews.com/292"/>
-        <updated>2023-05-11T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We get you up to speed on two serious flaws, Linux's recent gaming loss, Ubuntu doubling down on RISC-V, and news from the Open Source Summit North America.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
