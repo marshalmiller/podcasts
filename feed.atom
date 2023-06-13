@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-12T00:02:42.379Z</updated>
+    <updated>2023-06-13T00:02:33.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[514: Connection Established]]></title>
+        <id>077a4216-c47b-47ce-8632-9201e81b6f30</id>
+        <link href="https://linuxunplugged.com/514"/>
+        <updated>2023-06-12T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We get the inside scoop on SouthEast LinuxFest, and share a few stories from the early days of the Linux community. Special Guest: Noah Chelliah.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Action News 296]]></title>
         <id>ad451f96-3b1c-423f-a406-1180c475dc1e</id>
@@ -112,16 +122,6 @@
         <link href="https://coder.show/518"/>
         <updated>2023-05-17T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[We laugh at Google's scramble, check in on the Twitter collapse, and how one developer's little mistake screwed millions.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[510: Thinking in Decades]]></title>
-        <id>89d0b705-ebd5-46d2-bba4-70a71e0feec3</id>
-        <link href="https://linuxunplugged.com/510"/>
-        <updated>2023-05-14T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The push for free software takes years, maybe even generations. Brent gets the inside story from the Free Software Foundation Europe. Special Guest: Matthias Kirschner.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
