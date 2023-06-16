@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-15T00:02:24.683Z</updated>
+    <updated>2023-06-16T00:02:12.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 297]]></title>
+        <id>b1cc2e84-114d-4f15-9a00-732f18a11bb9</id>
+        <link href="https://linuxactionnews.com/297"/>
+        <updated>2023-06-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What we really like in Debian 12, the big players backing RISC-V, and the improvements in NextCloud Hub 5.
+Note: Linux Action News will be off next week.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[522: Reddit Goes Dark]]></title>
         <id>4557e0e1-c778-4ad9-9486-61648f26dc39</id>
@@ -122,16 +133,6 @@
         <link href="https://linuxactionnews.com/293"/>
         <updated>2023-05-18T13:45:00.000Z</updated>
         <summary type="html"><![CDATA[Bcachefs hits a major milestone, how the Red Hat cuts impact Fedora, Plasma 6 plans, and the software update bricking EV batteries.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[518: Driving Mr. Dominick]]></title>
-        <id>bd667c8f-4a53-4edd-9991-844edbe94ade</id>
-        <link href="https://coder.show/518"/>
-        <updated>2023-05-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We laugh at Google's scramble, check in on the Twitter collapse, and how one developer's little mistake screwed millions.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
