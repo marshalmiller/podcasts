@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-17T00:02:41.717Z</updated>
+    <updated>2023-06-18T00:02:36.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -123,16 +123,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://linuxunplugged.com/511"/>
         <updated>2023-05-22T03:15:00.000Z</updated>
         <summary type="html"><![CDATA[How we found peace with the Linux community’s perpetual debates; and our tricks for finding the signal from the noise.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 293]]></title>
-        <id>62f33521-7fbf-486a-91fd-120b9b19398b</id>
-        <link href="https://linuxactionnews.com/293"/>
-        <updated>2023-05-18T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Bcachefs hits a major milestone, how the Red Hat cuts impact Fedora, Plasma 6 plans, and the software update bricking EV batteries.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

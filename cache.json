@@ -76,24 +76,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "62f33521-7fbf-486a-91fd-120b9b19398b",
-          "author": "Jupiter Broadcasting",
-          "description": "Bcachefs hits a major milestone, how the Red Hat cuts impact Fedora, Plasma 6 plans, and the software update bricking EV batteries.",
-          "link": "https://linuxactionnews.com/293",
-          "publishedOn": "2023-05-18T13:45:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 293",
-          "itunes": {
-            "duration": "12:32"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/62f33521-7fbf-486a-91fd-120b9b19398b.mp3",
-            "length": "10533533",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
