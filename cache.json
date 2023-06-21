@@ -155,24 +155,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "684c5ff8-088f-499e-886a-50dc94731934",
-          "author": "Jupiter Broadcasting",
-          "description": "How we found peace with the Linux community’s perpetual debates; and our tricks for finding the signal from the noise.",
-          "link": "https://linuxunplugged.com/511",
-          "publishedOn": "2023-05-22T03:15:00.000Z",
-          "wordCount": null,
-          "title": "511: Accepting the Future",
-          "itunes": {
-            "duration": "1:10:45"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/684c5ff8-088f-499e-886a-50dc94731934.mp3",
-            "length": "59443797",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
