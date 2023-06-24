@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-23T00:02:40.861Z</updated>
+    <updated>2023-06-24T00:02:48.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -113,16 +113,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://linuxunplugged.com/512"/>
         <updated>2023-05-29T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[We take a "Rust-only tools" challenge for a week and admit what worked, and what sucked. Plus, a surprise guest.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 294]]></title>
-        <id>e917ee57-3c60-484a-8951-a260f1875db0</id>
-        <link href="https://linuxactionnews.com/294"/>
-        <updated>2023-05-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's new Linux server distro, Red Hat Summit 2023 highlights, big changes at CodeWeavers, and Podman catches up to Docker Desktop.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
