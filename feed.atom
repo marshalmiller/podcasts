@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-26T00:02:42.177Z</updated>
+    <updated>2023-06-27T00:02:40.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[516: The Fixer-Upper]]></title>
+        <id>0120f9a1-0f24-430b-ba74-84fd7b185b5b</id>
+        <link href="https://linuxunplugged.com/516"/>
+        <updated>2023-06-26T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris tears into two old PCs, and builds a surprisingly powerful multi-monitor Wayland workstation.
+Plus, Wes has a new device, and Brent wants answers.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[523: Scooby-Doo of Code Hiding]]></title>
         <id>62cea496-fb86-4cd3-bac7-996958c3fa1b</id>
