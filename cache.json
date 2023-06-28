@@ -137,24 +137,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "38317c5e-8541-447c-9bdb-bdb64923deea",
-          "author": "Jupiter Broadcasting",
-          "description": "We take a \"Rust-only tools\" challenge for a week and admit what worked, and what sucked. Plus, a surprise guest.",
-          "link": "https://linuxunplugged.com/512",
-          "publishedOn": "2023-05-29T03:00:00.000Z",
-          "wordCount": null,
-          "title": "512: The Sound of Rust",
-          "itunes": {
-            "duration": "1:13:58"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/38317c5e-8541-447c-9bdb-bdb64923deea.mp3",
-            "length": "62145694",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
