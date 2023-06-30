@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-29T00:02:42.137Z</updated>
+    <updated>2023-06-30T00:02:44.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 298]]></title>
+        <id>8a2bba4e-6ee7-46e7-980a-36747c6cef3e</id>
+        <link href="https://linuxactionnews.com/298"/>
+        <updated>2023-06-29T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Why everyone is excited about the next Linux kernel, Valve's big hire, and Red Hat's clone war.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[524: Apple's Blurry Vision]]></title>
         <id>a618609c-5def-4671-a202-cebb29b4b751</id>
@@ -114,16 +124,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://linuxactionnews.com/295"/>
         <updated>2023-06-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[How the recent XFS bug was squashed, insights into why Microsoft built their own Linux from scratch, and recent attacks on Archive.org.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[520: Microsoft Goes All-In]]></title>
-        <id>5353aa90-c034-4ed3-8474-bedfc86cb999</id>
-        <link href="https://coder.show/520"/>
-        <updated>2023-05-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We chew on the best bits from this year's Microsoft Build and the bright red flag coming from the Rust community.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
