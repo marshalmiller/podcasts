@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-06-30T00:02:44.674Z</updated>
+    <updated>2023-07-01T00:02:37.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -114,16 +114,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://linuxunplugged.com/513"/>
         <updated>2023-06-05T03:30:00.000Z</updated>
         <summary type="html"><![CDATA[We attempt to swap Linux distributions live on our production server, to prove that new tooling makes the Linux distro model obsolete.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 295]]></title>
-        <id>d4137662-24d6-49da-af22-e93c4d504352</id>
-        <link href="https://linuxactionnews.com/295"/>
-        <updated>2023-06-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How the recent XFS bug was squashed, insights into why Microsoft built their own Linux from scratch, and recent attacks on Archive.org.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

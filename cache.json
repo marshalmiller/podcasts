@@ -58,24 +58,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "d4137662-24d6-49da-af22-e93c4d504352",
-          "author": "Jupiter Broadcasting",
-          "description": "How the recent XFS bug was squashed, insights into why Microsoft built their own Linux from scratch, and recent attacks on Archive.org.",
-          "link": "https://linuxactionnews.com/295",
-          "publishedOn": "2023-06-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 295",
-          "itunes": {
-            "duration": "10:52"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/d4137662-24d6-49da-af22-e93c4d504352.mp3",
-            "length": "9140527",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
