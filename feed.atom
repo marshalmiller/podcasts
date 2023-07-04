@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-03T00:02:43.646Z</updated>
+    <updated>2023-07-04T00:02:39.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[517: Caught Red-Hatted]]></title>
+        <id>b847af35-ad5c-4ed0-a0de-b602bded9c16</id>
+        <link href="https://linuxunplugged.com/517"/>
+        <updated>2023-07-03T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Just about every take on the Red Hat news seems to have missed the mark. Special Guest: Carl George.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Action News 298]]></title>
         <id>8a2bba4e-6ee7-46e7-980a-36747c6cef3e</id>
