@@ -137,24 +137,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "5773516d-88a4-4eb6-95b4-d4e4ebb3bcfa",
-          "author": "Jupiter Broadcasting",
-          "description": "We attempt to swap Linux distributions live on our production server, to prove that new tooling makes the Linux distro model obsolete.",
-          "link": "https://linuxunplugged.com/513",
-          "publishedOn": "2023-06-05T03:30:00.000Z",
-          "wordCount": null,
-          "title": "513: There Is No Distro",
-          "itunes": {
-            "duration": "1:01:30"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5773516d-88a4-4eb6-95b4-d4e4ebb3bcfa.mp3",
-            "length": "51664322",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

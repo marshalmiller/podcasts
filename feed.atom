@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-04T00:02:39.859Z</updated>
+    <updated>2023-07-05T00:02:56.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -114,16 +114,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://coder.show/521"/>
         <updated>2023-06-07T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[We argue over what sucked the most at WWDC this year and then surprise each other with two things that thrill us.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[513: There Is No Distro]]></title>
-        <id>5773516d-88a4-4eb6-95b4-d4e4ebb3bcfa</id>
-        <link href="https://linuxunplugged.com/513"/>
-        <updated>2023-06-05T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[We attempt to swap Linux distributions live on our production server, to prove that new tooling makes the Linux distro model obsolete.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
