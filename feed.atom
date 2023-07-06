@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-05T00:02:56.407Z</updated>
+    <updated>2023-07-06T00:02:41.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[525: Mike Gets Unreal]]></title>
+        <id>a7938610-41ba-49d6-9665-74b3a2059dd8</id>
+        <link href="https://coder.show/525"/>
+        <updated>2023-07-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mike updates us on his development adventures in Unreal 5, signs the Vision Pro might be a flop, and answer questions about abandoning Red Hat's platform.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[517: Caught Red-Hatted]]></title>
         <id>b847af35-ad5c-4ed0-a0de-b602bded9c16</id>
