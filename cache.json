@@ -6,6 +6,24 @@
       "siteUrl": "https://linuxactionnews.com",
       "articles": [
         {
+          "id": "270cad96-f51a-4143-9b0c-37083bd03e12",
+          "author": "Jupiter Broadcasting",
+          "description": "Recent advances in embedded Linux, Canonical takes full control of LXD, ZFS gets a handy Btrfs feature, and updates on the show's production.",
+          "link": "https://linuxactionnews.com/299",
+          "publishedOn": "2023-07-06T17:30:00.000Z",
+          "wordCount": null,
+          "title": "Linux Action News 299",
+          "itunes": {
+            "duration": "13:13"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/270cad96-f51a-4143-9b0c-37083bd03e12.mp3",
+            "length": "11109167",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8a2bba4e-6ee7-46e7-980a-36747c6cef3e",
           "author": "Jupiter Broadcasting",
           "description": "Why everyone is excited about the next Linux kernel, Valve's big hire, and Red Hat's clone war.",
@@ -213,24 +231,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/4557e0e1-c778-4ad9-9486-61648f26dc39.mp3",
             "length": "48346562",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "691ea057-d65d-429d-ac04-7d9fa6b4c0e3",
-          "author": "Jupiter Broadcasting",
-          "description": "We argue over what sucked the most at WWDC this year and then surprise each other with two things that thrill us.",
-          "link": "https://coder.show/521",
-          "publishedOn": "2023-06-07T10:00:00.000Z",
-          "wordCount": null,
-          "title": "521: More Pro, More Problems",
-          "itunes": {
-            "duration": "1:02:34"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/691ea057-d65d-429d-ac04-7d9fa6b4c0e3.mp3",
-            "length": "52559957",
             "type": "audio/mp3"
           },
           "imageUrl": null

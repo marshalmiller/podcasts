@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-06T00:02:41.669Z</updated>
+    <updated>2023-07-07T00:02:49.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Action News 299]]></title>
+        <id>270cad96-f51a-4143-9b0c-37083bd03e12</id>
+        <link href="https://linuxactionnews.com/299"/>
+        <updated>2023-07-06T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recent advances in embedded Linux, Canonical takes full control of LXD, ZFS gets a handy Btrfs feature, and updates on the show's production.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[525: Mike Gets Unreal]]></title>
         <id>a7938610-41ba-49d6-9665-74b3a2059dd8</id>
@@ -114,16 +124,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://linuxactionnews.com/296"/>
         <updated>2023-06-08T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ubuntu gets serious about the immutable desktop, red flags from Red Hat, and the little tricks Apple used to patch Wine.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[521: More Pro, More Problems]]></title>
-        <id>691ea057-d65d-429d-ac04-7d9fa6b4c0e3</id>
-        <link href="https://coder.show/521"/>
-        <updated>2023-06-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We argue over what sucked the most at WWDC this year and then surprise each other with two things that thrill us.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
