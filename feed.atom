@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-07T00:02:49.710Z</updated>
+    <updated>2023-07-08T00:02:33.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -114,16 +114,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://linuxunplugged.com/514"/>
         <updated>2023-06-12T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[We get the inside scoop on SouthEast LinuxFest, and share a few stories from the early days of the Linux community. Special Guest: Noah Chelliah.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 296]]></title>
-        <id>ad451f96-3b1c-423f-a406-1180c475dc1e</id>
-        <link href="https://linuxactionnews.com/296"/>
-        <updated>2023-06-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu gets serious about the immutable desktop, red flags from Red Hat, and the little tricks Apple used to patch Wine.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

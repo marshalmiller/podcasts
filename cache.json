@@ -58,24 +58,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "ad451f96-3b1c-423f-a406-1180c475dc1e",
-          "author": "Jupiter Broadcasting",
-          "description": "Ubuntu gets serious about the immutable desktop, red flags from Red Hat, and the little tricks Apple used to patch Wine.",
-          "link": "https://linuxactionnews.com/296",
-          "publishedOn": "2023-06-08T12:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 296",
-          "itunes": {
-            "duration": "15:58"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/ad451f96-3b1c-423f-a406-1180c475dc1e.mp3",
-            "length": "13420481",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
