@@ -67,6 +67,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "d3922dbc-ffc8-4cf5-80fe-38511abd3184",
+          "author": "Jupiter Broadcasting",
+          "description": "Can Ubuntu make a great immutable desktop? We're trying the brand-new \"Everything is a Snap\" Ubuntu Core Desktop.",
+          "link": "https://linuxunplugged.com/518",
+          "publishedOn": "2023-07-10T01:30:00.000Z",
+          "wordCount": null,
+          "title": "518: Race To Immutability",
+          "itunes": {
+            "duration": "1:02:26"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d3922dbc-ffc8-4cf5-80fe-38511abd3184.mp3",
+            "length": "52448048",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b847af35-ad5c-4ed0-a0de-b602bded9c16",
           "author": "Jupiter Broadcasting",
           "description": "Just about every take on the Red Hat news seems to have missed the mark. Special Guest: Carl George.",
