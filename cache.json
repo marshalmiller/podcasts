@@ -137,24 +137,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "077a4216-c47b-47ce-8632-9201e81b6f30",
-          "author": "Jupiter Broadcasting",
-          "description": "We get the inside scoop on SouthEast LinuxFest, and share a few stories from the early days of the Linux community. Special Guest: Noah Chelliah.",
-          "link": "https://linuxunplugged.com/514",
-          "publishedOn": "2023-06-12T03:00:00.000Z",
-          "wordCount": null,
-          "title": "514: Connection Established",
-          "itunes": {
-            "duration": "1:10:08"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/077a4216-c47b-47ce-8632-9201e81b6f30.mp3",
-            "length": "58916802",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

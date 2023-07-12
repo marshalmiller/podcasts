@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-11T00:02:35.602Z</updated>
+    <updated>2023-07-12T00:02:39.656Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -114,16 +114,6 @@ Note: Linux Action News will be off next week.]]></summary>
         <link href="https://coder.show/522"/>
         <updated>2023-06-14T10:30:00.000Z</updated>
         <summary type="html"><![CDATA[We chew on the ridiculous situation Reddit has created for itself and the weak position of app developers.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[514: Connection Established]]></title>
-        <id>077a4216-c47b-47ce-8632-9201e81b6f30</id>
-        <link href="https://linuxunplugged.com/514"/>
-        <updated>2023-06-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We get the inside scoop on SouthEast LinuxFest, and share a few stories from the early days of the Linux community. Special Guest: Noah Chelliah.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
