@@ -216,24 +216,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "4557e0e1-c778-4ad9-9486-61648f26dc39",
-          "author": "Jupiter Broadcasting",
-          "description": "We chew on the ridiculous situation Reddit has created for itself and the weak position of app developers.",
-          "link": "https://coder.show/522",
-          "publishedOn": "2023-06-14T10:30:00.000Z",
-          "wordCount": null,
-          "title": "522: Reddit Goes Dark",
-          "itunes": {
-            "duration": "57:33"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/4557e0e1-c778-4ad9-9486-61648f26dc39.mp3",
-            "length": "48346562",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
