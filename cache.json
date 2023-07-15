@@ -40,24 +40,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "b1cc2e84-114d-4f15-9a00-732f18a11bb9",
-          "author": "Jupiter Broadcasting",
-          "description": "What we really like in Debian 12, the big players backing RISC-V, and the improvements in NextCloud Hub 5.\nNote: Linux Action News will be off next week.",
-          "link": "https://linuxactionnews.com/297",
-          "publishedOn": "2023-06-15T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 297",
-          "itunes": {
-            "duration": "15:13"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/b1cc2e84-114d-4f15-9a00-732f18a11bb9.mp3",
-            "length": "12792550",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
