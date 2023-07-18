@@ -49,6 +49,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "eecdc671-ec5b-44a5-992f-346f2f2eb090",
+          "author": "Jupiter Broadcasting",
+          "description": "Have Oracle and SUSE lost their minds? Plus, we dig into Fedora's proposal to add telemetry collection to Workstation.",
+          "link": "https://linuxunplugged.com/519",
+          "publishedOn": "2023-07-17T03:00:00.000Z",
+          "wordCount": null,
+          "title": "519: The Clone Grift Wars",
+          "itunes": {
+            "duration": "1:25:54"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/eecdc671-ec5b-44a5-992f-346f2f2eb090.mp3",
+            "length": "72165900",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "d3922dbc-ffc8-4cf5-80fe-38511abd3184",
           "author": "Jupiter Broadcasting",
           "description": "Can Ubuntu make a great immutable desktop? We're trying the brand-new \"Everything is a Snap\" Ubuntu Core Desktop.",
