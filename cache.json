@@ -198,24 +198,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "62cea496-fb86-4cd3-bac7-996958c3fa1b",
-          "author": "Jupiter Broadcasting",
-          "description": "We open the robe and spend a little time chatting about the software development business.",
-          "link": "https://coder.show/523",
-          "publishedOn": "2023-06-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "523: Scooby-Doo of Code Hiding",
-          "itunes": {
-            "duration": "44:11"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/62cea496-fb86-4cd3-bac7-996958c3fa1b.mp3",
-            "length": "37123157",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }

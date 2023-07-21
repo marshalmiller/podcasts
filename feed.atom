@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-20T00:02:24.187Z</updated>
+    <updated>2023-07-21T00:02:22.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -103,16 +103,6 @@
         <updated>2023-06-26T01:15:00.000Z</updated>
         <summary type="html"><![CDATA[Chris tears into two old PCs, and builds a surprisingly powerful multi-monitor Wayland workstation.
 Plus, Wes has a new device, and Brent wants answers.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[523: Scooby-Doo of Code Hiding]]></title>
-        <id>62cea496-fb86-4cd3-bac7-996958c3fa1b</id>
-        <link href="https://coder.show/523"/>
-        <updated>2023-06-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We open the robe and spend a little time chatting about the software development business.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
