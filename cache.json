@@ -49,6 +49,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "934efe4c-9766-4c75-b842-158ad66eacf1",
+          "author": "Jupiter Broadcasting",
+          "description": "Do they build them better in Germany? We try out the next-generation InfinityBook Pro 14 and dig into TUXEDO OS.",
+          "link": "https://linuxunplugged.com/520",
+          "publishedOn": "2023-07-24T03:30:00.000Z",
+          "wordCount": null,
+          "title": "520: To Infinity and Berlin",
+          "itunes": {
+            "duration": "1:09:46"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/934efe4c-9766-4c75-b842-158ad66eacf1.mp3",
+            "length": "58616551",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "eecdc671-ec5b-44a5-992f-346f2f2eb090",
           "author": "Jupiter Broadcasting",
           "description": "Have Oracle and SUSE lost their minds? Plus, we dig into Fedora's proposal to add telemetry collection to Workstation.",
