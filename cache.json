@@ -119,24 +119,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "0120f9a1-0f24-430b-ba74-84fd7b185b5b",
-          "author": "Jupiter Broadcasting",
-          "description": "Chris tears into two old PCs, and builds a surprisingly powerful multi-monitor Wayland workstation.\nPlus, Wes has a new device, and Brent wants answers.",
-          "link": "https://linuxunplugged.com/516",
-          "publishedOn": "2023-06-26T01:15:00.000Z",
-          "wordCount": null,
-          "title": "516: The Fixer-Upper",
-          "itunes": {
-            "duration": "1:09:13"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/0120f9a1-0f24-430b-ba74-84fd7b185b5b.mp3",
-            "length": "58154288",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
