@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-07-26T00:02:22.365Z</updated>
+    <updated>2023-07-27T00:02:24.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[528: I'm a 1.2x Developer]]></title>
+        <id>e0c290d2-5bcd-4cbe-9cee-3347dd645086</id>
+        <link href="https://coder.show/528"/>
+        <updated>2023-07-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk trying to build the "everything app" is ridiculous, and the quiet little promise openAI just made with the White House.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[520: To Infinity and Berlin]]></title>
         <id>934efe4c-9766-4c75-b842-158ad66eacf1</id>
