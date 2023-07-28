@@ -198,24 +198,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a618609c-5def-4671-a202-cebb29b4b751",
-          "author": "Jupiter Broadcasting",
-          "description": "We got our eyes on the Vision Pro SDK and share our new insights. And why the claims of stalled Mastodon adoption might ring a bit true.",
-          "link": "https://coder.show/524",
-          "publishedOn": "2023-06-28T10:00:00.000Z",
-          "wordCount": null,
-          "title": "524: Apple's Blurry Vision",
-          "itunes": {
-            "duration": "52:45"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/a618609c-5def-4671-a202-cebb29b4b751.mp3",
-            "length": "44321145",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
