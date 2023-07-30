@@ -22,24 +22,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "8a2bba4e-6ee7-46e7-980a-36747c6cef3e",
-          "author": "Jupiter Broadcasting",
-          "description": "Why everyone is excited about the next Linux kernel, Valve's big hire, and Red Hat's clone war.",
-          "link": "https://linuxactionnews.com/298",
-          "publishedOn": "2023-06-29T17:15:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 298",
-          "itunes": {
-            "duration": "13:55"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/8a2bba4e-6ee7-46e7-980a-36747c6cef3e.mp3",
-            "length": "11703087",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
