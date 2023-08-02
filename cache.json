@@ -101,24 +101,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "b847af35-ad5c-4ed0-a0de-b602bded9c16",
-          "author": "Jupiter Broadcasting",
-          "description": "Just about every take on the Red Hat news seems to have missed the mark. Special Guest: Carl George.",
-          "link": "https://linuxunplugged.com/517",
-          "publishedOn": "2023-07-03T02:30:00.000Z",
-          "wordCount": null,
-          "title": "517: Caught Red-Hatted",
-          "itunes": {
-            "duration": "1:14:31"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b847af35-ad5c-4ed0-a0de-b602bded9c16.mp3",
-            "length": "63275068",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     },

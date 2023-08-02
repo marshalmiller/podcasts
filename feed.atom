@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-01T00:02:54.976Z</updated>
+    <updated>2023-08-02T00:02:26.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -92,16 +92,6 @@
         <link href="https://coder.show/525"/>
         <updated>2023-07-05T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mike updates us on his development adventures in Unreal 5, signs the Vision Pro might be a flop, and answer questions about abandoning Red Hat's platform.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[517: Caught Red-Hatted]]></title>
-        <id>b847af35-ad5c-4ed0-a0de-b602bded9c16</id>
-        <link href="https://linuxunplugged.com/517"/>
-        <updated>2023-07-03T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Just about every take on the Red Hat news seems to have missed the mark. Special Guest: Carl George.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
