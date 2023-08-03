@@ -110,6 +110,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "17c8be8f-1eee-44db-bdc7-322cd0610228",
+          "author": "Jupiter Broadcasting",
+          "description": "Microsoft's dirty old API games, the new, even more restrictive rules Apple developers will now have to follow, and why Google's \"Web Integrity API\" seems gross.",
+          "link": "https://coder.show/529",
+          "publishedOn": "2023-08-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "529: This API is Not for You",
+          "itunes": {
+            "duration": "39:35"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/17c8be8f-1eee-44db-bdc7-322cd0610228.mp3",
+            "length": "33252071",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "e0c290d2-5bcd-4cbe-9cee-3347dd645086",
           "author": "Jupiter Broadcasting",
           "description": "Elon Musk trying to build the \"everything app\" is ridiculous, and the quiet little promise openAI just made with the White House.",

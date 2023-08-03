@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-02T00:02:26.233Z</updated>
+    <updated>2023-08-03T00:02:46.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[529: This API is Not for You]]></title>
+        <id>17c8be8f-1eee-44db-bdc7-322cd0610228</id>
+        <link href="https://coder.show/529"/>
+        <updated>2023-08-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's dirty old API games, the new, even more restrictive rules Apple developers will now have to follow, and why Google's "Web Integrity API" seems gross.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[521: Rethinking GNOME]]></title>
         <id>78dc94ff-b9ce-45fc-8559-3df7e96245d2</id>
