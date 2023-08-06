@@ -4,26 +4,7 @@
       "title": "Linux Action News",
       "feedUrl": "https://feeds.fireside.fm/linuxactionnews/rss/",
       "siteUrl": "https://linuxactionnews.com",
-      "articles": [
-        {
-          "id": "270cad96-f51a-4143-9b0c-37083bd03e12",
-          "author": "Jupiter Broadcasting",
-          "description": "Recent advances in embedded Linux, Canonical takes full control of LXD, ZFS gets a handy Btrfs feature, and updates on the show's production.",
-          "link": "https://linuxactionnews.com/299",
-          "publishedOn": "2023-07-06T17:30:00.000Z",
-          "wordCount": null,
-          "title": "Linux Action News 299",
-          "itunes": {
-            "duration": "13:13"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/dec90738-e640-45e5-b375-4573052f4bf4/270cad96-f51a-4143-9b0c-37083bd03e12.mp3",
-            "length": "11109167",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "LINUX Unplugged",

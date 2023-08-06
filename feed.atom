@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-05T00:02:26.228Z</updated>
+    <updated>2023-08-06T00:02:41.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://linuxunplugged.com/518"/>
         <updated>2023-07-10T01:30:00.000Z</updated>
         <summary type="html"><![CDATA[Can Ubuntu make a great immutable desktop? We're trying the brand-new "Everything is a Snap" Ubuntu Core Desktop.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Action News 299]]></title>
-        <id>270cad96-f51a-4143-9b0c-37083bd03e12</id>
-        <link href="https://linuxactionnews.com/299"/>
-        <updated>2023-07-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Recent advances in embedded Linux, Canonical takes full control of LXD, ZFS gets a handy Btrfs feature, and updates on the show's production.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
