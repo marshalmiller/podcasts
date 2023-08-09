@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-08T00:02:35.141Z</updated>
+    <updated>2023-08-09T00:02:22.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/526"/>
         <updated>2023-07-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[openAI's window to build their moat is closing, but they have a powerful friend stepping up to help seal the deal. Plus, our reaction to Oracle's very spicy response to Red Hat.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[518: Race To Immutability]]></title>
-        <id>d3922dbc-ffc8-4cf5-80fe-38511abd3184</id>
-        <link href="https://linuxunplugged.com/518"/>
-        <updated>2023-07-10T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Can Ubuntu make a great immutable desktop? We're trying the brand-new "Everything is a Snap" Ubuntu Core Desktop.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
