@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-09T00:02:22.102Z</updated>
+    <updated>2023-08-10T00:02:29.049Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[530: What the AI Skeptics got Right]]></title>
+        <id>e2bbe786-e561-42a9-870d-35b564fc9189</id>
+        <link href="https://coder.show/530"/>
+        <updated>2023-08-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Did we get this one wrong? It seems consumer AI is eating the lunch of some web's biggest names.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[522: Practical Privacy]]></title>
         <id>a9747246-c271-43a4-8cc2-69fa163e37ae</id>
