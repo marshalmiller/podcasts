@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "2caba66a-7b65-4a9b-bd5e-77340d8e3cbb",
-          "author": "Jupiter Broadcasting",
-          "description": "openAI's window to build their moat is closing, but they have a powerful friend stepping up to help seal the deal. Plus, our reaction to Oracle's very spicy response to Red Hat.",
-          "link": "https://coder.show/526",
-          "publishedOn": "2023-07-12T10:00:00.000Z",
-          "wordCount": null,
-          "title": "526: The Closing Moment of Opportunity",
-          "itunes": {
-            "duration": "50:45"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/2caba66a-7b65-4a9b-bd5e-77340d8e3cbb.mp3",
-            "length": "42630814",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
