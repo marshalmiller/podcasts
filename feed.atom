@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-14T00:02:45.470Z</updated>
+    <updated>2023-08-15T00:02:35.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[523: Ride the Rhino]]></title>
+        <id>8d12e5ec-5817-4f0d-a449-66cb254a9185</id>
+        <link href="https://linuxunplugged.com/523"/>
+        <updated>2023-08-13T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're trying out Rhino Linux—a unique take on rolling Ubuntu with AUR-like powers and other surprises.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[530: What the AI Skeptics got Right]]></title>
         <id>e2bbe786-e561-42a9-870d-35b564fc9189</id>
