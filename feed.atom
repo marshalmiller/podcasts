@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-15T00:02:35.505Z</updated>
+    <updated>2023-08-16T00:02:35.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/527"/>
         <updated>2023-07-19T10:15:00.000Z</updated>
         <summary type="html"><![CDATA[Shopify has a mind-blowingly obvious solution to too many meetings, a recent failure Chris is struggling with, and more.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[519: The Clone Grift Wars]]></title>
-        <id>eecdc671-ec5b-44a5-992f-346f2f2eb090</id>
-        <link href="https://linuxunplugged.com/519"/>
-        <updated>2023-07-17T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have Oracle and SUSE lost their minds? Plus, we dig into Fedora's proposal to add telemetry collection to Workstation.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
