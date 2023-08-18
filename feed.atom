@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-17T00:02:41.388Z</updated>
+    <updated>2023-08-18T00:02:32.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://linuxunplugged.com/520"/>
         <updated>2023-07-24T03:30:00.000Z</updated>
         <summary type="html"><![CDATA[Do they build them better in Germany? We try out the next-generation InfinityBook Pro 14 and dig into TUXEDO OS.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[527: The Internet is for Stealing JPGs]]></title>
-        <id>bfc37cd8-6670-41ac-8b0e-5545d39d933b</id>
-        <link href="https://coder.show/527"/>
-        <updated>2023-07-19T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Shopify has a mind-blowingly obvious solution to too many meetings, a recent failure Chris is struggling with, and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
