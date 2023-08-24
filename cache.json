@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "53081b28-7923-4b78-85b9-892bfbe9b412",
+          "author": "Jupiter Broadcasting",
+          "description": "Mike hits the limits of ChatGPT's knowledge, a chat about editors and what we'd do for a living if it had to be outside of tech.",
+          "link": "https://coder.show/532",
+          "publishedOn": "2023-08-23T10:15:00.000Z",
+          "wordCount": null,
+          "title": "532: Take It to the Limit",
+          "itunes": {
+            "duration": "54:58"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/53081b28-7923-4b78-85b9-892bfbe9b412.mp3",
+            "length": "46183728",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5d7f6341-c132-4ed9-bae3-baf41767ac95",
           "author": "Jupiter Broadcasting",
           "description": "Java developers are getting the Oracle shakedown, openAI is running out of money, and more.",
