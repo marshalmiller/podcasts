@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "3b6e8589-19d1-4f16-893d-1dc3bce41ab1",
+          "author": "Jupiter Broadcasting",
+          "description": "We daily drive Asahi Linux on a MacBook, chat about how the team beat Apple to a major GPU milestone, and an easy way to self-host open-source ChatGPT alternatives. Special Guest: Neal Gompa.",
+          "link": "https://linuxunplugged.com/525",
+          "publishedOn": "2023-08-28T02:45:00.000Z",
+          "wordCount": null,
+          "title": "525: Beating Apple to the Sauce",
+          "itunes": {
+            "duration": "1:12:20"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3b6e8589-19d1-4f16-893d-1dc3bce41ab1.mp3",
+            "length": "60772071",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "301bf82e-5fde-47c9-8129-5fc5c6ef7fc4",
           "author": "Jupiter Broadcasting",
           "description": "Can we build an indestructible server that stands up to the test of giving out root login to the Internet?",
