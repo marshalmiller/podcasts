@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "ceb94e54-92fd-4951-9855-1874e4a60f42",
+          "author": "Jupiter Broadcasting",
+          "description": "U.S. officials are warning open-source software could be a cyber security threat. Their solution? Money. But do we want them picking the winners and losers of open source?\nPlus, Mike's thoughts after using Cursor AI and a Cornell study take generated code to the shed.",
+          "link": "https://coder.show/533",
+          "publishedOn": "2023-08-30T10:00:00.000Z",
+          "wordCount": null,
+          "title": "533: Critical Failure in Open Source",
+          "itunes": {
+            "duration": "54:42"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ceb94e54-92fd-4951-9855-1874e4a60f42.mp3",
+            "length": "45956254",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "53081b28-7923-4b78-85b9-892bfbe9b412",
           "author": "Jupiter Broadcasting",
           "description": "Mike hits the limits of ChatGPT's knowledge, a chat about editors and what we'd do for a living if it had to be outside of tech.",
