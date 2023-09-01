@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-08-31T00:02:38.579Z</updated>
+    <updated>2023-09-01T00:02:34.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus, Mike's thoughts after using Cursor AI and a Cornell study take generated c
         <link href="https://linuxunplugged.com/522"/>
         <updated>2023-08-07T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Why Linux reigns for privacy; our recommendations for secure tools from chat to DNS.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[529: This API is Not for You]]></title>
-        <id>17c8be8f-1eee-44db-bdc7-322cd0610228</id>
-        <link href="https://coder.show/529"/>
-        <updated>2023-08-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft's dirty old API games, the new, even more restrictive rules Apple developers will now have to follow, and why Google's "Web Integrity API" seems gross.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
