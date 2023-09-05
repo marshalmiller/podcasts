@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "6d4c3c19-058d-432b-8204-b6e87744fb01",
+          "author": "Jupiter Broadcasting",
+          "description": "While chaos is brewing in SUSE and Red Hat land, Canonical stays the course and doubles down on the Linux desktop. Plus, our thoughts on the kernel team GPL-blocking NVIDIA.",
+          "link": "https://linuxunplugged.com/526",
+          "publishedOn": "2023-09-04T01:15:00.000Z",
+          "wordCount": null,
+          "title": "526: Canonical Wins by Default",
+          "itunes": {
+            "duration": "49:20"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6d4c3c19-058d-432b-8204-b6e87744fb01.mp3",
+            "length": "41448460",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "3b6e8589-19d1-4f16-893d-1dc3bce41ab1",
           "author": "Jupiter Broadcasting",
           "description": "We daily drive Asahi Linux on a MacBook, chat about how the team beat Apple to a major GPU milestone, and an easy way to self-host open-source ChatGPT alternatives. Special Guest: Neal Gompa.",

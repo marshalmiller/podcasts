@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-04T00:02:39.534Z</updated>
+    <updated>2023-09-05T00:02:36.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[526: Canonical Wins by Default]]></title>
+        <id>6d4c3c19-058d-432b-8204-b6e87744fb01</id>
+        <link href="https://linuxunplugged.com/526"/>
+        <updated>2023-09-04T01:15:00.000Z</updated>
+        <summary type="html"><![CDATA[While chaos is brewing in SUSE and Red Hat land, Canonical stays the course and doubles down on the Linux desktop. Plus, our thoughts on the kernel team GPL-blocking NVIDIA.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[533: Critical Failure in Open Source]]></title>
         <id>ceb94e54-92fd-4951-9855-1874e4a60f42</id>
