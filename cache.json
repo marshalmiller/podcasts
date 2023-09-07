@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "37c50590-aeb4-4536-b4e2-29946f357d7a",
+          "author": "Jupiter Broadcasting",
+          "description": "Azure suffers a big outage, and Microsoft blames faulty automation; why we think there might be early signs of weak demand for Apple's Vision Pro and more.",
+          "link": "https://coder.show/534",
+          "publishedOn": "2023-09-06T10:00:00.000Z",
+          "wordCount": null,
+          "title": "534: Blame the Automation",
+          "itunes": {
+            "duration": "50:58"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/37c50590-aeb4-4536-b4e2-29946f357d7a.mp3",
+            "length": "42821717",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "ceb94e54-92fd-4951-9855-1874e4a60f42",
           "author": "Jupiter Broadcasting",
           "description": "U.S. officials are warning open-source software could be a cyber security threat. Their solution? Money. But do we want them picking the winners and losers of open source?\nPlus, Mike's thoughts after using Cursor AI and a Cornell study take generated code to the shed.",
@@ -140,24 +158,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5d7f6341-c132-4ed9-bae3-baf41767ac95.mp3",
             "length": "50627522",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "e2bbe786-e561-42a9-870d-35b564fc9189",
-          "author": "Jupiter Broadcasting",
-          "description": "Did we get this one wrong? It seems consumer AI is eating the lunch of some web's biggest names.",
-          "link": "https://coder.show/530",
-          "publishedOn": "2023-08-08T10:00:00.000Z",
-          "wordCount": null,
-          "title": "530: What the AI Skeptics got Right",
-          "itunes": {
-            "duration": "57:22"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/e2bbe786-e561-42a9-870d-35b564fc9189.mp3",
-            "length": "48196985",
             "type": "audio/mp3"
           },
           "imageUrl": null
