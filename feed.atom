@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-14T00:02:38.294Z</updated>
+    <updated>2023-09-15T00:02:35.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus, Mike's thoughts after using Cursor AI and a Cornell study take generated c
         <link href="https://linuxunplugged.com/524"/>
         <updated>2023-08-21T03:15:00.000Z</updated>
         <summary type="html"><![CDATA[Can we build an indestructible server that stands up to the test of giving out root login to the Internet?]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[531: C# as it Should Have Been]]></title>
-        <id>5d7f6341-c132-4ed9-bae3-baf41767ac95</id>
-        <link href="https://coder.show/531"/>
-        <updated>2023-08-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Java developers are getting the Oracle shakedown, openAI is running out of money, and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
