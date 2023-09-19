@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "1f21232f-b846-4d81-8112-b41284871fdd",
+          "author": "Jupiter Broadcasting",
+          "description": "Today's theme is data sovereignty, and we'll check in with two crucial projects that are giving you more options. Special Guest: Noah Chelliah.",
+          "link": "https://linuxunplugged.com/528",
+          "publishedOn": "2023-09-18T01:45:00.000Z",
+          "wordCount": null,
+          "title": "528: Where's Your Data?",
+          "itunes": {
+            "duration": "1:08:23"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/1f21232f-b846-4d81-8112-b41284871fdd.mp3",
+            "length": "58120682",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "51930101-323b-4f9c-88ad-1a11c9d545a7",
           "author": "Jupiter Broadcasting",
           "description": "Brent's new Framework laptop has been torn apart and put back together again. We'll find out if it's up to his standards. Plus, we're kicking off a new build.",
