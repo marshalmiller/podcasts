@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-21T00:02:33.736Z</updated>
+    <updated>2023-09-22T00:02:23.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus, Mike's thoughts after using Cursor AI and a Cornell study take generated c
         <link href="https://linuxunplugged.com/525"/>
         <updated>2023-08-28T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[We daily drive Asahi Linux on a MacBook, chat about how the team beat Apple to a major GPU milestone, and an easy way to self-host open-source ChatGPT alternatives. Special Guest: Neal Gompa.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[532: Take It to the Limit]]></title>
-        <id>53081b28-7923-4b78-85b9-892bfbe9b412</id>
-        <link href="https://coder.show/532"/>
-        <updated>2023-08-23T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Mike hits the limits of ChatGPT's knowledge, a chat about editors and what we'd do for a living if it had to be outside of tech.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
