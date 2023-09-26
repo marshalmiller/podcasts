@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-09-25T00:02:30.178Z</updated>
+    <updated>2023-09-26T00:02:36.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[529: Changing the Game]]></title>
+        <id>292f97db-6eec-4de7-9abd-c143885cec43</id>
+        <link href="https://linuxunplugged.com/529"/>
+        <updated>2023-09-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Even if you don't game, the data is in, and the impact of the Steam Deck on Linux is massive. We'll go into details and then share our long-term review of the Deck. Special Guests: Alex Kretzschmar and Listener Jeff.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[536: Grindr-in-Chief]]></title>
         <id>30d89575-77a6-4b41-b36b-bf2d6dc9ad71</id>
