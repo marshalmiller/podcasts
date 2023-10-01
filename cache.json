@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "5ffa4875-f65e-4ef2-a307-919a97d21c18",
+          "author": "Jupiter Broadcasting",
+          "description": "Our unique take on the Unity outrage, thoughts on RustRover, and Mike shares a very annoying mistake.",
+          "link": "https://coder.show/537",
+          "publishedOn": "2023-09-30T18:00:00.000Z",
+          "wordCount": null,
+          "title": "537: Unity Mutiny",
+          "itunes": {
+            "duration": "50:16"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5ffa4875-f65e-4ef2-a307-919a97d21c18.mp3",
+            "length": "42231088",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "30d89575-77a6-4b41-b36b-bf2d6dc9ad71",
           "author": "Jupiter Broadcasting",
           "description": "The painful side of making video games, Grinder's big problems, and Google's sneakiest trojan horse.",
