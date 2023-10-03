@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "06f035e4-3ba3-46b5-9914-2dbd042c7a11",
+          "author": "Jupiter Broadcasting",
+          "description": "Why the Raspberry Pi 5 doesn't meet our expectations, and the x86 boxes you should consider instead.",
+          "link": "https://linuxunplugged.com/530",
+          "publishedOn": "2023-10-02T02:45:00.000Z",
+          "wordCount": null,
+          "title": "530: Leave the Pi in the Oven",
+          "itunes": {
+            "duration": "1:08:26"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/06f035e4-3ba3-46b5-9914-2dbd042c7a11.mp3",
+            "length": "57493077",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "292f97db-6eec-4de7-9abd-c143885cec43",
           "author": "Jupiter Broadcasting",
           "description": "Even if you don't game, the data is in, and the impact of the Steam Deck on Linux is massive. We'll go into details and then share our long-term review of the Deck. Special Guests: Alex Kretzschmar and Listener Jeff.",
