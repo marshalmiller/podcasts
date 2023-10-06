@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-05T00:02:34.847Z</updated>
+    <updated>2023-10-06T00:02:39.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://linuxunplugged.com/527"/>
         <updated>2023-09-11T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[Brent's new Framework laptop has been torn apart and put back together again. We'll find out if it's up to his standards. Plus, we're kicking off a new build.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[534: Blame the Automation]]></title>
-        <id>37c50590-aeb4-4536-b4e2-29946f357d7a</id>
-        <link href="https://coder.show/534"/>
-        <updated>2023-09-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Azure suffers a big outage, and Microsoft blames faulty automation; why we think there might be early signs of weak demand for Apple's Vision Pro and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

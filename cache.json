@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "37c50590-aeb4-4536-b4e2-29946f357d7a",
-          "author": "Jupiter Broadcasting",
-          "description": "Azure suffers a big outage, and Microsoft blames faulty automation; why we think there might be early signs of weak demand for Apple's Vision Pro and more.",
-          "link": "https://coder.show/534",
-          "publishedOn": "2023-09-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "534: Blame the Automation",
-          "itunes": {
-            "duration": "50:58"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/37c50590-aeb4-4536-b4e2-29946f357d7a.mp3",
-            "length": "42821717",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
