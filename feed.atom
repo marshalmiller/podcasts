@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-09T00:02:38.017Z</updated>
+    <updated>2023-10-10T00:02:41.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[531: The Windows Challenge]]></title>
+        <id>c711bc7c-c271-44c9-86f5-3b7a37052654</id>
+        <link href="https://linuxunplugged.com/531"/>
+        <updated>2023-10-09T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We ran Windows for the week with three seemingly simple objectives. How we did, our take on what's gotten a lot better about Windows, and what still needs some work.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[538: You Never Forget Your First]]></title>
         <id>b5665466-cc56-4343-8c72-400cb3fd467f</id>

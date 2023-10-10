@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "c711bc7c-c271-44c9-86f5-3b7a37052654",
+          "author": "Jupiter Broadcasting",
+          "description": "We ran Windows for the week with three seemingly simple objectives. How we did, our take on what's gotten a lot better about Windows, and what still needs some work.",
+          "link": "https://linuxunplugged.com/531",
+          "publishedOn": "2023-10-09T02:30:00.000Z",
+          "wordCount": null,
+          "title": "531: The Windows Challenge",
+          "itunes": {
+            "duration": "1:37:17"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/c711bc7c-c271-44c9-86f5-3b7a37052654.mp3",
+            "length": "81720551",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "06f035e4-3ba3-46b5-9914-2dbd042c7a11",
           "author": "Jupiter Broadcasting",
           "description": "Why the Raspberry Pi 5 doesn't meet our expectations, and the x86 boxes you should consider instead.",
