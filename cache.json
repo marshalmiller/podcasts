@@ -82,24 +82,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "51930101-323b-4f9c-88ad-1a11c9d545a7",
-          "author": "Jupiter Broadcasting",
-          "description": "Brent's new Framework laptop has been torn apart and put back together again. We'll find out if it's up to his standards. Plus, we're kicking off a new build.",
-          "link": "https://linuxunplugged.com/527",
-          "publishedOn": "2023-09-11T01:45:00.000Z",
-          "wordCount": null,
-          "title": "527: Framing Brent",
-          "itunes": {
-            "duration": "1:14:20"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/51930101-323b-4f9c-88ad-1a11c9d545a7.mp3",
-            "length": "62453260",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

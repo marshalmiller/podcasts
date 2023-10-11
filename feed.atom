@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-10T00:02:41.518Z</updated>
+    <updated>2023-10-11T00:02:23.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/535"/>
         <updated>2023-09-13T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Did Apple's event live up to our expectations? And our thoughts on what new goodies for developers might be in the new hardware and software.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[527: Framing Brent]]></title>
-        <id>51930101-323b-4f9c-88ad-1a11c9d545a7</id>
-        <link href="https://linuxunplugged.com/527"/>
-        <updated>2023-09-11T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Brent's new Framework laptop has been torn apart and put back together again. We'll find out if it's up to his standards. Plus, we're kicking off a new build.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
