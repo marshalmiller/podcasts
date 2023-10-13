@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-12T00:02:33.784Z</updated>
+    <updated>2023-10-13T00:02:41.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[539: Mike Breaks the Build]]></title>
+        <id>0de08d34-b59e-4a2e-93e3-7e5fe01650ca</id>
+        <link href="https://coder.show/539"/>
+        <updated>2023-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mike checks in from the grind and shares some challenges in recent cross-platform testing; then, we get into the avalanche of negative AI press coverage this week and the one massive story they're not touching.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[531: The Windows Challenge]]></title>
         <id>c711bc7c-c271-44c9-86f5-3b7a37052654</id>
@@ -72,16 +82,6 @@
         <link href="https://linuxunplugged.com/528"/>
         <updated>2023-09-18T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[Today's theme is data sovereignty, and we'll check in with two crucial projects that are giving you more options. Special Guest: Noah Chelliah.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[535: Locally Sourced Carbon Neutral Consumer]]></title>
-        <id>15ee2aa2-f6f1-4ea7-a214-790cf0f85809</id>
-        <link href="https://coder.show/535"/>
-        <updated>2023-09-13T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Did Apple's event live up to our expectations? And our thoughts on what new goodies for developers might be in the new hardware and software.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
