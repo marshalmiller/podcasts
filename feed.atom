@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-17T00:02:46.712Z</updated>
+    <updated>2023-10-18T00:02:35.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/536"/>
         <updated>2023-09-20T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The painful side of making video games, Grinder's big problems, and Google's sneakiest trojan horse.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[528: Where's Your Data?]]></title>
-        <id>1f21232f-b846-4d81-8112-b41284871fdd</id>
-        <link href="https://linuxunplugged.com/528"/>
-        <updated>2023-09-18T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Today's theme is data sovereignty, and we'll check in with two crucial projects that are giving you more options. Special Guest: Noah Chelliah.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
