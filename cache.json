@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "e14dd85b-b43a-4ff8-b686-b8ccf5724006",
+          "author": "Jupiter Broadcasting",
+          "description": "We're about to see a wave of big tech AI features \"inspired\" by third-party developers at a scale that makes the Sherlocking on Apple's platform seem like chump change. Plus, how Dropbox turned around their dev retention rates, and more.",
+          "link": "https://coder.show/540",
+          "publishedOn": "2023-10-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "540: Sherlockin All Over the Place",
+          "itunes": {
+            "duration": "1:12:53"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/e14dd85b-b43a-4ff8-b686-b8ccf5724006.mp3",
+            "length": "61231042",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "0de08d34-b59e-4a2e-93e3-7e5fe01650ca",
           "author": "Jupiter Broadcasting",
           "description": "Mike checks in from the grind and shares some challenges in recent cross-platform testing; then, we get into the avalanche of negative AI press coverage this week and the one massive story they're not touching.",
