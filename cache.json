@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "30d89575-77a6-4b41-b36b-bf2d6dc9ad71",
-          "author": "Jupiter Broadcasting",
-          "description": "The painful side of making video games, Grinder's big problems, and Google's sneakiest trojan horse.",
-          "link": "https://coder.show/536",
-          "publishedOn": "2023-09-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "536: Grindr-in-Chief",
-          "itunes": {
-            "duration": "42:47"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/30d89575-77a6-4b41-b36b-bf2d6dc9ad71.mp3",
-            "length": "35949945",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
