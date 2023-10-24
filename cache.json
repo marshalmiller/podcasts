@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "fba5879a-72cc-44d8-8fa4-904b4a54ef98",
+          "author": "Jupiter Broadcasting",
+          "description": "We try and pull off one too many projects, but you can't argue with the results. We report on our week of rebuilds and rescues and having a blast at LinuxFest Northwest. Special Guest: Frank Karlitschek.",
+          "link": "https://linuxunplugged.com/533",
+          "publishedOn": "2023-10-23T06:15:00.000Z",
+          "wordCount": null,
+          "title": "533: LinuxFest North Jeff",
+          "itunes": {
+            "duration": "1:55:33"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/fba5879a-72cc-44d8-8fa4-904b4a54ef98.mp3",
+            "length": "97071774",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8369f415-ffa8-4e00-9d17-3a077684201a",
           "author": "Jupiter Broadcasting",
           "description": "Has Canonical finally nailed snaps? Why it looks like Ubuntu has turned a new corner; our thoughts on the latest release. Plus, a special guest and more.",
