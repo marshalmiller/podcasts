@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "292f97db-6eec-4de7-9abd-c143885cec43",
-          "author": "Jupiter Broadcasting",
-          "description": "Even if you don't game, the data is in, and the impact of the Steam Deck on Linux is massive. We'll go into details and then share our long-term review of the Deck. Special Guests: Alex Kretzschmar and Listener Jeff.",
-          "link": "https://linuxunplugged.com/529",
-          "publishedOn": "2023-09-25T03:00:00.000Z",
-          "wordCount": null,
-          "title": "529: Changing the Game",
-          "itunes": {
-            "duration": "1:12:43"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/292f97db-6eec-4de7-9abd-c143885cec43.mp3",
-            "length": "61082928",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
