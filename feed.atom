@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-10-31T00:02:33.483Z</updated>
+    <updated>2023-11-01T00:02:36.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/538"/>
         <updated>2023-10-04T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[How does your first major programming language/technology still shape your work and career? Then grab some popcorn and let's watch the next epic tech titan battle unfold.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[530: Leave the Pi in the Oven]]></title>
-        <id>06f035e4-3ba3-46b5-9914-2dbd042c7a11</id>
-        <link href="https://linuxunplugged.com/530"/>
-        <updated>2023-10-02T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Why the Raspberry Pi 5 doesn't meet our expectations, and the x86 boxes you should consider instead.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
