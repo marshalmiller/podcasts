@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "b5665466-cc56-4343-8c72-400cb3fd467f",
-          "author": "Jupiter Broadcasting",
-          "description": "How does your first major programming language/technology still shape your work and career? Then grab some popcorn and let's watch the next epic tech titan battle unfold.",
-          "link": "https://coder.show/538",
-          "publishedOn": "2023-10-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "538: You Never Forget Your First",
-          "itunes": {
-            "duration": "42:48"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/b5665466-cc56-4343-8c72-400cb3fd467f.mp3",
-            "length": "35959820",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
