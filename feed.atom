@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-09T00:02:31.437Z</updated>
+    <updated>2023-11-10T00:02:31.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -72,16 +72,6 @@
         <link href="https://linuxunplugged.com/532"/>
         <updated>2023-10-16T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Has Canonical finally nailed snaps? Why it looks like Ubuntu has turned a new corner; our thoughts on the latest release. Plus, a special guest and more.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[539: Mike Breaks the Build]]></title>
-        <id>0de08d34-b59e-4a2e-93e3-7e5fe01650ca</id>
-        <link href="https://coder.show/539"/>
-        <updated>2023-10-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mike checks in from the grind and shares some challenges in recent cross-platform testing; then, we get into the avalanche of negative AI press coverage this week and the one massive story they're not touching.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

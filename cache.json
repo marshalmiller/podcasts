@@ -143,24 +143,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "0de08d34-b59e-4a2e-93e3-7e5fe01650ca",
-          "author": "Jupiter Broadcasting",
-          "description": "Mike checks in from the grind and shares some challenges in recent cross-platform testing; then, we get into the avalanche of negative AI press coverage this week and the one massive story they're not touching.",
-          "link": "https://coder.show/539",
-          "publishedOn": "2023-10-11T10:00:00.000Z",
-          "wordCount": null,
-          "title": "539: Mike Breaks the Build",
-          "itunes": {
-            "duration": "56:59"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/0de08d34-b59e-4a2e-93e3-7e5fe01650ca.mp3",
-            "length": "47875157",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
