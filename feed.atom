@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-10T00:02:31.069Z</updated>
+    <updated>2023-11-11T00:02:35.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[535: Hit the Turbo]]></title>
+        <id>10930863-2a15-4a24-98c4-f132c710bc54</id>
+        <link href="https://linuxunplugged.com/535"/>
+        <updated>2023-11-10T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A special guest joins us, and we each give Fedora 39 a try. What’s new, what we liked, and what didn’t make the cut! Special Guest: Drew DeVore.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[543: For Your Safety]]></title>
         <id>f67e5b21-01dc-49d4-8194-0d94b06ec76b</id>

@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "10930863-2a15-4a24-98c4-f132c710bc54",
+          "author": "Jupiter Broadcasting",
+          "description": "A special guest joins us, and we each give Fedora 39 a try. What’s new, what we liked, and what didn’t make the cut! Special Guest: Drew DeVore.",
+          "link": "https://linuxunplugged.com/535",
+          "publishedOn": "2023-11-10T04:30:00.000Z",
+          "wordCount": null,
+          "title": "535: Hit the Turbo",
+          "itunes": {
+            "duration": "1:50:35"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/10930863-2a15-4a24-98c4-f132c710bc54.mp3",
+            "length": "92890928",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b25b50ce-8d83-4b3d-96a2-5b74005ed984",
           "author": "Jupiter Broadcasting",
           "description": "We did Proxmox dirty last week, so we try to explain our thinking. But first, a few things have gone down that you should know about.",
