@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "875cb013-cea4-481b-b5b5-b060249474af",
+          "author": "Jupiter Broadcasting",
+          "description": "The problem with GNOME's great news, plus our first look at Plasma 6. Then, the surprising place NixOS is getting adopted.",
+          "link": "https://linuxunplugged.com/536",
+          "publishedOn": "2023-11-13T02:00:00.000Z",
+          "wordCount": null,
+          "title": "536: Plasma Power-Ups",
+          "itunes": {
+            "duration": "1:07:41"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/875cb013-cea4-481b-b5b5-b060249474af.mp3",
+            "length": "56861122",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "10930863-2a15-4a24-98c4-f132c710bc54",
           "author": "Jupiter Broadcasting",
           "description": "A special guest joins us, and we each give Fedora 39 a try. What’s new, what we liked, and what didn’t make the cut! Special Guest: Drew DeVore.",
