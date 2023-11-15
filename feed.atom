@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-14T00:02:30.774Z</updated>
+    <updated>2023-11-15T00:02:36.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/540"/>
         <updated>2023-10-18T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[We're about to see a wave of big tech AI features "inspired" by third-party developers at a scale that makes the Sherlocking on Apple's platform seem like chump change. Plus, how Dropbox turned around their dev retention rates, and more.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[532: We Like Snaps Now]]></title>
-        <id>8369f415-ffa8-4e00-9d17-3a077684201a</id>
-        <link href="https://linuxunplugged.com/532"/>
-        <updated>2023-10-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Has Canonical finally nailed snaps? Why it looks like Ubuntu has turned a new corner; our thoughts on the latest release. Plus, a special guest and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
