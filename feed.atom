@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-16T00:02:32.832Z</updated>
+    <updated>2023-11-17T00:02:32.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <link href="https://linuxunplugged.com/533"/>
         <updated>2023-10-23T06:15:00.000Z</updated>
         <summary type="html"><![CDATA[We try and pull off one too many projects, but you can't argue with the results. We report on our week of rebuilds and rescues and having a blast at LinuxFest Northwest. Special Guest: Frank Karlitschek.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[540: Sherlockin All Over the Place]]></title>
-        <id>e14dd85b-b43a-4ff8-b686-b8ccf5724006</id>
-        <link href="https://coder.show/540"/>
-        <updated>2023-10-18T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're about to see a wave of big tech AI features "inspired" by third-party developers at a scale that makes the Sherlocking on Apple's platform seem like chump change. Plus, how Dropbox turned around their dev retention rates, and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
