@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-19T00:02:48.870Z</updated>
+    <updated>2023-11-20T00:02:38.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[537: This Makes Us Unemployable]]></title>
+        <id>41fc53db-2e86-49a3-9fb8-6ec1052537c2</id>
+        <link href="https://linuxunplugged.com/537"/>
+        <updated>2023-11-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can we save an old Arch install? We'll attempt a live rescue, then get into our tips for keeping your old Linux install running great.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[544: Microsoft Already Did It]]></title>
         <id>a41e293a-4138-45eb-980e-7719a9b78e07</id>
