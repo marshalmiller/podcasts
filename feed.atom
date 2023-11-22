@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-21T00:02:38.423Z</updated>
+    <updated>2023-11-22T00:02:42.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <link href="https://coder.show/541"/>
         <updated>2023-10-25T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Rumors of internal panic at Apple, and concerns about the future of RISC-V. Plus, the software update of the century.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[533: LinuxFest North Jeff]]></title>
-        <id>fba5879a-72cc-44d8-8fa4-904b4a54ef98</id>
-        <link href="https://linuxunplugged.com/533"/>
-        <updated>2023-10-23T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[We try and pull off one too many projects, but you can't argue with the results. We report on our week of rebuilds and rescues and having a blast at LinuxFest Northwest. Special Guest: Frank Karlitschek.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
