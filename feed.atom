@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-23T00:02:33.292Z</updated>
+    <updated>2023-11-24T00:02:32.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <link href="https://linuxunplugged.com/534"/>
         <updated>2023-10-30T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[We did Proxmox dirty last week, so we try to explain our thinking. But first, a few things have gone down that you should know about.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[541: Better Late than Never]]></title>
-        <id>656cfab5-e5dd-4243-b1fc-9bc0728438d1</id>
-        <link href="https://coder.show/541"/>
-        <updated>2023-10-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rumors of internal panic at Apple, and concerns about the future of RISC-V. Plus, the software update of the century.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "656cfab5-e5dd-4243-b1fc-9bc0728438d1",
-          "author": "Jupiter Broadcasting",
-          "description": "Rumors of internal panic at Apple, and concerns about the future of RISC-V. Plus, the software update of the century.",
-          "link": "https://coder.show/541",
-          "publishedOn": "2023-10-25T10:00:00.000Z",
-          "wordCount": null,
-          "title": "541: Better Late than Never",
-          "itunes": {
-            "duration": "46:18"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/656cfab5-e5dd-4243-b1fc-9bc0728438d1.mp3",
-            "length": "38905282",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
