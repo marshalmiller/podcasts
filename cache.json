@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "24a47150-5bc8-406c-94ae-2d45e271a397",
+          "author": "Jupiter Broadcasting",
+          "description": "PipeWire hits 1.0, and Wim Taymans joins us to reflect on the smooth success of PipeWire. Plus the details on the first NixCon North America, and more. Special Guests: Wim Taymans and Zach Mitchell.",
+          "link": "https://linuxunplugged.com/538",
+          "publishedOn": "2023-11-27T03:00:00.000Z",
+          "wordCount": null,
+          "title": "538: Surprisingly Smooth Transition",
+          "itunes": {
+            "duration": "1:06:06"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/24a47150-5bc8-406c-94ae-2d45e271a397.mp3",
+            "length": "55535774",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "41fc53db-2e86-49a3-9fb8-6ec1052537c2",
           "author": "Jupiter Broadcasting",
           "description": "Can we save an old Arch install? We'll attempt a live rescue, then get into our tips for keeping your old Linux install running great.",
