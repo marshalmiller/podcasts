@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "b25b50ce-8d83-4b3d-96a2-5b74005ed984",
-          "author": "Jupiter Broadcasting",
-          "description": "We did Proxmox dirty last week, so we try to explain our thinking. But first, a few things have gone down that you should know about.",
-          "link": "https://linuxunplugged.com/534",
-          "publishedOn": "2023-10-30T02:00:00.000Z",
-          "wordCount": null,
-          "title": "534: We Nixed Proxmox",
-          "itunes": {
-            "duration": "1:08:59"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b25b50ce-8d83-4b3d-96a2-5b74005ed984.mp3",
-            "length": "57949488",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
