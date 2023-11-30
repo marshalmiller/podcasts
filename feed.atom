@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-29T00:02:40.649Z</updated>
+    <updated>2023-11-30T00:02:29.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[546: A Very Tidy Excuse]]></title>
+        <id>5db5c5c2-b24c-4524-ba2b-1fa9da192ff4</id>
+        <link href="https://coder.show/546"/>
+        <updated>2023-11-29T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The messy details and tidy excuses we noticed in all this OpenAI upset, and some fundamental problems that have been plaguing desktop Linux for years.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[538: Surprisingly Smooth Transition]]></title>
         <id>24a47150-5bc8-406c-94ae-2d45e271a397</id>

@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "5db5c5c2-b24c-4524-ba2b-1fa9da192ff4",
+          "author": "Jupiter Broadcasting",
+          "description": "The messy details and tidy excuses we noticed in all this OpenAI upset, and some fundamental problems that have been plaguing desktop Linux for years.",
+          "link": "https://coder.show/546",
+          "publishedOn": "2023-11-29T11:00:00.000Z",
+          "wordCount": null,
+          "title": "546: A Very Tidy Excuse",
+          "itunes": {
+            "duration": "44:54"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5db5c5c2-b24c-4524-ba2b-1fa9da192ff4.mp3",
+            "length": "37725122",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b51989d0-d39b-41b8-8e3f-cb950ef8b5c5",
           "author": "Jupiter Broadcasting",
           "description": "OpenAI's weekend coup, plus our thoughts on Microsoft's gambit and their looming risk.",
