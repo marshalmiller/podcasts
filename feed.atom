@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-11-30T00:02:29.865Z</updated>
+    <updated>2023-12-01T00:02:43.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus, building a PC is rare; it's a solved problem. If AI tools excel as expecte
         <link href="https://coder.show/543"/>
         <updated>2023-11-08T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[New AI "regulation" from on high this week, a few signs you might be pissing in your own pond, and the game dev team that's been together for 40 years.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[542: Fresh Cut Fraud]]></title>
-        <id>30d90962-63a2-4e49-bf7d-25b03396a16e</id>
-        <link href="https://coder.show/542"/>
-        <updated>2023-11-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We've all made mistakes and tried to play dumb, but this week history is being made.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

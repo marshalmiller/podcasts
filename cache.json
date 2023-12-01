@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "30d90962-63a2-4e49-bf7d-25b03396a16e",
-          "author": "Jupiter Broadcasting",
-          "description": "We've all made mistakes and tried to play dumb, but this week history is being made.",
-          "link": "https://coder.show/542",
-          "publishedOn": "2023-11-01T10:00:00.000Z",
-          "wordCount": null,
-          "title": "542: Fresh Cut Fraud",
-          "itunes": {
-            "duration": "39:40"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/30d90962-63a2-4e49-bf7d-25b03396a16e.mp3",
-            "length": "33332162",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
