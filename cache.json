@@ -179,24 +179,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "f67e5b21-01dc-49d4-8194-0d94b06ec76b",
-          "author": "Jupiter Broadcasting",
-          "description": "New AI \"regulation\" from on high this week, a few signs you might be pissing in your own pond, and the game dev team that's been together for 40 years.",
-          "link": "https://coder.show/543",
-          "publishedOn": "2023-11-08T11:00:00.000Z",
-          "wordCount": null,
-          "title": "543: For Your Safety",
-          "itunes": {
-            "duration": "45:13"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/f67e5b21-01dc-49d4-8194-0d94b06ec76b.mp3",
-            "length": "37983682",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
