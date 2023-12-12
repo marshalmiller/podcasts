@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "56a10dce-2be8-433c-ad74-a2bb2442f3a9",
+          "author": "Jupiter Broadcasting",
+          "description": "We test two popular methods to run local language models on your Linux box. Then, we push the limits to see which language models will toe the line and which won't.",
+          "link": "https://linuxunplugged.com/540",
+          "publishedOn": "2023-12-11T04:30:00.000Z",
+          "wordCount": null,
+          "title": "540: Uncensored AI on Linux",
+          "itunes": {
+            "duration": "1:20:17"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/56a10dce-2be8-433c-ad74-a2bb2442f3a9.mp3",
+            "length": "67446722",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b1cac144-382e-4f3e-b708-7d2ffc8cafe3",
           "author": "Jupiter Broadcasting",
           "description": "This week, our embarrassment is your entertainment. Then, we check the age and health of all our disks with one app.",
