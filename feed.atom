@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-12T00:02:39.285Z</updated>
+    <updated>2023-12-13T00:02:28.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@
         <updated>2023-11-15T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Yet another thing Microsoft was early to, and still somehow missed the boat.
 Plus, building a PC is rare; it's a solved problem. If AI tools excel as expected, will coding face a similar fate?]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[536: Plasma Power-Ups]]></title>
-        <id>875cb013-cea4-481b-b5b5-b060249474af</id>
-        <link href="https://linuxunplugged.com/536"/>
-        <updated>2023-11-13T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The problem with GNOME's great news, plus our first look at Plasma 6. Then, the surprising place NixOS is getting adopted.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
