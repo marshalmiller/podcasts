@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-13T00:02:28.573Z</updated>
+    <updated>2023-12-14T00:02:34.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[548: Don't Fight the Music]]></title>
+        <id>de45a8f5-b71b-4ed7-b004-af29b579186e</id>
+        <link href="https://coder.show/548"/>
+        <updated>2023-12-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The fantastic opportunity Google is letting slip through its hands, and why Apple might win the consumer LLM race.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[540: Uncensored AI on Linux]]></title>
         <id>56a10dce-2be8-433c-ad74-a2bb2442f3a9</id>
