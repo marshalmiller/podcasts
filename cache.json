@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a41e293a-4138-45eb-980e-7719a9b78e07",
-          "author": "Jupiter Broadcasting",
-          "description": "Yet another thing Microsoft was early to, and still somehow missed the boat.\nPlus, building a PC is rare; it's a solved problem. If AI tools excel as expected, will coding face a similar fate?",
-          "link": "https://coder.show/544",
-          "publishedOn": "2023-11-15T11:00:00.000Z",
-          "wordCount": null,
-          "title": "544: Microsoft Already Did It",
-          "itunes": {
-            "duration": "40:39"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/a41e293a-4138-45eb-980e-7719a9b78e07.mp3",
-            "length": "34149168",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
