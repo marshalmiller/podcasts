@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-17T00:03:01.283Z</updated>
+    <updated>2023-12-18T00:02:44.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[541: Out with a Bang]]></title>
+        <id>15cd1316-a92c-43d2-936a-75072c2ea34f</id>
+        <link href="https://linuxunplugged.com/541"/>
+        <updated>2023-12-17T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The stories that kept us talking all year, and are only getting hotter!
+Plus the big flops we're still sore about. Special Guest: Kenji Berthold.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[548: Don't Fight the Music]]></title>
         <id>de45a8f5-b71b-4ed7-b004-af29b579186e</id>

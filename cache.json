@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "15cd1316-a92c-43d2-936a-75072c2ea34f",
+          "author": "Jupiter Broadcasting",
+          "description": "The stories that kept us talking all year, and are only getting hotter!\nPlus the big flops we're still sore about. Special Guest: Kenji Berthold.",
+          "link": "https://linuxunplugged.com/541",
+          "publishedOn": "2023-12-17T22:30:00.000Z",
+          "wordCount": null,
+          "title": "541: Out with a Bang",
+          "itunes": {
+            "duration": "1:16:18"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/15cd1316-a92c-43d2-936a-75072c2ea34f.mp3",
+            "length": "64096414",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "56a10dce-2be8-433c-ad74-a2bb2442f3a9",
           "author": "Jupiter Broadcasting",
           "description": "We test two popular methods to run local language models on your Linux box. Then, we push the limits to see which language models will toe the line and which won't.",
