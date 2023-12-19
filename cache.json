@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "41fc53db-2e86-49a3-9fb8-6ec1052537c2",
-          "author": "Jupiter Broadcasting",
-          "description": "Can we save an old Arch install? We'll attempt a live rescue, then get into our tips for keeping your old Linux install running great.",
-          "link": "https://linuxunplugged.com/537",
-          "publishedOn": "2023-11-19T11:00:00.000Z",
-          "wordCount": null,
-          "title": "537: This Makes Us Unemployable",
-          "itunes": {
-            "duration": "1:08:21"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/41fc53db-2e86-49a3-9fb8-6ec1052537c2.mp3",
-            "length": "57414448",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
