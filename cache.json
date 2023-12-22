@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "b51989d0-d39b-41b8-8e3f-cb950ef8b5c5",
-          "author": "Jupiter Broadcasting",
-          "description": "OpenAI's weekend coup, plus our thoughts on Microsoft's gambit and their looming risk.",
-          "link": "https://coder.show/545",
-          "publishedOn": "2023-11-22T11:00:00.000Z",
-          "wordCount": null,
-          "title": "545: Sam's Busy Weekend",
-          "itunes": {
-            "duration": "48:27"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/b51989d0-d39b-41b8-8e3f-cb950ef8b5c5.mp3",
-            "length": "40704231",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-21T00:02:29.385Z</updated>
+    <updated>2023-12-22T00:02:49.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus the big flops we're still sore about. Special Guest: Kenji Berthold.]]></su
         <link href="https://linuxunplugged.com/538"/>
         <updated>2023-11-27T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[PipeWire hits 1.0, and Wim Taymans joins us to reflect on the smooth success of PipeWire. Plus the details on the first NixCon North America, and more. Special Guests: Wim Taymans and Zach Mitchell.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[545: Sam's Busy Weekend]]></title>
-        <id>b51989d0-d39b-41b8-8e3f-cb950ef8b5c5</id>
-        <link href="https://coder.show/545"/>
-        <updated>2023-11-22T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI's weekend coup, plus our thoughts on Microsoft's gambit and their looming risk.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
