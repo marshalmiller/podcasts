@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-12-27T00:02:25.225Z</updated>
+    <updated>2023-12-28T00:02:42.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[550: Buff Uncle Jeff]]></title>
+        <id>d109b8f0-2f69-4815-8e63-66ef5f0d792b</id>
+        <link href="https://coder.show/550"/>
+        <updated>2023-12-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We reflect on how our work has changed over the last year and get some sage advice from buff Uncle Jeff.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[542: 2023 Tuxies]]></title>
         <id>926930ab-7c22-4035-b095-3af746847aa7</id>

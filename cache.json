@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "d109b8f0-2f69-4815-8e63-66ef5f0d792b",
+          "author": "Jupiter Broadcasting",
+          "description": "We reflect on how our work has changed over the last year and get some sage advice from buff Uncle Jeff.",
+          "link": "https://coder.show/550",
+          "publishedOn": "2023-12-27T11:00:00.000Z",
+          "wordCount": null,
+          "title": "550: Buff Uncle Jeff",
+          "itunes": {
+            "duration": "51:14"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/d109b8f0-2f69-4815-8e63-66ef5f0d792b.mp3",
+            "length": "43041145",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "68980179-05e1-4750-a34b-257ddc93135f",
           "author": "Jupiter Broadcasting",
           "description": "The clever way one developer hacked an online game,  why we're not buying the latest round of cyber war fear, and we finally have our Babylon 5 vs Star Trek debate.",
