@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "1096b371-18bb-430b-a868-cc6b6c06d061",
+          "author": "Jupiter Broadcasting",
+          "description": "Mike shares his adventures and process of coming from mobile app projects to working with Unreal Engine, and why he realized a laptop just wasn't going to cut it.",
+          "link": "https://coder.show/551",
+          "publishedOn": "2024-01-03T11:00:00.000Z",
+          "wordCount": null,
+          "title": "551: The Workstation Lifestyle",
+          "itunes": {
+            "duration": "44:59"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/1096b371-18bb-430b-a868-cc6b6c06d061.mp3",
+            "length": "37793877",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "d109b8f0-2f69-4815-8e63-66ef5f0d792b",
           "author": "Jupiter Broadcasting",
           "description": "We reflect on how our work has changed over the last year and get some sage advice from buff Uncle Jeff.",
