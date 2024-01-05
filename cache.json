@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "9f0778a4-be96-4b17-acff-86992cdc80d7",
-          "author": "Jupiter Broadcasting",
-          "description": "After years of resistance, Mike finally surrenders to Xcode. And the secret Apple envy leaked to the public this week.",
-          "link": "https://coder.show/547",
-          "publishedOn": "2023-12-06T11:00:00.000Z",
-          "wordCount": null,
-          "title": "547: The Slow and the Infuriating",
-          "itunes": {
-            "duration": "58:44"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/9f0778a4-be96-4b17-acff-86992cdc80d7.mp3",
-            "length": "49337282",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }

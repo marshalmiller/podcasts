@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-04T00:02:43.470Z</updated>
+    <updated>2024-01-05T00:02:35.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ Plus the big flops we're still sore about. Special Guest: Kenji Berthold.]]></su
         <link href="https://linuxunplugged.com/540"/>
         <updated>2023-12-11T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[We test two popular methods to run local language models on your Linux box. Then, we push the limits to see which language models will toe the line and which won't.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[547: The Slow and the Infuriating]]></title>
-        <id>9f0778a4-be96-4b17-acff-86992cdc80d7</id>
-        <link href="https://coder.show/547"/>
-        <updated>2023-12-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[After years of resistance, Mike finally surrenders to Xcode. And the secret Apple envy leaked to the public this week.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
