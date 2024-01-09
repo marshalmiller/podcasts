@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-08T00:02:36.149Z</updated>
+    <updated>2024-01-09T00:02:51.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[544: Half the Bits, Double the Pain]]></title>
+        <id>f34c0772-cedd-40bc-9fa7-0efba6da22f1</id>
+        <link href="https://linuxunplugged.com/544"/>
+        <updated>2024-01-08T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[This challenge gets ugly as we slowly realize we've just become zombie slayers. 
+We load Linux on three barely alive systems, and it takes a turn we didn't expect.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[551: The Workstation Lifestyle]]></title>
         <id>1096b371-18bb-430b-a868-cc6b6c06d061</id>

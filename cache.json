@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "f34c0772-cedd-40bc-9fa7-0efba6da22f1",
+          "author": "Jupiter Broadcasting",
+          "description": "This challenge gets ugly as we slowly realize we've just become zombie slayers. \nWe load Linux on three barely alive systems, and it takes a turn we didn't expect.",
+          "link": "https://linuxunplugged.com/544",
+          "publishedOn": "2024-01-08T04:45:00.000Z",
+          "wordCount": null,
+          "title": "544: Half the Bits, Double the Pain",
+          "itunes": {
+            "duration": "1:27:16"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/f34c0772-cedd-40bc-9fa7-0efba6da22f1.mp3",
+            "length": "73313511",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "e8d1a0e7-842f-442e-aedd-9909d23b74fe",
           "author": "Jupiter Broadcasting",
           "description": "We make our big Linux predictions for 2024, but first, we score how we did for 2023. Special Guest: Michael Tunnell.",
