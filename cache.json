@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "852e274f-9fcb-43ec-b721-a5442ce619ed",
+          "author": "Jupiter Broadcasting",
+          "description": "A prominent developer has brought the anti-trust heat against Apple to the public, kicking off a chain reaction that could have gone very wrong for Apple. Plus, why the Apple Vision Pro is destined for the Friend Zone.",
+          "link": "https://coder.show/552",
+          "publishedOn": "2024-01-10T11:00:00.000Z",
+          "wordCount": null,
+          "title": "552: iPad Friend Zone",
+          "itunes": {
+            "duration": "1:10:20"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/852e274f-9fcb-43ec-b721-a5442ce619ed.mp3",
+            "length": "59087591",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "1096b371-18bb-430b-a868-cc6b6c06d061",
           "author": "Jupiter Broadcasting",
           "description": "Mike shares his adventures and process of coming from mobile app projects to working with Unreal Engine, and why he realized a laptop just wasn't going to cut it.",
