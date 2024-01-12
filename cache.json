@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "de45a8f5-b71b-4ed7-b004-af29b579186e",
-          "author": "Jupiter Broadcasting",
-          "description": "The fantastic opportunity Google is letting slip through its hands, and why Apple might win the consumer LLM race.",
-          "link": "https://coder.show/548",
-          "publishedOn": "2023-12-13T11:00:00.000Z",
-          "wordCount": null,
-          "title": "548: Don't Fight the Music",
-          "itunes": {
-            "duration": "46:17"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/de45a8f5-b71b-4ed7-b004-af29b579186e.mp3",
-            "length": "38888825",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
