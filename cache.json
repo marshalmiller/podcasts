@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "68fe1969-ffa1-4b85-b085-6017edb3a588",
+          "author": "Jupiter Broadcasting",
+          "description": "Kent Overstreet, the creator of bcachefs, helps us understand where his new filesystem fits, what it's like to upstream a new filesystem, and how they've solved the RAID write hole. Special Guest: Kent Overstreet.",
+          "link": "https://linuxunplugged.com/545",
+          "publishedOn": "2024-01-15T02:45:00.000Z",
+          "wordCount": null,
+          "title": "545: 3,062 Days Later",
+          "itunes": {
+            "duration": "57:15"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/68fe1969-ffa1-4b85-b085-6017edb3a588.mp3",
+            "length": "48100071",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "f34c0772-cedd-40bc-9fa7-0efba6da22f1",
           "author": "Jupiter Broadcasting",
           "description": "This challenge gets ugly as we slowly realize we've just become zombie slayers. \nWe load Linux on three barely alive systems, and it takes a turn we didn't expect.",
