@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-17T00:02:33.103Z</updated>
+    <updated>2024-01-18T00:02:25.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[553: Fake AI Until You Make AI]]></title>
+        <id>c63611ef-920d-481c-893a-22c8dd7684fa</id>
+        <link href="https://coder.show/553"/>
+        <updated>2024-01-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They are building AI into toilets now; CES was a clown show. But we put our business hats on and find the bright side.
+Plus, Epic's major loss to Apple that just rolled in, and where we think the next fight will be, and how developers can get ahead of it.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[545: 3,062 Days Later]]></title>
         <id>68fe1969-ffa1-4b85-b085-6017edb3a588</id>
