@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-18T00:02:25.849Z</updated>
+    <updated>2024-01-19T00:02:38.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -84,16 +84,6 @@ We load Linux on three barely alive systems, and it takes a turn we didn't expec
         <link href="https://linuxunplugged.com/542"/>
         <updated>2023-12-24T20:00:00.000Z</updated>
         <summary type="html"><![CDATA[It’s the fourth annual Unplugged Tuxies; our community votes on the best projects, distros, and desktops of 2023.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[549: Hacking The Gathering]]></title>
-        <id>68980179-05e1-4750-a34b-257ddc93135f</id>
-        <link href="https://coder.show/549"/>
-        <updated>2023-12-20T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The clever way one developer hacked an online game,  why we're not buying the latest round of cyber war fear, and we finally have our Babylon 5 vs Star Trek debate.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

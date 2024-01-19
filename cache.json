@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "68980179-05e1-4750-a34b-257ddc93135f",
-          "author": "Jupiter Broadcasting",
-          "description": "The clever way one developer hacked an online game,  why we're not buying the latest round of cyber war fear, and we finally have our Babylon 5 vs Star Trek debate.",
-          "link": "https://coder.show/549",
-          "publishedOn": "2023-12-20T11:00:00.000Z",
-          "wordCount": null,
-          "title": "549: Hacking The Gathering",
-          "itunes": {
-            "duration": "57:17"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/68980179-05e1-4750-a34b-257ddc93135f.mp3",
-            "length": "48124940",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
