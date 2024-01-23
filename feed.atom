@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-22T00:03:03.677Z</updated>
+    <updated>2024-01-23T00:02:35.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[546: What You’re Missing about NixOS]]></title>
+        <id>1156ef47-5a4a-4c14-98ea-5d8a7459359f</id>
+        <link href="https://linuxunplugged.com/546"/>
+        <updated>2024-01-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trying NixOS can be fraught with complexity, half-completed guides, and boring videos. Even if you never plan to switch to NixOS, we invite you to come along for a hype-free ride that digs into one of the most rapidly developing areas of Linux.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[553: Fake AI Until You Make AI]]></title>
         <id>c63611ef-920d-481c-893a-22c8dd7684fa</id>
