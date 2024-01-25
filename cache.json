@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "231625e7-c0fa-4420-b541-ef1366715826",
+          "author": "Jupiter Broadcasting",
+          "description": "We knew they'd be petulant, but even our expectations were higher than this. We dig into how Apple dunked on devs after last week's show, yet another Microsoft hack, and more.",
+          "link": "https://coder.show/554",
+          "publishedOn": "2024-01-24T11:00:00.000Z",
+          "wordCount": null,
+          "title": "554: The App Store Addiction",
+          "itunes": {
+            "duration": "58:24"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/231625e7-c0fa-4420-b541-ef1366715826.mp3",
+            "length": "49061900",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "c63611ef-920d-481c-893a-22c8dd7684fa",
           "author": "Jupiter Broadcasting",
           "description": "They are building AI into toilets now; CES was a clown show. But we put our business hats on and find the bright side.\nPlus, Epic's major loss to Apple that just rolled in, and where we think the next fight will be, and how developers can get ahead of it.",
