@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-30T00:02:33.296Z</updated>
+    <updated>2024-01-31T00:02:27.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -84,16 +84,6 @@ We load Linux on three barely alive systems, and it takes a turn we didn't expec
         <link href="https://coder.show/551"/>
         <updated>2024-01-03T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mike shares his adventures and process of coming from mobile app projects to working with Unreal Engine, and why he realized a laptop just wasn't going to cut it.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[543: Profoundly Prophetic Prognostications]]></title>
-        <id>e8d1a0e7-842f-442e-aedd-9909d23b74fe</id>
-        <link href="https://linuxunplugged.com/543"/>
-        <updated>2023-12-31T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We make our big Linux predictions for 2024, but first, we score how we did for 2023. Special Guest: Michael Tunnell.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
