@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-31T00:02:27.779Z</updated>
+    <updated>2024-02-01T00:03:04.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[555: It's Good to be the King]]></title>
+        <id>577824b6-6a89-43ef-a530-fe7706d693b5</id>
+        <link href="https://coder.show/555"/>
+        <updated>2024-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you're going to come at the king, you better not miss; now it's Apple's turn to make everyone feel pain.
+And our spicy take on why AI saftey is really about stopping a movment.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[547: Behind the Shelves]]></title>
         <id>48c86d8a-b54d-4da0-9a05-c6f36c2a5723</id>
