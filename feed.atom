@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T00:02:32.229Z</updated>
+    <updated>2024-02-07T00:02:42.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -84,17 +84,6 @@ Plus, Epic's major loss to Apple that just rolled in, and where we think the nex
         <link href="https://coder.show/552"/>
         <updated>2024-01-10T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[A prominent developer has brought the anti-trust heat against Apple to the public, kicking off a chain reaction that could have gone very wrong for Apple. Plus, why the Apple Vision Pro is destined for the Friend Zone.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[544: Half the Bits, Double the Pain]]></title>
-        <id>f34c0772-cedd-40bc-9fa7-0efba6da22f1</id>
-        <link href="https://linuxunplugged.com/544"/>
-        <updated>2024-01-08T04:45:00.000Z</updated>
-        <summary type="html"><![CDATA[This challenge gets ugly as we slowly realize we've just become zombie slayers. 
-We load Linux on three barely alive systems, and it takes a turn we didn't expect.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
