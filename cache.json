@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "5ff04574-1ec5-446f-a3fb-be7353457611",
+          "author": "Jupiter Broadcasting",
+          "description": "Chris tries out Spatial Computing using a $3,200 trick, and Mike has a Rails treat you won't want to miss.",
+          "link": "https://coder.show/556",
+          "publishedOn": "2024-02-07T11:00:00.000Z",
+          "wordCount": null,
+          "title": "556: Facial Computing",
+          "itunes": {
+            "duration": "38:22"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5ff04574-1ec5-446f-a3fb-be7353457611.mp3",
+            "length": "32240871",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "577824b6-6a89-43ef-a530-fe7706d693b5",
           "author": "Jupiter Broadcasting",
           "description": "If you're going to come at the king, you better not miss; now it's Apple's turn to make everyone feel pain.\nAnd our spicy take on why AI saftey is really about stopping a movment.",
