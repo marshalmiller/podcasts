@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T00:02:19.610Z</updated>
+    <updated>2024-02-09T00:02:23.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -84,16 +84,6 @@ Plus, Epic's major loss to Apple that just rolled in, and where we think the nex
         <link href="https://linuxunplugged.com/545"/>
         <updated>2024-01-15T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[Kent Overstreet, the creator of bcachefs, helps us understand where his new filesystem fits, what it's like to upstream a new filesystem, and how they've solved the RAID write hole. Special Guest: Kent Overstreet.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[552: iPad Friend Zone]]></title>
-        <id>852e274f-9fcb-43ec-b721-a5442ce619ed</id>
-        <link href="https://coder.show/552"/>
-        <updated>2024-01-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A prominent developer has brought the anti-trust heat against Apple to the public, kicking off a chain reaction that could have gone very wrong for Apple. Plus, why the Apple Vision Pro is destined for the Friend Zone.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
