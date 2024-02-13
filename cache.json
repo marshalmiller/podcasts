@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "6585a113-8033-4fd2-9d6f-eea0f0df283b",
+          "author": "Jupiter Broadcasting",
+          "description": "Deploying Nextcloud the Nix way promises a paradise of reproducibility and simplicity. But is it just a painful trek through configuration hell? We built the dream Nextcloud using Nix and faced reality. Special Guest: Alex Kretzschmar.",
+          "link": "https://linuxunplugged.com/549",
+          "publishedOn": "2024-02-12T04:00:00.000Z",
+          "wordCount": null,
+          "title": "549: Will it Nixcloud?",
+          "itunes": {
+            "duration": "1:34:10"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6585a113-8033-4fd2-9d6f-eea0f0df283b.mp3",
+            "length": "79100940",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "2f06c2fd-8e59-41e2-ad1d-2dfa0d8a76a7",
           "author": "Jupiter Broadcasting",
           "description": "Some uncomfortable truths about using Linux, and then we introduce a new segment: Will it Nix?",
