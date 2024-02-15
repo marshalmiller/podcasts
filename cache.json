@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "9b461703-b757-4753-8b39-663e8406035c",
+          "author": "Jupiter Broadcasting",
+          "description": "Why we think Nvidia has become one of the most valuable companies in the world, Sam's new \"mind boggling\" idea, and more.",
+          "link": "https://coder.show/557",
+          "publishedOn": "2024-02-14T11:00:00.000Z",
+          "wordCount": null,
+          "title": "557: Betting it all on Green",
+          "itunes": {
+            "duration": "45:23"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/9b461703-b757-4753-8b39-663e8406035c.mp3",
+            "length": "38130334",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5ff04574-1ec5-446f-a3fb-be7353457611",
           "author": "Jupiter Broadcasting",
           "description": "Chris tries out Spatial Computing using a $3,200 trick, and Mike has a Rails treat you won't want to miss.",
