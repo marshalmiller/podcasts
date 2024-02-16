@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "c63611ef-920d-481c-893a-22c8dd7684fa",
-          "author": "Jupiter Broadcasting",
-          "description": "They are building AI into toilets now; CES was a clown show. But we put our business hats on and find the bright side.\nPlus, Epic's major loss to Apple that just rolled in, and where we think the next fight will be, and how developers can get ahead of it.",
-          "link": "https://coder.show/553",
-          "publishedOn": "2024-01-17T11:00:00.000Z",
-          "wordCount": null,
-          "title": "553: Fake AI Until You Make AI",
-          "itunes": {
-            "duration": "49:31"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/c63611ef-920d-481c-893a-22c8dd7684fa.mp3",
-            "length": "41607545",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
