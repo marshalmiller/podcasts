@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "ba90aa8f-4b11-4ec5-854e-8ea1e297b671",
+          "author": "Jupiter Broadcasting",
+          "description": "Chris spends the week in a VR desktop, revealing the glitches, gains, and VR's open-source future.",
+          "link": "https://linuxunplugged.com/550",
+          "publishedOn": "2024-02-19T03:30:00.000Z",
+          "wordCount": null,
+          "title": "550: Ready Player Linux",
+          "itunes": {
+            "duration": "1:14:00"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ba90aa8f-4b11-4ec5-854e-8ea1e297b671.mp3",
+            "length": "62161420",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6585a113-8033-4fd2-9d6f-eea0f0df283b",
           "author": "Jupiter Broadcasting",
           "description": "Deploying Nextcloud the Nix way promises a paradise of reproducibility and simplicity. But is it just a painful trek through configuration hell? We built the dream Nextcloud using Nix and faced reality. Special Guest: Alex Kretzschmar.",

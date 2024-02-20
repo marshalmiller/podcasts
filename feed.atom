@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-19T00:02:54.953Z</updated>
+    <updated>2024-02-20T00:02:36.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[550: Ready Player Linux]]></title>
+        <id>ba90aa8f-4b11-4ec5-854e-8ea1e297b671</id>
+        <link href="https://linuxunplugged.com/550"/>
+        <updated>2024-02-19T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Chris spends the week in a VR desktop, revealing the glitches, gains, and VR's open-source future.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[557: Betting it all on Green]]></title>
         <id>9b461703-b757-4753-8b39-663e8406035c</id>
