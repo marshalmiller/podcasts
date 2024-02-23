@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-22T00:02:27.633Z</updated>
+    <updated>2024-02-23T00:02:36.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -83,16 +83,6 @@ And our spicy take on why AI saftey is really about stopping a movment.]]></summ
         <link href="https://linuxunplugged.com/547"/>
         <updated>2024-01-28T20:00:00.000Z</updated>
         <summary type="html"><![CDATA[Data-hoard with purpose and manage your audiobooks and podcasts with one application, plus the lone Linux box that remains on Mars.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[554: The App Store Addiction]]></title>
-        <id>231625e7-c0fa-4420-b541-ef1366715826</id>
-        <link href="https://coder.show/554"/>
-        <updated>2024-01-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We knew they'd be petulant, but even our expectations were higher than this. We dig into how Apple dunked on devs after last week's show, yet another Microsoft hack, and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "231625e7-c0fa-4420-b541-ef1366715826",
-          "author": "Jupiter Broadcasting",
-          "description": "We knew they'd be petulant, but even our expectations were higher than this. We dig into how Apple dunked on devs after last week's show, yet another Microsoft hack, and more.",
-          "link": "https://coder.show/554",
-          "publishedOn": "2024-01-24T11:00:00.000Z",
-          "wordCount": null,
-          "title": "554: The App Store Addiction",
-          "itunes": {
-            "duration": "58:24"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/231625e7-c0fa-4420-b541-ef1366715826.mp3",
-            "length": "49061900",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
