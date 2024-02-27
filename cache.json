@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "64559ad4-c9c6-4511-acf8-b1424aab5aea",
+          "author": "Jupiter Broadcasting",
+          "description": "Corporate AI is a hot mess, but open-source alternatives can be open-ended chaos. We’ll test some of the best ways to get local AI tools under your control.",
+          "link": "https://linuxunplugged.com/551",
+          "publishedOn": "2024-02-26T03:00:00.000Z",
+          "wordCount": null,
+          "title": "551: AI Under Your Control",
+          "itunes": {
+            "duration": "1:04:24"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/64559ad4-c9c6-4511-acf8-b1424aab5aea.mp3",
+            "length": "54100711",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "ba90aa8f-4b11-4ec5-854e-8ea1e297b671",
           "author": "Jupiter Broadcasting",
           "description": "Chris spends the week in a VR desktop, revealing the glitches, gains, and VR's open-source future.",
