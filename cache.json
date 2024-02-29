@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "3acb3498-e3e4-4dbb-b407-ee39e691d20b",
+          "author": "Jupiter Broadcasting",
+          "description": "Why we're awe-struck by Google, and NVIDIA's CEO says no one needs to learn how to code anymore.",
+          "link": "https://coder.show/559",
+          "publishedOn": "2024-02-28T11:00:00.000Z",
+          "wordCount": null,
+          "title": "559: Double Botched",
+          "itunes": {
+            "duration": "55:23"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/3acb3498-e3e4-4dbb-b407-ee39e691d20b.mp3",
+            "length": "46532985",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "a9b77adb-be0a-49af-bf4d-1f3aa7c010aa",
           "author": "Jupiter Broadcasting",
           "description": "We embrace the dad bod lifestyle and find out if Apple's Vision Pro demo sold Mike, and Chris is picking up on what the Zuck is putting down.",

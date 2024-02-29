@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T00:02:46.349Z</updated>
+    <updated>2024-02-29T00:02:43.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[559: Double Botched]]></title>
+        <id>3acb3498-e3e4-4dbb-b407-ee39e691d20b</id>
+        <link href="https://coder.show/559"/>
+        <updated>2024-02-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why we're awe-struck by Google, and NVIDIA's CEO says no one needs to learn how to code anymore.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[551: AI Under Your Control]]></title>
         <id>64559ad4-c9c6-4511-acf8-b1424aab5aea</id>
