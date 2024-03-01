@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "577824b6-6a89-43ef-a530-fe7706d693b5",
-          "author": "Jupiter Broadcasting",
-          "description": "If you're going to come at the king, you better not miss; now it's Apple's turn to make everyone feel pain.\nAnd our spicy take on why AI saftey is really about stopping a movment.",
-          "link": "https://coder.show/555",
-          "publishedOn": "2024-01-31T11:00:00.000Z",
-          "wordCount": null,
-          "title": "555: It's Good to be the King",
-          "itunes": {
-            "duration": "57:23"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/577824b6-6a89-43ef-a530-fe7706d693b5.mp3",
-            "length": "48203202",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
