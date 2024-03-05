@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-04T00:02:44.389Z</updated>
+    <updated>2024-03-05T00:02:34.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[552: Plasma's Perfect Play]]></title>
+        <id>9f0f554a-ece6-401a-bac5-4b09ef67ffc3</id>
+        <link href="https://linuxunplugged.com/552"/>
+        <updated>2024-03-04T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Plasma 6 is out, and we've been giving it a go. What's new, our thoughts, and the lessons other desktops should learn.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[559: Double Botched]]></title>
         <id>3acb3498-e3e4-4dbb-b407-ee39e691d20b</id>

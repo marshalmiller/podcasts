@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "9f0f554a-ece6-401a-bac5-4b09ef67ffc3",
+          "author": "Jupiter Broadcasting",
+          "description": "Plasma 6 is out, and we've been giving it a go. What's new, our thoughts, and the lessons other desktops should learn.",
+          "link": "https://linuxunplugged.com/552",
+          "publishedOn": "2024-03-04T03:15:00.000Z",
+          "wordCount": null,
+          "title": "552: Plasma's Perfect Play",
+          "itunes": {
+            "duration": "1:18:51"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/9f0f554a-ece6-401a-bac5-4b09ef67ffc3.mp3",
+            "length": "66240597",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "64559ad4-c9c6-4511-acf8-b1424aab5aea",
           "author": "Jupiter Broadcasting",
           "description": "Corporate AI is a hot mess, but open-source alternatives can be open-ended chaos. We’ll test some of the best ways to get local AI tools under your control.",
