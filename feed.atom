@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-05T00:02:34.880Z</updated>
+    <updated>2024-03-06T00:02:40.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/556"/>
         <updated>2024-02-07T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Chris tries out Spatial Computing using a $3,200 trick, and Mike has a Rails treat you won't want to miss.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[548: Uncomfortable Linux Truths]]></title>
-        <id>2f06c2fd-8e59-41e2-ad1d-2dfa0d8a76a7</id>
-        <link href="https://linuxunplugged.com/548"/>
-        <updated>2024-02-05T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some uncomfortable truths about using Linux, and then we introduce a new segment: Will it Nix?]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
