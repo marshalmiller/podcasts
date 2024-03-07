@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "c51b8de9-055b-450d-96ff-226743f82caa",
+          "author": "Jupiter Broadcasting",
+          "description": "Apple is pissed, and we'll dig into why. Plus, there are some big hints at Apple's AI plans; Meta's had a rough morning, and Sergey Brin popped back up at Google and proceeded to blow it immediately.",
+          "link": "https://coder.show/560",
+          "publishedOn": "2024-03-06T11:00:00.000Z",
+          "wordCount": null,
+          "title": "560: Artificial Information",
+          "itunes": {
+            "duration": "50:57"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/c51b8de9-055b-450d-96ff-226743f82caa.mp3",
+            "length": "42809282",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "3acb3498-e3e4-4dbb-b407-ee39e691d20b",
           "author": "Jupiter Broadcasting",
           "description": "Why we're awe-struck by Google, and NVIDIA's CEO says no one needs to learn how to code anymore.",

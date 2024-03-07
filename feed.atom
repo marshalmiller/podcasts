@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-06T00:02:40.386Z</updated>
+    <updated>2024-03-07T00:02:16.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[560: Artificial Information]]></title>
+        <id>c51b8de9-055b-450d-96ff-226743f82caa</id>
+        <link href="https://coder.show/560"/>
+        <updated>2024-03-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple is pissed, and we'll dig into why. Plus, there are some big hints at Apple's AI plans; Meta's had a rough morning, and Sergey Brin popped back up at Google and proceeded to blow it immediately.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[552: Plasma's Perfect Play]]></title>
         <id>9f0f554a-ece6-401a-bac5-4b09ef67ffc3</id>
