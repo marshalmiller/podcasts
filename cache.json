@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "45cc9da0-1848-403b-bedd-d9aaba0e2863",
+          "author": "Jupiter Broadcasting",
+          "description": "We each bring surprise topics, a mix of hardware and software, as we prepare to hit the road for NixCon and SCaLE.",
+          "link": "https://linuxunplugged.com/553",
+          "publishedOn": "2024-03-11T03:15:00.000Z",
+          "wordCount": null,
+          "title": "553: Portably Predictable Productivity",
+          "itunes": {
+            "duration": "1:21:23"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/45cc9da0-1848-403b-bedd-d9aaba0e2863.mp3",
+            "length": "68362471",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "9f0f554a-ece6-401a-bac5-4b09ef67ffc3",
           "author": "Jupiter Broadcasting",
           "description": "Plasma 6 is out, and we've been giving it a go. What's new, our thoughts, and the lessons other desktops should learn.",
