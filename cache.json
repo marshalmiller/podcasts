@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "8391a6df-81e5-465f-abdd-0a0d21990599",
+          "author": "Jupiter Broadcasting",
+          "description": "NVIDIA locks CUDA down further, and we ponder what it might take to break their stranglehold on the market, Zuck's brilliant move that put an egg on his face, and we take a minute to appreciate new developments with Java.",
+          "link": "https://coder.show/561",
+          "publishedOn": "2024-03-13T10:00:00.000Z",
+          "wordCount": null,
+          "title": "561: No CUDA for You!",
+          "itunes": {
+            "duration": "23:50"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/8391a6df-81e5-465f-abdd-0a0d21990599.mp3",
+            "length": "20021625",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "c51b8de9-055b-450d-96ff-226743f82caa",
           "author": "Jupiter Broadcasting",
           "description": "Apple is pissed, and we'll dig into why. Plus, there are some big hints at Apple's AI plans; Meta's had a rough morning, and Sergey Brin popped back up at Google and proceeded to blow it immediately.",
