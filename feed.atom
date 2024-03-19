@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-18T00:03:14.973Z</updated>
+    <updated>2024-03-19T00:02:33.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[554: SCaLEing Nix]]></title>
+        <id>4367c38a-a954-4de1-a94d-e0d31558224d</id>
+        <link href="https://linuxunplugged.com/554"/>
+        <updated>2024-03-18T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[We're on the ground live at NixCon and SCaLE. We catch up with old friends, and discover how Nix is devouring the Linux world one function at a time.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[561: No CUDA for You!]]></title>
         <id>8391a6df-81e5-465f-abdd-0a0d21990599</id>

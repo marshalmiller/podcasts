@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "4367c38a-a954-4de1-a94d-e0d31558224d",
+          "author": "Jupiter Broadcasting",
+          "description": "We're on the ground live at NixCon and SCaLE. We catch up with old friends, and discover how Nix is devouring the Linux world one function at a time.",
+          "link": "https://linuxunplugged.com/554",
+          "publishedOn": "2024-03-18T03:15:00.000Z",
+          "wordCount": null,
+          "title": "554: SCaLEing Nix",
+          "itunes": {
+            "duration": "1:29:10"
+          },
+          "enclosure": {
+            "url": "https://chtbl.com/track/392D9/aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4367c38a-a954-4de1-a94d-e0d31558224d.mp3",
+            "length": "75586181",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "45cc9da0-1848-403b-bedd-d9aaba0e2863",
           "author": "Jupiter Broadcasting",
           "description": "We each bring surprise topics, a mix of hardware and software, as we prepare to hit the road for NixCon and SCaLE.",
