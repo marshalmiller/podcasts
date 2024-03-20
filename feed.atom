@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-19T00:02:33.725Z</updated>
+    <updated>2024-03-20T00:02:34.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/558"/>
         <updated>2024-02-21T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[We embrace the dad bod lifestyle and find out if Apple's Vision Pro demo sold Mike, and Chris is picking up on what the Zuck is putting down.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[550: Ready Player Linux]]></title>
-        <id>ba90aa8f-4b11-4ec5-854e-8ea1e297b671</id>
-        <link href="https://linuxunplugged.com/550"/>
-        <updated>2024-02-19T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Chris spends the week in a VR desktop, revealing the glitches, gains, and VR's open-source future.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
