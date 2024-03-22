@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-21T00:02:44.195Z</updated>
+    <updated>2024-03-22T00:02:37.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -72,16 +72,6 @@
         <link href="https://linuxunplugged.com/551"/>
         <updated>2024-02-26T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Corporate AI is a hot mess, but open-source alternatives can be open-ended chaos. We’ll test some of the best ways to get local AI tools under your control.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[558: Big Zuck Energy]]></title>
-        <id>a9b77adb-be0a-49af-bf4d-1f3aa7c010aa</id>
-        <link href="https://coder.show/558"/>
-        <updated>2024-02-21T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We embrace the dad bod lifestyle and find out if Apple's Vision Pro demo sold Mike, and Chris is picking up on what the Zuck is putting down.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

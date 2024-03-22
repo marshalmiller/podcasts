@@ -143,24 +143,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a9b77adb-be0a-49af-bf4d-1f3aa7c010aa",
-          "author": "Jupiter Broadcasting",
-          "description": "We embrace the dad bod lifestyle and find out if Apple's Vision Pro demo sold Mike, and Chris is picking up on what the Zuck is putting down.",
-          "link": "https://coder.show/558",
-          "publishedOn": "2024-02-21T11:00:00.000Z",
-          "wordCount": null,
-          "title": "558: Big Zuck Energy",
-          "itunes": {
-            "duration": "47:07"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/a9b77adb-be0a-49af-bf4d-1f3aa7c010aa.mp3",
-            "length": "39586608",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
