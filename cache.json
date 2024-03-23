@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "ee4daf26-f0ea-4c48-90e8-06765342e066",
+          "author": "Jupiter Broadcasting",
+          "description": "The antitrust gloves are off as Apple’s legal brawl with Uncle Sam kicks into high gear. We dig through the documents and are surprised by a few things that seem off.",
+          "link": "https://coder.show/562",
+          "publishedOn": "2024-03-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "562: Apple Loses It's Shine",
+          "itunes": {
+            "duration": "1:08:26"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ee4daf26-f0ea-4c48-90e8-06765342e066.mp3",
+            "length": "57486494",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8391a6df-81e5-465f-abdd-0a0d21990599",
           "author": "Jupiter Broadcasting",
           "description": "NVIDIA locks CUDA down further, and we ponder what it might take to break their stranglehold on the market, Zuck's brilliant move that put an egg on his face, and we take a minute to appreciate new developments with Java.",
