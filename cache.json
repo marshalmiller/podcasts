@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "820f4aa2-1cd0-4e8a-95e3-f53cb96ccc01",
+          "author": "Jupiter Broadcasting",
+          "description": "We test the Linux-first, all-AMD Sirius 16 laptop, discuss the new Hyprland release, and share a few stories from our recent trip.",
+          "link": "https://linuxunplugged.com/555",
+          "publishedOn": "2024-03-25T02:30:00.000Z",
+          "wordCount": null,
+          "title": "555: Glide like a Goose, Honk like a Moose",
+          "itunes": {
+            "duration": "1:15:41"
+          },
+          "enclosure": {
+            "url": "https://chtbl.com/track/392D9/aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/820f4aa2-1cd0-4e8a-95e3-f53cb96ccc01.mp3",
+            "length": "63579483",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "4367c38a-a954-4de1-a94d-e0d31558224d",
           "author": "Jupiter Broadcasting",
           "description": "We're on the ground live at NixCon and SCaLE. We catch up with old friends, and discover how Nix is devouring the Linux world one function at a time.",
