@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-26T00:02:36.790Z</updated>
+    <updated>2024-03-27T00:02:38.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://coder.show/559"/>
         <updated>2024-02-28T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Why we're awe-struck by Google, and NVIDIA's CEO says no one needs to learn how to code anymore.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[551: AI Under Your Control]]></title>
-        <id>64559ad4-c9c6-4511-acf8-b1424aab5aea</id>
-        <link href="https://linuxunplugged.com/551"/>
-        <updated>2024-02-26T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Corporate AI is a hot mess, but open-source alternatives can be open-ended chaos. We’ll test some of the best ways to get local AI tools under your control.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
