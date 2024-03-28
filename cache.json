@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "c669af7a-33d8-4516-97f8-6998a9def884",
+          "author": "Jupiter Broadcasting",
+          "description": "Mike makes the case for just going vanilla, a look at Google Carbon, and then we address the expensive elephant in the room.",
+          "link": "https://coder.show/563",
+          "publishedOn": "2024-03-27T10:00:00.000Z",
+          "wordCount": null,
+          "title": "563: Mike’s No Good Very Bad Rails Update",
+          "itunes": {
+            "duration": "57:16"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/c669af7a-33d8-4516-97f8-6998a9def884.mp3",
+            "length": "48112505",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "ee4daf26-f0ea-4c48-90e8-06765342e066",
           "author": "Jupiter Broadcasting",
           "description": "The antitrust gloves are off as Apple’s legal brawl with Uncle Sam kicks into high gear. We dig through the documents and are surprised by a few things that seem off.",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-27T00:02:38.678Z</updated>
+    <updated>2024-03-28T00:02:55.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[563: Mike’s No Good Very Bad Rails Update]]></title>
+        <id>c669af7a-33d8-4516-97f8-6998a9def884</id>
+        <link href="https://coder.show/563"/>
+        <updated>2024-03-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mike makes the case for just going vanilla, a look at Google Carbon, and then we address the expensive elephant in the room.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[555: Glide like a Goose, Honk like a Moose]]></title>
         <id>820f4aa2-1cd0-4e8a-95e3-f53cb96ccc01</id>
