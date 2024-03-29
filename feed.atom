@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-28T00:02:55.401Z</updated>
+    <updated>2024-03-29T00:02:41.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -82,16 +82,6 @@
         <link href="https://linuxunplugged.com/552"/>
         <updated>2024-03-04T03:15:00.000Z</updated>
         <summary type="html"><![CDATA[Plasma 6 is out, and we've been giving it a go. What's new, our thoughts, and the lessons other desktops should learn.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[559: Double Botched]]></title>
-        <id>3acb3498-e3e4-4dbb-b407-ee39e691d20b</id>
-        <link href="https://coder.show/559"/>
-        <updated>2024-02-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why we're awe-struck by Google, and NVIDIA's CEO says no one needs to learn how to code anymore.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
