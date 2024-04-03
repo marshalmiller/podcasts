@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-02T00:02:31.726Z</updated>
+    <updated>2024-04-03T00:02:53.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -101,16 +101,6 @@ NixOS Unstable D…]]></summary>
         <link href="https://coder.show/560"/>
         <updated>2024-03-06T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Apple is pissed, and we'll dig into why. Plus, there are some big hints at Apple's AI plans; Meta's had a rough morning, and Sergey Brin popped back up at Google and proceeded to blow it immediately.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[552: Plasma's Perfect Play]]></title>
-        <id>9f0f554a-ece6-401a-bac5-4b09ef67ffc3</id>
-        <link href="https://linuxunplugged.com/552"/>
-        <updated>2024-03-04T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Plasma 6 is out, and we've been giving it a go. What's new, our thoughts, and the lessons other desktops should learn.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
