@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "f3631694-5203-4c4e-8ca8-407916ddd058",
+          "author": "Jupiter Broadcasting",
+          "description": "Microsoft wins the foot-in-mouth award this week, and Google gets the Rust religion - but Mike is skeptical.",
+          "link": "https://coder.show/564",
+          "publishedOn": "2024-04-03T10:00:00.000Z",
+          "wordCount": null,
+          "title": "564: Re-Re-Rewrite it in Rust",
+          "itunes": {
+            "duration": "46:36"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/f3631694-5203-4c4e-8ca8-407916ddd058.mp3",
+            "length": "39157991",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "c669af7a-33d8-4516-97f8-6998a9def884",
           "author": "Jupiter Broadcasting",
           "description": "Mike makes the case for just going vanilla, a look at Google Carbon, and then we address the expensive elephant in the room.",

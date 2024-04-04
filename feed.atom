@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-03T00:02:53.124Z</updated>
+    <updated>2024-04-04T00:03:16.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[564: Re-Re-Rewrite it in Rust]]></title>
+        <id>f3631694-5203-4c4e-8ca8-407916ddd058</id>
+        <link href="https://coder.show/564"/>
+        <updated>2024-04-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft wins the foot-in-mouth award this week, and Google gets the Rust religion - but Mike is skeptical.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[556: The xz Backdoor Exposed 🚨]]></title>
         <id>5b666786-1220-4fe6-9d6f-b6ef537a3fe3</id>
