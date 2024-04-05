@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-04T00:03:16.333Z</updated>
+    <updated>2024-04-05T00:02:46.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -101,16 +101,6 @@ NixOS Unstable D…]]></summary>
         <link href="https://linuxunplugged.com/553"/>
         <updated>2024-03-11T03:15:00.000Z</updated>
         <summary type="html"><![CDATA[We each bring surprise topics, a mix of hardware and software, as we prepare to hit the road for NixCon and SCaLE.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[560: Artificial Information]]></title>
-        <id>c51b8de9-055b-450d-96ff-226743f82caa</id>
-        <link href="https://coder.show/560"/>
-        <updated>2024-03-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple is pissed, and we'll dig into why. Plus, there are some big hints at Apple's AI plans; Meta's had a rough morning, and Sergey Brin popped back up at Google and proceeded to blow it immediately.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
