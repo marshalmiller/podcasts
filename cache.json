@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "503da869-566b-4983-87d3-2073a1c085a3",
+          "author": "Jupiter Broadcasting",
+          "description": "We're building a completely hidden Linux OS inside an existing system—with no trace left behind.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike — The global money app for fast, safe payments and bitcoin. Get sats easy.\n📻 LINUX Unplugged on Fountain.FM — Grab the Fountain app and listen live, boost along, and more. \nShufflecake — Plausible deniability for multiple hidden filesystems on Linux\nSystem76 and Jupiter Broadcasting Epic Parking Lot BBQ, Sat, Apr 27, 2…",
+          "link": "https://linuxunplugged.com/557",
+          "publishedOn": "2024-04-08T02:10:47.000Z",
+          "wordCount": null,
+          "title": "557: Crouching kexec, Hidden Linux",
+          "itunes": {
+            "duration": "00:59:17"
+          },
+          "enclosure": {
+            "url": "https://chtbl.com/track/392D9/aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/503da869-566b-4983-87d3-2073a1c085a3.mp3",
+            "length": "49811268",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5b666786-1220-4fe6-9d6f-b6ef537a3fe3",
           "author": "Jupiter Broadcasting",
           "description": "We're breaking down the attack: how it works, how it was hidden, and why time was running out for the attacker.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\noss-security mailing list — Backdoor in upstream xz/liblzma leading to ssh server compromise.\nFedora Announcement\nDebian Announcement\nUbuntu Announcement\nKali Linux Announcement\nArch Linux Announcement\nGentoo Announcement\nopenSUSE Tumbleweeed Announcement\nNixOS Unstable D…",

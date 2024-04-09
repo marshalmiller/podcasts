@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-08T00:02:52.517Z</updated>
+    <updated>2024-04-09T00:02:49.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[557: Crouching kexec, Hidden Linux]]></title>
+        <id>503da869-566b-4983-87d3-2073a1c085a3</id>
+        <link href="https://linuxunplugged.com/557"/>
+        <updated>2024-04-08T02:10:47.000Z</updated>
+        <summary type="html"><![CDATA[We're building a completely hidden Linux OS inside an existing system—with no trace left behind.
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+Kolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike — The global money app for fast, safe payments and bitcoin. Get sats easy.
+📻 LINUX Unplugged on Fountain.FM — Grab the Fountain app and listen live, boost along, and more. 
+Shufflecake — Plausible deniability for multiple hidden filesystems on Linux
+System76 and Jupiter Broadcasting Epic Parking Lot BBQ, Sat, Apr 27, 2…]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[564: Re-Re-Rewrite it in Rust]]></title>
         <id>f3631694-5203-4c4e-8ca8-407916ddd058</id>
