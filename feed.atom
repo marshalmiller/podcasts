@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-09T00:02:49.287Z</updated>
+    <updated>2024-04-10T00:02:50.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -113,16 +113,6 @@ NixOS Unstable D…]]></summary>
         <link href="https://coder.show/561"/>
         <updated>2024-03-13T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[NVIDIA locks CUDA down further, and we ponder what it might take to break their stranglehold on the market, Zuck's brilliant move that put an egg on his face, and we take a minute to appreciate new developments with Java.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[553: Portably Predictable Productivity]]></title>
-        <id>45cc9da0-1848-403b-bedd-d9aaba0e2863</id>
-        <link href="https://linuxunplugged.com/553"/>
-        <updated>2024-03-11T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[We each bring surprise topics, a mix of hardware and software, as we prepare to hit the road for NixCon and SCaLE.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
