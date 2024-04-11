@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-10T00:02:50.593Z</updated>
+    <updated>2024-04-11T00:02:40.461Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[565: The Great Llama]]></title>
+        <id>7005e872-d668-4b50-9904-550a4b3e9eef</id>
+        <link href="https://coder.show/565"/>
+        <updated>2024-04-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why does Meta give away Llma for free? What's in it for them? 
+Plus, our thoughts on the data showing the trades are starting to see a boom, and new coding jobs are declining.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[557: Crouching kexec, Hidden Linux]]></title>
         <id>503da869-566b-4983-87d3-2073a1c085a3</id>
