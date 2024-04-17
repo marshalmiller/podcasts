@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-16T00:02:35.802Z</updated>
+    <updated>2024-04-17T00:02:47.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -126,16 +126,6 @@ NixOS Unstable D…]]></summary>
         <link href="https://coder.show/562"/>
         <updated>2024-03-22T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[The antitrust gloves are off as Apple’s legal brawl with Uncle Sam kicks into high gear. We dig through the documents and are surprised by a few things that seem off.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[554: SCaLEing Nix]]></title>
-        <id>4367c38a-a954-4de1-a94d-e0d31558224d</id>
-        <link href="https://linuxunplugged.com/554"/>
-        <updated>2024-03-18T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[We're on the ground live at NixCon and SCaLE. We catch up with old friends, and discover how Nix is devouring the Linux world one function at a time.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
