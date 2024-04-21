@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-20T00:02:50.068Z</updated>
+    <updated>2024-04-21T00:02:54.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -126,16 +126,6 @@ NixOS Unstable D…]]></summary>
         <link href="https://linuxunplugged.com/555"/>
         <updated>2024-03-25T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[We test the Linux-first, all-AMD Sirius 16 laptop, discuss the new Hyprland release, and share a few stories from our recent trip.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[562: Apple Loses It's Shine]]></title>
-        <id>ee4daf26-f0ea-4c48-90e8-06765342e066</id>
-        <link href="https://coder.show/562"/>
-        <updated>2024-03-22T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The antitrust gloves are off as Apple’s legal brawl with Uncle Sam kicks into high gear. We dig through the documents and are surprised by a few things that seem off.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
