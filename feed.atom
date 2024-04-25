@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-04-24T00:02:48.321Z</updated>
+    <updated>2024-04-25T00:02:45.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[567: The year of Small Models]]></title>
+        <id>b5bb4a9d-3f32-4dfe-97b0-104a131b44a7</id>
+        <link href="https://coder.show/567"/>
+        <updated>2024-04-24T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Llama 3 and Phi-3-mini are up and running on phones, Rasperbby Pis, and we give them a go. Plus Google kills the vibe, and Meta opens up Horizon OS.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[559: Linux is Bigger in Texas]]></title>
         <id>5a1f0dee-d2c0-49a1-93db-43da1fcb79da</id>

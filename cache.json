@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "b5bb4a9d-3f32-4dfe-97b0-104a131b44a7",
+          "author": "Jupiter Broadcasting",
+          "description": "Llama 3 and Phi-3-mini are up and running on phones, Rasperbby Pis, and we give them a go. Plus Google kills the vibe, and Meta opens up Horizon OS.",
+          "link": "https://coder.show/567",
+          "publishedOn": "2024-04-24T10:00:00.000Z",
+          "wordCount": null,
+          "title": "567: The year of Small Models",
+          "itunes": {
+            "duration": "42:53"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/b5bb4a9d-3f32-4dfe-97b0-104a131b44a7.mp3",
+            "length": "36028574",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "f1924a89-e35f-441b-80c5-bb66c6e37942",
           "author": "Jupiter Broadcasting",
           "description": "We delve into the top 3 open-source revenue streams, expose the pitfalls, and discuss what could be done quickly to improve the situation.",
