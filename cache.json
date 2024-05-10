@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7005e872-d668-4b50-9904-550a4b3e9eef",
-          "author": "Jupiter Broadcasting",
-          "description": "Why does Meta give away Llma for free? What's in it for them? \nPlus, our thoughts on the data showing the trades are starting to see a boom, and new coding jobs are declining.",
-          "link": "https://coder.show/565",
-          "publishedOn": "2024-04-10T10:00:00.000Z",
-          "wordCount": null,
-          "title": "565: The Great Llama",
-          "itunes": {
-            "duration": "50:11"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/7005e872-d668-4b50-9904-550a4b3e9eef.mp3",
-            "length": "42158677",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
