@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-15T00:02:44.710Z</updated>
+    <updated>2024-05-16T00:02:38.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[570: 4o]]></title>
+        <id>e66ded70-3b96-419f-a76e-de5f4b3ba543</id>
+        <link href="https://coder.show/570"/>
+        <updated>2024-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI has pulled a fast one, and everyone is eating it up.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[562: Red Hat Knows How to Party]]></title>
         <id>8281908b-f46c-4432-9ad5-c1f524ad842c</id>

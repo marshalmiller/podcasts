@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "e66ded70-3b96-419f-a76e-de5f4b3ba543",
+          "author": "Jupiter Broadcasting",
+          "description": "OpenAI has pulled a fast one, and everyone is eating it up.",
+          "link": "https://coder.show/570",
+          "publishedOn": "2024-05-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "570: 4o",
+          "itunes": {
+            "duration": "28:46"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/e66ded70-3b96-419f-a76e-de5f4b3ba543.mp3",
+            "length": "24165900",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "e014fef3-a427-46f0-8dcd-a09698295ea6",
           "author": "Jupiter Broadcasting",
           "description": "Altman's on a spending spree for AGI – why the huge price tag? Mike's back from NYC with juicy API gossip, and we break down the incentives pumping up a giant AI bubble.",
