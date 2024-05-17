@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-16T00:02:38.242Z</updated>
+    <updated>2024-05-17T00:02:51.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -131,16 +131,6 @@ Links:
 💥 Gets Sats Quick and Easy with Strike
 📻 LINUX Unplugged on Fountain.FM
 Fedora 40 beta is fastest operating system I've tested — Apps opened in the blink of an eye. The Overview appeared instantly. Everything seemed to be built around the idea that the user works at the speed of madness and the OS is there to help make it happen…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[566: FOSS Feed & Care]]></title>
-        <id>f1924a89-e35f-441b-80c5-bb66c6e37942</id>
-        <link href="https://coder.show/566"/>
-        <updated>2024-04-17T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We delve into the top 3 open-source revenue streams, expose the pitfalls, and discuss what could be done quickly to improve the situation.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

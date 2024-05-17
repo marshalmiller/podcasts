@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "f1924a89-e35f-441b-80c5-bb66c6e37942",
-          "author": "Jupiter Broadcasting",
-          "description": "We delve into the top 3 open-source revenue streams, expose the pitfalls, and discuss what could be done quickly to improve the situation.",
-          "link": "https://coder.show/566",
-          "publishedOn": "2024-04-17T10:00:00.000Z",
-          "wordCount": null,
-          "title": "566: FOSS Feed & Care",
-          "itunes": {
-            "duration": "29:51"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/f1924a89-e35f-441b-80c5-bb66c6e37942.mp3",
-            "length": "25076528",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
