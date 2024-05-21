@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-20T00:02:39.821Z</updated>
+    <updated>2024-05-21T00:02:54.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[563: Nix's People Problem]]></title>
+        <id>2c19e7a5-c49f-4b8a-9d61-3f909206e132</id>
+        <link href="https://linuxunplugged.com/563"/>
+        <updated>2024-05-20T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After months of debate, the Nix community might be coming to a resolution. We'll examine what happened, what's changing.
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+Kolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+Core Contributor Membership: Save $3 a month on your membership, and get the Bootleg and ad-free version of the show. Code: MAY
+
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged on Fountain.FM
+Using Tailscale for Android just got a whole lot better
+Report on NixOS Governance Discussions - by Chris McDonough
+The NixOS Foundation board announced on April 30 that Eelco Dolstra is stepping down from the board following the recent calls for his resignation.
+A leadership crisis in the Nix community (LWN) — On April 21, a group of anonymous authors and non-anonymous signatories published a lengthy open letter to the Nix community and Nix founder Eelco Dolstra calling for his resignation from the project.
+NixOS Foundation board: Giving power to the community - Announcements - NixOS Discourse
+NixOS Foundation Board: Constitutional Assembly Appointment - Announcements - NixOS Discourse
+Full Email with Graham
+Chris' s nginx Config
+NixOS Manual: Using DNS validation with web server virtual hosts
+NixOS Manual: SSL/TLS Certificates with ACME
+Unplugged Core Membership
+Signing up with an email address
+Dell OEM Replacement Parts
+Winamp has announced that it is opening up its source — Winamp has announced that on 24 September 2024, the application's source code will be open to developers worldwide.
+RcloneShuttle — Upload your files to anywhere - GTK4 GUI for Rclone]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[570: 4o]]></title>
         <id>e66ded70-3b96-419f-a76e-de5f4b3ba543</id>

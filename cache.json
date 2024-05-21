@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "2c19e7a5-c49f-4b8a-9d61-3f909206e132",
+          "author": "Jupiter Broadcasting",
+          "description": "After months of debate, the Nix community might be coming to a resolution. We'll examine what happened, what's changing.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\nCore Contributor Membership: Save $3 a month on your membership, and get the Bootleg and ad-free version of the show. Code: MAY\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\nUsing Tailscale for Android just got a whole lot better\nReport on NixOS Governance Discussions - by Chris McDonough\nThe NixOS Foundation board announced on April 30 that Eelco Dolstra is stepping down from the board following the recent calls for his resignation.\nA leadership crisis in the Nix community (LWN) — On April 21, a group of anonymous authors and non-anonymous signatories published a lengthy open letter to the Nix community and Nix founder Eelco Dolstra calling for his resignation from the project.\nNixOS Foundation board: Giving power to the community - Announcements - NixOS Discourse\nNixOS Foundation Board: Constitutional Assembly Appointment - Announcements - NixOS Discourse\nFull Email with Graham\nChris' s nginx Config\nNixOS Manual: Using DNS validation with web server virtual hosts\nNixOS Manual: SSL/TLS Certificates with ACME\nUnplugged Core Membership\nSigning up with an email address\nDell OEM Replacement Parts\nWinamp has announced that it is opening up its source — Winamp has announced that on 24 September 2024, the application's source code will be open to developers worldwide.\nRcloneShuttle — Upload your files to anywhere - GTK4 GUI for Rclone",
+          "link": "https://linuxunplugged.com/563",
+          "publishedOn": "2024-05-20T02:00:00.000Z",
+          "wordCount": null,
+          "title": "563: Nix's People Problem",
+          "itunes": {
+            "duration": "01:01:27"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2c19e7a5-c49f-4b8a-9d61-3f909206e132.mp3",
+            "length": "51625231",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8281908b-f46c-4432-9ad5-c1f524ad842c",
           "author": "Jupiter Broadcasting",
           "description": "Three revelations from Red Hat Summit. Our on-the-ground report will separate fact from hype.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\nCore Contributor Membership: Save $3 a month on your membership, and get the Bootleg and ad-free version of the show. Code: MAY\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\nIntroducing image mode for Red Hat Enterprise Linux — Image mode for Red Hat Enterprise Linux is a new deployment method that takes a container-native approach to…",
