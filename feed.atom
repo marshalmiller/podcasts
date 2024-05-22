@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-21T00:02:54.247Z</updated>
+    <updated>2024-05-22T00:02:42.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -146,27 +146,6 @@ Bellingham Technical College — At BTC, we're h…]]></summary>
         <link href="https://coder.show/567"/>
         <updated>2024-04-24T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Llama 3 and Phi-3-mini are up and running on phones, Rasperbby Pis, and we give them a go. Plus Google kills the vibe, and Meta opens up Horizon OS.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[559: Linux is Bigger in Texas]]></title>
-        <id>5a1f0dee-d2c0-49a1-93db-43da1fcb79da</id>
-        <link href="https://linuxunplugged.com/559"/>
-        <updated>2024-04-22T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're back from Austin, with interviews and stories to share. Plus, it's Gentoo week and we take our first look at Fedora 40.
-Sponsored By:
-
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
-Kolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
-
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged on Fountain.FM
-Fedora 40 beta is fastest operating system I've tested — Apps opened in the blink of an eye. The Overview appeared instantly. Everything seemed to be built around the idea that the user works at the speed of madness and the OS is there to help make it happen…]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

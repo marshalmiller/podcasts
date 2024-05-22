@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "5a1f0dee-d2c0-49a1-93db-43da1fcb79da",
-          "author": "Jupiter Broadcasting",
-          "description": "We're back from Austin, with interviews and stories to share. Plus, it's Gentoo week and we take our first look at Fedora 40.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\nFedora 40 beta is fastest operating system I've tested — Apps opened in the blink of an eye. The Overview appeared instantly. Everything seemed to be built around the idea that the user works at the speed of madness and the OS is there to help make it happen…",
-          "link": "https://linuxunplugged.com/559",
-          "publishedOn": "2024-04-22T01:00:00.000Z",
-          "wordCount": null,
-          "title": "559: Linux is Bigger in Texas",
-          "itunes": {
-            "duration": "01:30:37"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/5a1f0dee-d2c0-49a1-93db-43da1fcb79da.mp3",
-            "length": "76129155",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
