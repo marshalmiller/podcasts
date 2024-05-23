@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-22T00:02:42.508Z</updated>
+    <updated>2024-05-23T00:02:48.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[571: Old Wine New Bottle]]></title>
+        <id>a5abdc06-11b0-4e86-ae4b-6badaeb509bc</id>
+        <link href="https://coder.show/571"/>
+        <updated>2024-05-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech's latest AI flex? More like a desperate grab for attention. Google, OpenAI, and Microsoft are hyping up underwhelming updates while Sam Altman spills the tea on their shady motives.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[563: Nix's People Problem]]></title>
         <id>2c19e7a5-c49f-4b8a-9d61-3f909206e132</id>
