@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "ec8e0087-4ec8-4f20-81ea-fa05e83ab365",
+          "author": "Jupiter Broadcasting",
+          "description": "We're following one simple rule to build a Linux desktop so stable it could outlive us.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\nCore Contributor Membership: Save $3 a month on your membership, and get the Bootleg and ad-free version of the show. Code: MAY\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nMicrosoft’s controversial Recall feature for Windows 11 could already be in legal hot water\nApple GPT — What We Know About Apple's Work on Generative AI\nChris' BeeLink — Beelink Ryzen 7 5700U Up to 4.3GHz 8C/16T\nRV BeeLink Nix configuration.nix\nSlack - NixOS Wiki\nChris' Win 7 Inspired Look\nmusnix — Real-time audio in NixOS\nBoost Pick: nh — NH reimplements some basic nix commands. Adding functionality on top of the existing solutions, like nixos-rebuild, home-manager cli or nix itself.\nPick: gridplayer — Simple VLC-based media player that can play multiple videos at the same time. You can play as many videos as you like, the only limit is your hardware. It supports all video formats that VLC supports (which is all of them). You can save your playlist retaining information about the position, sound volume, loops, aspect ratio, etc.",
+          "link": "https://linuxunplugged.com/564",
+          "publishedOn": "2024-05-27T01:20:00.000Z",
+          "wordCount": null,
+          "title": "564: The Goldilocks Build",
+          "itunes": {
+            "duration": "01:05:34"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ec8e0087-4ec8-4f20-81ea-fa05e83ab365.mp3",
+            "length": "55076785",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "2c19e7a5-c49f-4b8a-9d61-3f909206e132",
           "author": "Jupiter Broadcasting",
           "description": "After months of debate, the Nix community might be coming to a resolution. We'll examine what happened, what's changing.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\nCore Contributor Membership: Save $3 a month on your membership, and get the Bootleg and ad-free version of the show. Code: MAY\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\nUsing Tailscale for Android just got a whole lot better\nReport on NixOS Governance Discussions - by Chris McDonough\nThe NixOS Foundation board announced on April 30 that Eelco Dolstra is stepping down from the board following the recent calls for his resignation.\nA leadership crisis in the Nix community (LWN) — On April 21, a group of anonymous authors and non-anonymous signatories published a lengthy open letter to the Nix community and Nix founder Eelco Dolstra calling for his resignation from the project.\nNixOS Foundation board: Giving power to the community - Announcements - NixOS Discourse\nNixOS Foundation Board: Constitutional Assembly Appointment - Announcements - NixOS Discourse\nFull Email with Graham\nChris' s nginx Config\nNixOS Manual: Using DNS validation with web server virtual hosts\nNixOS Manual: SSL/TLS Certificates with ACME\nUnplugged Core Membership\nSigning up with an email address\nDell OEM Replacement Parts\nWinamp has announced that it is opening up its source — Winamp has announced that on 24 September 2024, the application's source code will be open to developers worldwide.\nRcloneShuttle — Upload your files to anywhere - GTK4 GUI for Rclone",
