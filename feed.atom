@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-28T00:02:56.012Z</updated>
+    <updated>2024-05-29T00:02:42.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -154,28 +154,6 @@ Tiny File Manager …]]></summary>
         <link href="https://coder.show/568"/>
         <updated>2024-05-01T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[How one clever developer has launched his own Appstore on iOS, our thoughts on how this was pulled off, and making a transition into development work late in life.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[560: Linux Festivus For the Rest of Us]]></title>
-        <id>3780be2f-b3d5-46bf-b53e-ba84c4534463</id>
-        <link href="https://linuxunplugged.com/560"/>
-        <updated>2024-04-29T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The first LinuxFest is back and better than ever. We share stories and friends from one of the best Linux gatherings of the year: LinuxFest Northwest.
-Sponsored By:
-
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
-Kolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
-
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged on Fountain.FM
-LinuxFest Northwest 2024 — An annual open-source event co-produced by Bellingham Linux Users Group, the Information Technology department at BTC, Cascade STEAM, and Jupiter Broadcasting.
-Bellingham Technical College — At BTC, we're h…]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

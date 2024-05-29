@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "3780be2f-b3d5-46bf-b53e-ba84c4534463",
-          "author": "Jupiter Broadcasting",
-          "description": "The first LinuxFest is back and better than ever. We share stories and friends from one of the best Linux gatherings of the year: LinuxFest Northwest.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\nLinuxFest Northwest 2024 — An annual open-source event co-produced by Bellingham Linux Users Group, the Information Technology department at BTC, Cascade STEAM, and Jupiter Broadcasting.\nBellingham Technical College — At BTC, we're h…",
-          "link": "https://linuxunplugged.com/560",
-          "publishedOn": "2024-04-29T01:00:00.000Z",
-          "wordCount": null,
-          "title": "560: Linux Festivus For the Rest of Us",
-          "itunes": {
-            "duration": "01:15:10"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/3780be2f-b3d5-46bf-b53e-ba84c4534463.mp3",
-            "length": "63152799",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
