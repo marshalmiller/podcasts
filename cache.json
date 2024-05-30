@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "556b527c-0eb1-436f-a98e-a401ca41294b",
+          "author": "Jupiter Broadcasting",
+          "description": "OpenAI has a new security team led by Sam Altman, and the Biden Administration has a new AI security board led by Sam Altman. We also discuss C# 13 and .Net 9, popping bubbles, and more.",
+          "link": "https://coder.show/572",
+          "publishedOn": "2024-05-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "572: Foxes In The Henhouse",
+          "itunes": {
+            "duration": "1:08:10"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/556b527c-0eb1-436f-a98e-a401ca41294b.mp3",
+            "length": "57265968",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "a5abdc06-11b0-4e86-ae4b-6badaeb509bc",
           "author": "Jupiter Broadcasting",
           "description": "Big Tech's latest AI flex? More like a desperate grab for attention. Google, OpenAI, and Microsoft are hyping up underwhelming updates while Sam Altman spills the tea on their shady motives.",
