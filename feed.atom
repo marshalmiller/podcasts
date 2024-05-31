@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-05-30T00:03:13.129Z</updated>
+    <updated>2024-05-31T00:02:39.703Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -154,16 +154,6 @@ Links:
 Berlin with Brent — May Meetup, Sat, May 11, 2024, 6:30 PM CEST
 Linuxfest Northwest 2024 Videos
 Tiny File Manager …]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[568: The Junior Jump]]></title>
-        <id>1108d688-a717-42b9-a0d7-c693778f2ec5</id>
-        <link href="https://coder.show/568"/>
-        <updated>2024-05-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How one clever developer has launched his own Appstore on iOS, our thoughts on how this was pulled off, and making a transition into development work late in life.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
