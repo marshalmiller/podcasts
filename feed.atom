@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-03T00:02:55.593Z</updated>
+    <updated>2024-06-04T00:02:44.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[565: Mistakes That Made Us Love Linux]]></title>
+        <id>879a6bbe-003c-4eb4-a611-595fac3ab622</id>
+        <link href="https://linuxunplugged.com/565"/>
+        <updated>2024-06-03T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The facepalm moments that make us question our sanity—and swear off sudo for a week.
+Sponsored By:
+
+Core Contributor Membership: Take $1 a month of your membership for a lifetime!
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+Kolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+Linux May Be the Best Way to Avoid the AI Nightmare — What if you care about AI's environmental impact, privacy holes, and the ethical problems of training on data without the creators' permission? The answer might be …]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[572: Foxes In The Henhouse]]></title>
         <id>556b527c-0eb1-436f-a98e-a401ca41294b</id>
