@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "4266a778-f62d-4db9-9e22-a707950be175",
-          "author": "Jupiter Broadcasting",
-          "description": "A few of our go-to tools for one-liner web servers, sharing media directly from folders, and a much needed live Arch server update, and more!\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\nKolide: Kolide is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\nCore Contributor Membership: Save $3 a month on your membership, and get the Bootleg and ad-free version of the show. Code: MAY\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\nBerlin with Brent — May Meetup, Sat, May 11, 2024, 6:30 PM CEST\nLinuxfest Northwest 2024 Videos\nTiny File Manager …",
-          "link": "https://linuxunplugged.com/561",
-          "publishedOn": "2024-05-06T00:06:30.000Z",
-          "wordCount": null,
-          "title": "561: Folders as a Service",
-          "itunes": {
-            "duration": "00:43:23"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/4266a778-f62d-4db9-9e22-a707950be175.mp3",
-            "length": "36443477",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
