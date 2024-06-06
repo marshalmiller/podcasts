@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "fe2a5e5b-052a-4f7b-9b4c-14c82a47339a",
+          "author": "Jupiter Broadcasting",
+          "description": "The story of how Mike got in a fight with a supercomputer and, like Captain Kirk, came out on top.",
+          "link": "https://coder.show/573",
+          "publishedOn": "2024-06-05T09:00:00.000Z",
+          "wordCount": null,
+          "title": "573: The Ultimate Computer",
+          "itunes": {
+            "duration": "54:02"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/fe2a5e5b-052a-4f7b-9b4c-14c82a47339a.mp3",
+            "length": "45399637",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "556b527c-0eb1-436f-a98e-a401ca41294b",
           "author": "Jupiter Broadcasting",
           "description": "OpenAI has a new security team led by Sam Altman, and the Biden Administration has a new AI security board led by Sam Altman. We also discuss C# 13 and .Net 9, popping bubbles, and more.",
