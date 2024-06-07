@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-06T00:03:03.797Z</updated>
+    <updated>2024-06-07T00:02:48.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -152,16 +152,6 @@ Links:
 💥 Gets Sats Quick and Easy with Strike
 📻 LINUX Unplugged on Fountain.FM
 Introducing image mode for Red Hat Enterprise Linux — Image mode for Red Hat Enterprise Linux is a new deployment method that takes a container-native approach to…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[569: Whatever It Takes]]></title>
-        <id>e014fef3-a427-46f0-8dcd-a09698295ea6</id>
-        <link href="https://coder.show/569"/>
-        <updated>2024-05-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Altman's on a spending spree for AGI – why the huge price tag? Mike's back from NYC with juicy API gossip, and we break down the incentives pumping up a giant AI bubble.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "e014fef3-a427-46f0-8dcd-a09698295ea6",
-          "author": "Jupiter Broadcasting",
-          "description": "Altman's on a spending spree for AGI – why the huge price tag? Mike's back from NYC with juicy API gossip, and we break down the incentives pumping up a giant AI bubble.",
-          "link": "https://coder.show/569",
-          "publishedOn": "2024-05-08T10:00:00.000Z",
-          "wordCount": null,
-          "title": "569: Whatever It Takes",
-          "itunes": {
-            "duration": "39:44"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/e014fef3-a427-46f0-8dcd-a09698295ea6.mp3",
-            "length": "33381534",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
