@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-06-12T00:02:46.352Z</updated>
+    <updated>2024-06-13T00:03:06.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[574: Craig Stans Unite]]></title>
+        <id>d0f0110e-f0e4-4523-b121-c91e2b66ebea</id>
+        <link href="https://coder.show/574"/>
+        <updated>2024-06-12T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Our thoughts and reactions to Apple's WWDC '24, and more importantly what was missed.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[566: Chef's Choice Ubuntu]]></title>
         <id>9517489d-a7b2-4f1e-a227-31856047c865</id>
