@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "b8ab74a9-f63a-4518-bf6d-684d4eac76e4",
+          "author": "Jupiter Broadcasting",
+          "description": "A couple of our long-standing forecasts are coming true. We unpack the recent developments. Plus, our thoughts on OpenAI going commercial and more.",
+          "link": "https://coder.show/575",
+          "publishedOn": "2024-06-19T09:15:00.000Z",
+          "wordCount": null,
+          "title": "575: The Omakub Directive",
+          "itunes": {
+            "duration": "51:36"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/b8ab74a9-f63a-4518-bf6d-684d4eac76e4.mp3",
+            "length": "43348711",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "d0f0110e-f0e4-4523-b121-c91e2b66ebea",
           "author": "Jupiter Broadcasting",
           "description": "Our thoughts and reactions to Apple's WWDC '24, and more importantly what was missed.",
