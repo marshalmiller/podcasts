@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "74fef7fe-19d3-481b-bfba-84dc707d570a",
+          "author": "Jupiter Broadcasting",
+          "description": "Why we think Plasma 6.1 is the desktop for people who like to mess with computers.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nMarknote - KDE Applications\nMarknote 1.3 - KDE Blogs — Marknote lets you create rich text notes and easily organise them into notebooks. You can personalise you…",
+          "link": "https://linuxunplugged.com/569",
+          "publishedOn": "2024-06-30T23:45:00.000Z",
+          "wordCount": null,
+          "title": "569: Our Plasma Panacea",
+          "itunes": {
+            "duration": "01:06:51"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/74fef7fe-19d3-481b-bfba-84dc707d570a.mp3",
+            "length": "56833233",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "3cec6236-ba57-48be-b81a-5ded00bb79d5",
           "author": "Jupiter Broadcasting",
           "description": "Online identity is a ticking time bomb. Are trustworthy, open-source solutions ready to disarm it? Or will we be stuck with lackluster, proprietary systems?\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nJupiter Broadcasting Meetups\nXZ Utils Backdoor Vulnerability (CVE-2024-3094): Comprehe…",
