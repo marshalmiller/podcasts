@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "4b2c9f95-2881-450f-b8a2-a6ca1b22e100",
+          "author": "Jupiter Broadcasting",
+          "description": "Why you shouldn't use AI to write your tests, and the crazy deals new AI companies are getting themselves into to access hardware.",
+          "link": "https://coder.show/577",
+          "publishedOn": "2024-07-02T09:15:00.000Z",
+          "wordCount": null,
+          "title": "577: Holy Order of the Admins",
+          "itunes": {
+            "duration": "47:50"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/4b2c9f95-2881-450f-b8a2-a6ca1b22e100.mp3",
+            "length": "40189671",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "f688e7ab-a4fb-4664-859b-7d87124c7c17",
           "author": "Jupiter Broadcasting",
           "description": "Big Tech vs. Big Brother,  how Ashley Madison predicted the rise of AI bots and the messy world of \"open source\" AI.",

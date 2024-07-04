@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T00:02:58.397Z</updated>
+    <updated>2024-07-04T00:02:41.766Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[577: Holy Order of the Admins]]></title>
+        <id>4b2c9f95-2881-450f-b8a2-a6ca1b22e100</id>
+        <link href="https://coder.show/577"/>
+        <updated>2024-07-02T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Why you shouldn't use AI to write your tests, and the crazy deals new AI companies are getting themselves into to access hardware.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[569: Our Plasma Panacea]]></title>
         <id>74fef7fe-19d3-481b-bfba-84dc707d570a</id>
