@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-04T00:02:41.766Z</updated>
+    <updated>2024-07-05T00:02:52.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -136,16 +136,6 @@ Spokane Meetup, Sat, Jul 13, 2024, 4:00 PM
 Nextcloud Conference 2024: call for speakers - Nextcloud
 Nextcloud Conference 2024 - Nextcloud
 Berlin with …]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[573: The Ultimate Computer]]></title>
-        <id>fe2a5e5b-052a-4f7b-9b4c-14c82a47339a</id>
-        <link href="https://coder.show/573"/>
-        <updated>2024-06-05T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The story of how Mike got in a fight with a supercomputer and, like Captain Kirk, came out on top.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
