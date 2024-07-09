@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "e0a79ddc-351e-4a10-ab88-2fb436b0e1c2",
+          "author": "Jupiter Broadcasting",
+          "description": "We dig into the RegreSSHion bug, debate it's real threat and explore clever tools to build a tasty fried onion around your system.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nSpokane Meetup - No-Li Brewhouse · JB Events on Gathio\nPlasma/Krunner Docs — Brent's tip: 'https://search.nixos.org/options?query=\\{@}' (the '\\{@}' is the magic sauce)\nautossh — Automatically restart SSH sessions and tunnels\nautossh on GitHub\nSpokane Meetup — No-Li Brewhouse, Sat, Jul 13, 2024, 4:00 PM\nRegreSSHion — Remote Code Execution Vulnerability In OpenSSH Server\nregreSSHion — Remote Unauthenticated Code Execution Vulnerability in OpenSSH server.\nNixOS Security advisory: OpenSSH CVE-2024-6387 “regreSSHion” – update your servers ASAP\nNasty regreSSHion bug affects around 700K Linux systems\nQualys CVE-2024-6387 Write-up\nLetmein: Authenticating port knocker - Written in Rust — Letmein is a simple port knocker with a simple and secure authentication mechanism. It can be used to harden against pre-authentication attacks on services like SSH, VPN, IMAP and many more.\nfwknop: Single Packet Authorization > Port Knocking — fwknop stands for the \"FireWall KNock OPerator\", and implements an authorization scheme called Single Packet Authorization (SPA). This method of authorization is based around a default-drop packet filter\nMembership Summer Discount — Take $1 a month of your membership for a lifetime!\nJeff links: How to run non-nix executables?\npick: stu — TUI (Terminal/Text UI) application for AWS S3",
+          "link": "https://linuxunplugged.com/570",
+          "publishedOn": "2024-07-08T00:00:00.000Z",
+          "wordCount": null,
+          "title": "570: RegreSSHion Strikes",
+          "itunes": {
+            "duration": "00:47:06"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e0a79ddc-351e-4a10-ab88-2fb436b0e1c2.mp3",
+            "length": "40242019",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "74fef7fe-19d3-481b-bfba-84dc707d570a",
           "author": "Jupiter Broadcasting",
           "description": "Why we think Plasma 6.1 is the desktop for people who like to mess with computers.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n\nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nMarknote - KDE Applications\nMarknote 1.3 - KDE Blogs — Marknote lets you create rich text notes and easily organise them into notebooks. You can personalise you…",
