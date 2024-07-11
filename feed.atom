@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-10T00:02:50.598Z</updated>
+    <updated>2024-07-11T00:03:03.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[578: Cancel the 100X]]></title>
+        <id>1616df40-51ff-4315-a0ae-efcc81f11b20</id>
+        <link href="https://coder.show/578"/>
+        <updated>2024-07-10T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple finally stands down in its battle with Epic, and Google gets caught with its hand in the full access to everything jar.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[570: RegreSSHion Strikes]]></title>
         <id>e0a79ddc-351e-4a10-ab88-2fb436b0e1c2</id>
