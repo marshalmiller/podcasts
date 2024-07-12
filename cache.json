@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "d0f0110e-f0e4-4523-b121-c91e2b66ebea",
-          "author": "Jupiter Broadcasting",
-          "description": "Our thoughts and reactions to Apple's WWDC '24, and more importantly what was missed.",
-          "link": "https://coder.show/574",
-          "publishedOn": "2024-06-12T09:15:00.000Z",
-          "wordCount": null,
-          "title": "574: Craig Stans Unite",
-          "itunes": {
-            "duration": "40:25"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/d0f0110e-f0e4-4523-b121-c91e2b66ebea.mp3",
-            "length": "33950585",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
