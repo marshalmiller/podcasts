@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-16T00:02:56.501Z</updated>
+    <updated>2024-07-17T00:02:47.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -164,28 +164,6 @@ XZ Utils Backdoor Vulnerability (CVE-2024-3094): Comprehe…]]></summary>
         <link href="https://coder.show/575"/>
         <updated>2024-06-19T09:15:00.000Z</updated>
         <summary type="html"><![CDATA[A couple of our long-standing forecasts are coming true. We unpack the recent developments. Plus, our thoughts on OpenAI going commercial and more.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[567: So Long sudo]]></title>
-        <id>b6a9c165-7fdc-40ab-b5b5-428bf50ea21a</id>
-        <link href="https://linuxunplugged.com/567"/>
-        <updated>2024-06-17T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Your Linux box is a-changin'. systemd has a huge new release; we'll get into the most impressive features, including the new sudo replacement. Plus, our thoughts on the new Linux Arm laptops that are just around the corner.
-Sponsored By:
-
-Core Contributor Membership: Take $1 a month of your membership for a lifetime!
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
-
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-Announcing systemd …]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
