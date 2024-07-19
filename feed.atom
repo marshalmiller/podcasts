@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-18T00:02:43.289Z</updated>
+    <updated>2024-07-19T10:41:16.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -164,16 +164,6 @@ Links:
 📻 LINUX Unplugged  on Fountain.FM
 Jupiter Broadcasting Meetups
 XZ Utils Backdoor Vulnerability (CVE-2024-3094): Comprehe…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[575: The Omakub Directive]]></title>
-        <id>b8ab74a9-f63a-4518-bf6d-684d4eac76e4</id>
-        <link href="https://coder.show/575"/>
-        <updated>2024-06-19T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[A couple of our long-standing forecasts are coming true. We unpack the recent developments. Plus, our thoughts on OpenAI going commercial and more.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
