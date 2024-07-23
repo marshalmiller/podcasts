@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "aa3981c0-3297-4a2f-9882-a51aaa6fa414",
+          "author": "Jupiter Broadcasting",
+          "description": "Wes' self-decrypting bcachefs disk and a GrapheneOS twist that'll make you ditch your iPhone.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nclevis — Clevis is a pluggable framework for automated decryption. It can be used to provide automated decryption of data or even automated unlock…",
+          "link": "https://linuxunplugged.com/572",
+          "publishedOn": "2024-07-22T02:30:00.000Z",
+          "wordCount": null,
+          "title": "572: Data Security Only a Maniac Could Love",
+          "itunes": {
+            "duration": "01:31:29"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/aa3981c0-3297-4a2f-9882-a51aaa6fa414.mp3",
+            "length": "77521794",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "be2ab64c-0a0f-4e07-9e8e-1572339724fd",
           "author": "Jupiter Broadcasting",
           "description": "Sponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nNix Nerds Matrix Room\nBeelink SER5 Mini PC\nMinisforum UM690 Pro\npyenv-flake: experimental nix flake that can build pyenv pythons\ndotenvx-flake: A nix flake for dotenvx\nauto-patchelf.sh - NixOS/nixpkgs\nPackaging/Binaries - NixOS Wiki\nMembership Summer Discount — Take $1 a month of your membership for a lifetime!\nTry the JB Test Gathio Instance hosted by HybridSarcasm\nBerlin with Brent: September Meetup at Nextcloud Conference · JB Events\nFix Kate sudo saves - use Plasma 6 version of Kate by MarkSort · Pull Request #3 · ChrisLAS/nix\nRunning OpenBSD 7.5 on your laptop is really hard (not) — I couldn't use OpenBSD exclusively; there's software that I need/want which isn't available.  But I do appreciate certain of OpenBSD's qualities: it's a simple, ultra-lightweight, traditional UNIX.  I have an ancient ThinkPad running OpenBSD configured as a minimalist desktop: it's nice for focused work.  Sure, it can't run Steam or play Netflix, but sometimes that's a plus...\n@fabean's NixOS configs\nIBM Classroom LAN Administration System V 1.30 User Guide\n0xchat: Secure chat built on Nostr\nGet NIP-05 verified\nPick: termscp — 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB\nLearn Nix The Fun Way — Sure, it’s sort of portable, if you tell the person running it to have curl and jq. What if you relied on a specific version of either though? Nix guarantees portability.",
