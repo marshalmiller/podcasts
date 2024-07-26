@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "f688e7ab-a4fb-4664-859b-7d87124c7c17",
-          "author": "Jupiter Broadcasting",
-          "description": "Big Tech vs. Big Brother,  how Ashley Madison predicted the rise of AI bots and the messy world of \"open source\" AI.",
-          "link": "https://coder.show/576",
-          "publishedOn": "2024-06-26T09:15:00.000Z",
-          "wordCount": null,
-          "title": "576: The New 800-pound Gorilla",
-          "itunes": {
-            "duration": "59:15"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/f688e7ab-a4fb-4664-859b-7d87124c7c17.mp3",
-            "length": "49779431",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
