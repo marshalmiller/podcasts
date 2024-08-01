@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "aa6cdf66-cd26-47d1-b334-00d07cccf688",
+          "author": "Jupiter Broadcasting",
+          "description": "Why is Google feeling lucky, and the Intel situation slips into pure lunacy. Plus, thoughts on the C# Type Union proposal.",
+          "link": "https://coder.show/581",
+          "publishedOn": "2024-07-31T09:00:00.000Z",
+          "wordCount": null,
+          "title": "581: Lunacy Lake",
+          "itunes": {
+            "duration": "48:51"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/aa6cdf66-cd26-47d1-b334-00d07cccf688.mp3",
+            "length": "41034837",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "7333f764-66f6-42eb-a345-2cf6c786655c",
           "author": "Jupiter Broadcasting",
           "description": "Our thoughts on the CrowdStrike outage and why Intel is in the hot seat with developers.",
@@ -140,24 +158,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/1616df40-51ff-4315-a0ae-efcc81f11b20.mp3",
             "length": "54824094",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "4b2c9f95-2881-450f-b8a2-a6ca1b22e100",
-          "author": "Jupiter Broadcasting",
-          "description": "Why you shouldn't use AI to write your tests, and the crazy deals new AI companies are getting themselves into to access hardware.",
-          "link": "https://coder.show/577",
-          "publishedOn": "2024-07-02T09:15:00.000Z",
-          "wordCount": null,
-          "title": "577: Holy Order of the Admins",
-          "itunes": {
-            "duration": "47:50"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/4b2c9f95-2881-450f-b8a2-a6ca1b22e100.mp3",
-            "length": "40189671",
             "type": "audio/mp3"
           },
           "imageUrl": null

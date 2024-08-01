@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-31T00:02:40.989Z</updated>
+    <updated>2024-08-01T00:03:31.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[581: Lunacy Lake]]></title>
+        <id>aa6cdf66-cd26-47d1-b334-00d07cccf688</id>
+        <link href="https://coder.show/581"/>
+        <updated>2024-07-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why is Google feeling lucky, and the Intel situation slips into pure lunacy. Plus, thoughts on the C# Type Union proposal.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[573: Universal Blue Man Group]]></title>
         <id>b10b9179-67c0-4037-a4d9-c0878c6deddf</id>
@@ -154,16 +164,6 @@ fwknop: Single Packet Authorization > Port Knocking — fwknop stands for the "F
 Membership Summer Discount — Take $1 a month of your membership for a lifetime!
 Jeff links: How to run non-nix executables?
 pick: stu — TUI (Terminal/Text UI) application for AWS S3]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[577: Holy Order of the Admins]]></title>
-        <id>4b2c9f95-2881-450f-b8a2-a6ca1b22e100</id>
-        <link href="https://coder.show/577"/>
-        <updated>2024-07-02T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Why you shouldn't use AI to write your tests, and the crazy deals new AI companies are getting themselves into to access hardware.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
