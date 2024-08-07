@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-06T00:02:59.285Z</updated>
+    <updated>2024-08-07T00:03:00.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -159,43 +159,6 @@ Learn Nix The Fun Way — Sure, it’s sort of portable, if you tell the person 
         <link href="https://coder.show/578"/>
         <updated>2024-07-10T09:15:00.000Z</updated>
         <summary type="html"><![CDATA[Apple finally stands down in its battle with Epic, and Google gets caught with its hand in the full access to everything jar.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[570: RegreSSHion Strikes]]></title>
-        <id>e0a79ddc-351e-4a10-ab88-2fb436b0e1c2</id>
-        <link href="https://linuxunplugged.com/570"/>
-        <updated>2024-07-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We dig into the RegreSSHion bug, debate it's real threat and explore clever tools to build a tasty fried onion around your system.
-Sponsored By:
-
-Core Contributor Membership: Take $1 a month of your membership for a lifetime!
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-Spokane Meetup - No-Li Brewhouse · JB Events on Gathio
-Plasma/Krunner Docs — Brent's tip: 'https://search.nixos.org/options?query=\{@}' (the '\{@}' is the magic sauce)
-autossh — Automatically restart SSH sessions and tunnels
-autossh on GitHub
-Spokane Meetup — No-Li Brewhouse, Sat, Jul 13, 2024, 4:00 PM
-RegreSSHion — Remote Code Execution Vulnerability In OpenSSH Server
-regreSSHion — Remote Unauthenticated Code Execution Vulnerability in OpenSSH server.
-NixOS Security advisory: OpenSSH CVE-2024-6387 “regreSSHion” – update your servers ASAP
-Nasty regreSSHion bug affects around 700K Linux systems
-Qualys CVE-2024-6387 Write-up
-Letmein: Authenticating port knocker - Written in Rust — Letmein is a simple port knocker with a simple and secure authentication mechanism. It can be used to harden against pre-authentication attacks on services like SSH, VPN, IMAP and many more.
-fwknop: Single Packet Authorization > Port Knocking — fwknop stands for the "FireWall KNock OPerator", and implements an authorization scheme called Single Packet Authorization (SPA). This method of authorization is based around a default-drop packet filter
-Membership Summer Discount — Take $1 a month of your membership for a lifetime!
-Jeff links: How to run non-nix executables?
-pick: stu — TUI (Terminal/Text UI) application for AWS S3]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
