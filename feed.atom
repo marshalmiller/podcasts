@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-07T00:03:00.594Z</updated>
+    <updated>2024-08-08T00:02:49.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[582: Intel: It Hurts Inside]]></title>
+        <id>72686eb2-5052-4592-a1cc-5600a512164b</id>
+        <link href="https://coder.show/582"/>
+        <updated>2024-08-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We take a look at SeaweedFS, roast Apple Intelligence, and reveal the vendor that caught Intel's mess before it shipped.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[574: COSMIC Encounter]]></title>
         <id>2acf92d7-428a-4e7c-bd2f-dd9aea14a280</id>
