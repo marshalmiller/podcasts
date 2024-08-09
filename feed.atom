@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-08T00:02:49.897Z</updated>
+    <updated>2024-08-09T00:02:59.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -159,16 +159,6 @@ IBM Classroom LAN Administration System V 1.30 User Guide
 Get NIP-05 verified
 Pick: termscp — 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 Learn Nix The Fun Way — Sure, it’s sort of portable, if you tell the person running it to have curl and jq. What if you relied on a specific version of either though? Nix guarantees portability.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[578: Cancel the 100X]]></title>
-        <id>1616df40-51ff-4315-a0ae-efcc81f11b20</id>
-        <link href="https://coder.show/578"/>
-        <updated>2024-07-10T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple finally stands down in its battle with Epic, and Google gets caught with its hand in the full access to everything jar.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

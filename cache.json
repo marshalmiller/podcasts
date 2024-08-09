@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "1616df40-51ff-4315-a0ae-efcc81f11b20",
-          "author": "Jupiter Broadcasting",
-          "description": "Apple finally stands down in its battle with Epic, and Google gets caught with its hand in the full access to everything jar.",
-          "link": "https://coder.show/578",
-          "publishedOn": "2024-07-10T09:15:00.000Z",
-          "wordCount": null,
-          "title": "578: Cancel the 100X",
-          "itunes": {
-            "duration": "1:05:15"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/1616df40-51ff-4315-a0ae-efcc81f11b20.mp3",
-            "length": "54824094",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
