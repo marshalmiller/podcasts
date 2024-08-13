@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-12T00:02:47.710Z</updated>
+    <updated>2024-08-13T00:02:57.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[575: Brent's Busted Builds]]></title>
+        <id>829e57cb-1d4c-4f9f-b1bc-5df43ff035a1</id>
+        <link href="https://linuxunplugged.com/575"/>
+        <updated>2024-08-12T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Brent's computer pulls an all-nighter at the worst possible moment, and the hits keep coming for open-source Android distributions and our new 2FA tool.
+Sponsored By:
+
+Core Contributor Membership: Take $1 a month of your membership for a lifetime!
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+Toronto Meetup — Thursday, August 29, 2024 from 6:00 PM to 8:00 PM EDT
+Sacramento LUG M…]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[582: Intel: It Hurts Inside]]></title>
         <id>72686eb2-5052-4592-a1cc-5600a512164b</id>
@@ -120,45 +144,6 @@ clevis — Clevis is a pluggable framework for automated decryption. It can be u
         <link href="https://coder.show/579"/>
         <updated>2024-07-17T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[Are small business owners just the worst? The rant that hits close to home. And how AI is looking more like a unicorn, not a horse, but big tech keeps trying to put a saddle on it.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[571: Multi-Machine Lifestyle]]></title>
-        <id>be2ab64c-0a0f-4e07-9e8e-1572339724fd</id>
-        <link href="https://linuxunplugged.com/571"/>
-        <updated>2024-07-14T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sponsored By:
-
-Core Contributor Membership: Take $1 a month of your membership for a lifetime!
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-Nix Nerds Matrix Room
-Beelink SER5 Mini PC
-Minisforum UM690 Pro
-pyenv-flake: experimental nix flake that can build pyenv pythons
-dotenvx-flake: A nix flake for dotenvx
-auto-patchelf.sh - NixOS/nixpkgs
-Packaging/Binaries - NixOS Wiki
-Membership Summer Discount — Take $1 a month of your membership for a lifetime!
-Try the JB Test Gathio Instance hosted by HybridSarcasm
-Berlin with Brent: September Meetup at Nextcloud Conference · JB Events
-Fix Kate sudo saves - use Plasma 6 version of Kate by MarkSort · Pull Request #3 · ChrisLAS/nix
-Running OpenBSD 7.5 on your laptop is really hard (not) — I couldn't use OpenBSD exclusively; there's software that I need/want which isn't available.  But I do appreciate certain of OpenBSD's qualities: it's a simple, ultra-lightweight, traditional UNIX.  I have an ancient ThinkPad running OpenBSD configured as a minimalist desktop: it's nice for focused work.  Sure, it can't run Steam or play Netflix, but sometimes that's a plus...
-@fabean's NixOS configs
-IBM Classroom LAN Administration System V 1.30 User Guide
-0xchat: Secure chat built on Nostr
-Get NIP-05 verified
-Pick: termscp — 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
-Learn Nix The Fun Way — Sure, it’s sort of portable, if you tell the person running it to have curl and jq. What if you relied on a specific version of either though? Nix guarantees portability.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
