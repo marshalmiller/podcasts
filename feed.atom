@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-14T00:03:16.120Z</updated>
+    <updated>2024-08-15T00:03:06.483Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[583: A Shekel for Every Click]]></title>
+        <id>605ff62f-dd11-41fc-af6d-ddd2f2f2e30e</id>
+        <link href="https://coder.show/583"/>
+        <updated>2024-08-14T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple goes into full crackdown mode and begins to squeeze even more out of developers and creators. Plus, why tiny models are suddenly the rage.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[575: Brent's Busted Builds]]></title>
         <id>829e57cb-1d4c-4f9f-b1bc-5df43ff035a1</id>
