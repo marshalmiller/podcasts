@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7963cd3f-0657-4736-9f29-af55c408a976",
-          "author": "Jupiter Broadcasting",
-          "description": "Are small business owners just the worst? The rant that hits close to home. And how AI is looking more like a unicorn, not a horse, but big tech keeps trying to put a saddle on it.",
-          "link": "https://coder.show/579",
-          "publishedOn": "2024-07-17T09:00:00.000Z",
-          "wordCount": null,
-          "title": "579: The Insufferable Small Business",
-          "itunes": {
-            "duration": "52:35"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/7963cd3f-0657-4736-9f29-af55c408a976.mp3",
-            "length": "44171202",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
