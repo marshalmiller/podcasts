@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "aa3981c0-3297-4a2f-9882-a51aaa6fa414",
-          "author": "Jupiter Broadcasting",
-          "description": "Wes' self-decrypting bcachefs disk and a GrapheneOS twist that'll make you ditch your iPhone.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nclevis — Clevis is a pluggable framework for automated decryption. It can be used to provide automated decryption of data or even automated unlock…",
-          "link": "https://linuxunplugged.com/572",
-          "publishedOn": "2024-07-22T02:30:00.000Z",
-          "wordCount": null,
-          "title": "572: Data Security Only a Maniac Could Love",
-          "itunes": {
-            "duration": "01:31:29"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/aa3981c0-3297-4a2f-9882-a51aaa6fa414.mp3",
-            "length": "77521794",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
