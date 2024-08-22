@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-21T00:03:09.661Z</updated>
+    <updated>2024-08-22T00:03:04.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[584: Google’s Poisoned Apple]]></title>
+        <id>86df8002-44a0-4837-9103-a8d51d894c12</id>
+        <link href="https://coder.show/584"/>
+        <updated>2024-08-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The walled garden wrecking ball is fueling up - where we think it strikes first. Plus, what was really behind the recent GitHub outage.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[576: The Secret Server]]></title>
         <id>ab7aff6c-aa31-47c2-8adc-cf7b3b51491d</id>

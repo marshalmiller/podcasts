@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "86df8002-44a0-4837-9103-a8d51d894c12",
+          "author": "Jupiter Broadcasting",
+          "description": "The walled garden wrecking ball is fueling up - where we think it strikes first. Plus, what was really behind the recent GitHub outage.",
+          "link": "https://coder.show/584",
+          "publishedOn": "2024-08-21T09:00:00.000Z",
+          "wordCount": null,
+          "title": "584: Google’s Poisoned Apple",
+          "itunes": {
+            "duration": "47:35"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/86df8002-44a0-4837-9103-a8d51d894c12.mp3",
+            "length": "39971340",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "605ff62f-dd11-41fc-af6d-ddd2f2f2e30e",
           "author": "Jupiter Broadcasting",
           "description": "Apple goes into full crackdown mode and begins to squeeze even more out of developers and creators. Plus, why tiny models are suddenly the rage.",
