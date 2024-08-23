@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7333f764-66f6-42eb-a345-2cf6c786655c",
-          "author": "Jupiter Broadcasting",
-          "description": "Our thoughts on the CrowdStrike outage and why Intel is in the hot seat with developers.",
-          "link": "https://coder.show/580",
-          "publishedOn": "2024-07-24T09:15:00.000Z",
-          "wordCount": null,
-          "title": "580: Error Lake",
-          "itunes": {
-            "duration": "1:05:26"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/7333f764-66f6-42eb-a345-2cf6c786655c.mp3",
-            "length": "54971477",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
