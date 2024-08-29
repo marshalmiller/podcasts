@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "511c37cc-6618-4c6c-9f3b-cff15716bee6",
+          "author": "Jupiter Broadcasting",
+          "description": "We reflect on the rise of DevOps and the frustrating dynamics that led to it. Plus, tech's latest bright idea: Roombas with attitude.",
+          "link": "https://coder.show/585",
+          "publishedOn": "2024-08-28T10:00:00.000Z",
+          "wordCount": null,
+          "title": "585: From Ops to Dev and Back Again",
+          "itunes": {
+            "duration": "53:30"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/511c37cc-6618-4c6c-9f3b-cff15716bee6.mp3",
+            "length": "44941031",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "86df8002-44a0-4837-9103-a8d51d894c12",
           "author": "Jupiter Broadcasting",
           "description": "The walled garden wrecking ball is fueling up - where we think it strikes first. Plus, what was really behind the recent GitHub outage.",
