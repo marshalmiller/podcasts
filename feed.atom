@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-29T00:03:11.838Z</updated>
+    <updated>2024-08-30T00:03:27.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -163,16 +163,6 @@ Portal:Kalpa - openSUSE Wiki — openSUSE MicroOS Desktop Gnome was renamed to o
 pop-os/kernelstub: A simple EFI boot manager manager for Linux
 Alpaca — GTK App to Chat with local AI models
 Alpaca on FlatHub]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[581: Lunacy Lake]]></title>
-        <id>aa6cdf66-cd26-47d1-b334-00d07cccf688</id>
-        <link href="https://coder.show/581"/>
-        <updated>2024-07-31T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why is Google feeling lucky, and the Intel situation slips into pure lunacy. Plus, thoughts on the C# Type Union proposal.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

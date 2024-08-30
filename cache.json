@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "aa6cdf66-cd26-47d1-b334-00d07cccf688",
-          "author": "Jupiter Broadcasting",
-          "description": "Why is Google feeling lucky, and the Intel situation slips into pure lunacy. Plus, thoughts on the C# Type Union proposal.",
-          "link": "https://coder.show/581",
-          "publishedOn": "2024-07-31T09:00:00.000Z",
-          "wordCount": null,
-          "title": "581: Lunacy Lake",
-          "itunes": {
-            "duration": "48:51"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/aa6cdf66-cd26-47d1-b334-00d07cccf688.mp3",
-            "length": "41034837",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
