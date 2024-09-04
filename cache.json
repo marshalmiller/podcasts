@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "2acf92d7-428a-4e7c-bd2f-dd9aea14a280",
-          "author": "Jupiter Broadcasting",
-          "description": "The COSMIC desktop is just around the corner. We get the inside scoop from System76 and go hands-on with an early press build.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nSystem76 tips Fedora Cosmic spin for 2025 release with Fedora 42 — It looks like System76's exciting new Rust-based Cosmic DE will get an official Fedora spin in the upcoming Fedora 42, potentially giving Linux users with bleeding-edge hardware an official way to try Cosmic.\nPop!_OS Mattermost — An excellent place to engage if you want to bring COSMIC to a distro near you.\niced — A cross-platform GUI library for Rust\nSmithay — A smithy for rusty wayland compositor\nTesting COSMIC — The easiest way to test COSMIC DE currently is by building a systemd system extension.\nMembership Summer Discount — Take $1 a month of your membership for a lifetime!\nPortal:Kalpa - openSUSE Wiki — openSUSE MicroOS Desktop Gnome was renamed to openSUSE Aeon, and the Plasma Desktop version is being renamed to openSUSE Kalpa.\npop-os/kernelstub: A simple EFI boot manager manager for Linux\nAlpaca — GTK App to Chat with local AI models\nAlpaca on FlatHub",
-          "link": "https://linuxunplugged.com/574",
-          "publishedOn": "2024-08-05T02:00:00.000Z",
-          "wordCount": null,
-          "title": "574: COSMIC Encounter",
-          "itunes": {
-            "duration": "01:05:26"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2acf92d7-428a-4e7c-bd2f-dd9aea14a280.mp3",
-            "length": "55637805",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
