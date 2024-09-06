@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "72686eb2-5052-4592-a1cc-5600a512164b",
-          "author": "Jupiter Broadcasting",
-          "description": "We take a look at SeaweedFS, roast Apple Intelligence, and reveal the vendor that caught Intel's mess before it shipped.",
-          "link": "https://coder.show/582",
-          "publishedOn": "2024-08-07T09:00:00.000Z",
-          "wordCount": null,
-          "title": "582: Intel: It Hurts Inside",
-          "itunes": {
-            "duration": "55:36"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/72686eb2-5052-4592-a1cc-5600a512164b.mp3",
-            "length": "46707065",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-05T00:03:03.552Z</updated>
+    <updated>2024-09-06T00:02:59.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -156,16 +156,6 @@ Links:
 📻 LINUX Unplugged  on Fountain.FM
 Toronto Meetup — Thursday, August 29, 2024 from 6:00 PM to 8:00 PM EDT
 Sacramento LUG M…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[582: Intel: It Hurts Inside]]></title>
-        <id>72686eb2-5052-4592-a1cc-5600a512164b</id>
-        <link href="https://coder.show/582"/>
-        <updated>2024-08-07T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We take a look at SeaweedFS, roast Apple Intelligence, and reveal the vendor that caught Intel's mess before it shipped.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
