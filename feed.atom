@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-08T00:03:32.543Z</updated>
+    <updated>2024-09-09T00:03:10.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[579: Lost & Found]]></title>
+        <id>27d40229-6f1b-433d-bb8a-576df01c1e42</id>
+        <link href="https://linuxunplugged.com/579"/>
+        <updated>2024-09-08T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Secret moments from the show you've never heard before. We kick off with some hardware hurdles, then dive into the news and share a few surprising stories.
+Sponsored By:
+
+Core Contributor Membership: Take $1 a month of your membership for a lifetime!
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[586: Mike's Clone Army]]></title>
         <id>2127782e-8bb7-4dbc-a9cf-e2cbf32fa58c</id>
