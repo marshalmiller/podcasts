@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-11T00:03:09.785Z</updated>
+    <updated>2024-09-12T00:03:15.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[587: Surfing the WSL Wave]]></title>
+        <id>7f9564b2-eccf-4500-9377-9f9fd4ce495a</id>
+        <link href="https://coder.show/587"/>
+        <updated>2024-09-11T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Our thoughts on the iPhone 16, and then Mike surfs the WSL wave.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[579: Lost & Found]]></title>
         <id>27d40229-6f1b-433d-bb8a-576df01c1e42</id>
