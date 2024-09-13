@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "605ff62f-dd11-41fc-af6d-ddd2f2f2e30e",
-          "author": "Jupiter Broadcasting",
-          "description": "Apple goes into full crackdown mode and begins to squeeze even more out of developers and creators. Plus, why tiny models are suddenly the rage.",
-          "link": "https://coder.show/583",
-          "publishedOn": "2024-08-14T09:00:00.000Z",
-          "wordCount": null,
-          "title": "583: A Shekel for Every Click",
-          "itunes": {
-            "duration": "53:45"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/605ff62f-dd11-41fc-af6d-ddd2f2f2e30e.mp3",
-            "length": "45162288",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
