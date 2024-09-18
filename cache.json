@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "ab7aff6c-aa31-47c2-8adc-cf7b3b51491d",
-          "author": "Jupiter Broadcasting",
-          "description": "We reveal how we turned our humble LAN into a public server farm, all while keeping our IP address under wraps and our ISP blissfully unaware.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nToronto Meetup — Thursday, Aug 29, 2024\nBerlin with Brent — September Meetup @ Nextcloud Conference, Saturday, Sep 14, 2024\nCheck out Alex's \"Building a Colo Server\" video — Building a colo server for Jupiter Broadcasting using the 45Homelab HL15 server.\nFirewall - NixOS Wiki\nnftables wiki\nThe netfilter.org \"nftables\" project\nGentoo Nftables Examples\nnetworking/nftables: add .tables property and disable ruleset flushing by default by mkg20001\nExample nftables config\nOlympia Mike on \"verified only Flatpaks\" — I'm curious your take on a recent update that happened in Linux Mint, and the possible knock on effect of it.\nIncus is a next generation system container and virtual machine manager.\nIncus - NixOS Wiki\nMoving from Proxmox to Incus\nMembership Summer Discount — Take $1 a month of your membership for a lifetime!\nReferral Code eXchange\nauto-tab-discard\ntab-session-manager\nOneTab extension for Google Chrome and Firefox\nTubular — A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.",
-          "link": "https://linuxunplugged.com/576",
-          "publishedOn": "2024-08-19T02:45:00.000Z",
-          "wordCount": null,
-          "title": "576: The Secret Server",
-          "itunes": {
-            "duration": "01:20:28"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ab7aff6c-aa31-47c2-8adc-cf7b3b51491d.mp3",
-            "length": "68269903",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },

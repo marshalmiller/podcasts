@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-17T00:02:43.449Z</updated>
+    <updated>2024-09-18T00:02:59.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -151,47 +151,6 @@ Berlin with Brent — September Meetup @ Nextcloud Conference, Saturday, Sep 1�
         <link href="https://coder.show/584"/>
         <updated>2024-08-21T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[The walled garden wrecking ball is fueling up - where we think it strikes first. Plus, what was really behind the recent GitHub outage.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[576: The Secret Server]]></title>
-        <id>ab7aff6c-aa31-47c2-8adc-cf7b3b51491d</id>
-        <link href="https://linuxunplugged.com/576"/>
-        <updated>2024-08-19T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[We reveal how we turned our humble LAN into a public server farm, all while keeping our IP address under wraps and our ISP blissfully unaware.
-Sponsored By:
-
-Core Contributor Membership: Take $1 a month of your membership for a lifetime!
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-Toronto Meetup — Thursday, Aug 29, 2024
-Berlin with Brent — September Meetup @ Nextcloud Conference, Saturday, Sep 14, 2024
-Check out Alex's "Building a Colo Server" video — Building a colo server for Jupiter Broadcasting using the 45Homelab HL15 server.
-Firewall - NixOS Wiki
-nftables wiki
-The netfilter.org "nftables" project
-Gentoo Nftables Examples
-networking/nftables: add .tables property and disable ruleset flushing by default by mkg20001
-Example nftables config
-Olympia Mike on "verified only Flatpaks" — I'm curious your take on a recent update that happened in Linux Mint, and the possible knock on effect of it.
-Incus is a next generation system container and virtual machine manager.
-Incus - NixOS Wiki
-Moving from Proxmox to Incus
-Membership Summer Discount — Take $1 a month of your membership for a lifetime!
-Referral Code eXchange
-auto-tab-discard
-tab-session-manager
-OneTab extension for Google Chrome and Firefox
-Tubular — A fork of NewPipe that implements SponsorBlock and ReturnYouTubeDislike.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
