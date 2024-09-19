@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "f5efc6c1-b45e-426e-b311-abd31d7eb5b5",
+          "author": "Jupiter Broadcasting",
+          "description": "The insidious undercurrents threatening to crush open-source AI projects, plus our thoughts on Microsoft's \"big changes\" to Windows post-CrowdStrike.",
+          "link": "https://coder.show/588",
+          "publishedOn": "2024-09-18T09:00:00.000Z",
+          "wordCount": null,
+          "title": "588: Hulk Smash “PUNY DEVS”",
+          "itunes": {
+            "duration": "59:32"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/f5efc6c1-b45e-426e-b311-abd31d7eb5b5.mp3",
+            "length": "50016414",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "7f9564b2-eccf-4500-9377-9f9fd4ce495a",
           "author": "Jupiter Broadcasting",
           "description": "Our thoughts on the iPhone 16, and then Mike surfs the WSL wave.",

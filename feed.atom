@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-18T00:02:59.841Z</updated>
+    <updated>2024-09-19T00:03:13.020Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[588: Hulk Smash “PUNY DEVS”]]></title>
+        <id>f5efc6c1-b45e-426e-b311-abd31d7eb5b5</id>
+        <link href="https://coder.show/588"/>
+        <updated>2024-09-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The insidious undercurrents threatening to crush open-source AI projects, plus our thoughts on Microsoft's "big changes" to Windows post-CrowdStrike.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[580: Brent's Boogie Bus Broadcast Bash]]></title>
         <id>5b03c5ee-b219-4e8b-866d-6ba2d5fc14fe</id>
