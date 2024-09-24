@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "48e8b237-15fe-4e92-8a1f-bd21e16be732",
+          "author": "Jupiter Broadcasting",
+          "description": "What if we had to abandon ship and stop using Desktop Linux? We've come up with a master plan, and put it to the test.\nSponsored By:\n\nJupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nMeshtastic Linux-Native Application\nMeshMap — Meshtastic Node Map\nLINUX Un…",
+          "link": "https://linuxunplugged.com/581",
+          "publishedOn": "2024-09-23T02:00:00.000Z",
+          "wordCount": null,
+          "title": "581: The Linux Escape Hatch",
+          "itunes": {
+            "duration": "01:07:38"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/48e8b237-15fe-4e92-8a1f-bd21e16be732.mp3",
+            "length": "57491174",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5b03c5ee-b219-4e8b-866d-6ba2d5fc14fe",
           "author": "Jupiter Broadcasting",
           "description": "The things we like in the new Nextcloud release, and we attempt to upgrade our production server live—from a big blue bus.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nOpenSats Grants Long-Term Support for WireGuard Creator Jason Donenfeld\nOpenSats Lightning Node\nNextcloud Hub 9\nIntroducing Nextcloud Hub 9 - the world's leading open source collaboration platform! - YouTube\nDay 1: Nextcloud Community Conference 2024 - YouTube\nDay 2: Nextcloud Community Conference 2024 - YouTube\nNextcloud Community Conference 2024\nMailvelope — Mailvelope is a browser add-on that you can use in Chrome, Edge and Firefox to securely encrypt your emails with PGP using webmail providers\nNextcloud Server Releases\nnextcloud/docker: ⛴ Docker image of Nextcloud\nBug: Unable to update background execution mode: conflict between new type (mixed) and old type (string)\nVLESS\nhacompanion: Daemon that sends local hardware information to Home Assistant.\nLNXlink:  🖥 Effortlessly manage your Linux machine using MQTT.\nWaycheck — Waycheck is a simple graphical application that connects to your Wayland compositor and displays the list of Wayland protocols that it supports, along with the list of protocols that it doesn't.\nSupersonic — A lightweight cross-platform desktop client for Subsonic and Jellyfin music servers.",
