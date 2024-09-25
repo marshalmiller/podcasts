@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-24T00:03:30.305Z</updated>
+    <updated>2024-09-25T00:03:02.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Coder PSA]]></title>
+        <id>8a11ed8d-e556-402f-b45a-a16e91a96425</id>
+        <link href="https://coder.show/hurricanehelene"/>
+        <updated>2024-09-24T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A quick update from Chris on where the show is at this week, and what to watch out for next week!]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[581: The Linux Escape Hatch]]></title>
         <id>48e8b237-15fe-4e92-8a1f-bd21e16be732</id>
