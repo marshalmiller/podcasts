@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "b9009434-10d6-4ff1-b8bb-29ccdc09dda4",
-          "author": "Jupiter Broadcasting",
-          "description": "Sixty vulnerabilities and exposures disclosed in one week sounds like a lot. We'll explain why it's just business as usual.\nSponsored By:\n\nCore Contributor Membership: Take $1 a month of your membership for a lifetime!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nToronto Meetup — Thursday, Aug 29, 2024\nBerlin with Brent — September Meetup @ Nextcloud Conference, Saturday, Sep 1…",
-          "link": "https://linuxunplugged.com/577",
-          "publishedOn": "2024-08-26T15:30:00.000Z",
-          "wordCount": null,
-          "title": "577: Summer Kernel Corn Roast",
-          "itunes": {
-            "duration": "01:20:22"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b9009434-10d6-4ff1-b8bb-29ccdc09dda4.mp3",
-            "length": "68184479",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
