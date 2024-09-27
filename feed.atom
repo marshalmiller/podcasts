@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-26T00:03:01.780Z</updated>
+    <updated>2024-09-27T00:03:28.438Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -152,16 +152,6 @@ Links:
 Berlin with Brent: September Meetup @ Nextcloud Conference, Sat, Sep 14, 2024
 Berlin Buds on Matrix
 Linus Torvalds talks AI, R…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[585: From Ops to Dev and Back Again]]></title>
-        <id>511c37cc-6618-4c6c-9f3b-cff15716bee6</id>
-        <link href="https://coder.show/585"/>
-        <updated>2024-08-28T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We reflect on the rise of DevOps and the frustrating dynamics that led to it. Plus, tech's latest bright idea: Roombas with attitude.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
