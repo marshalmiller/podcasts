@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-09-30T00:03:22.933Z</updated>
+    <updated>2024-10-01T00:03:39.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[582: On the CUPS of Disaster]]></title>
+        <id>ffb365c2-37c4-42b6-8b40-95649c0e790e</id>
+        <link href="https://linuxunplugged.com/582"/>
+        <updated>2024-09-30T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We explain the one-packet attack on CUPS and discuss its real-world implications. Plus, a Meshtastic update and more.
+Sponsored By:
+
+Jupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+Attacking UNIX Systems via CUPS — A remote unauthenticated attacker can silently replace existing printers’ (or install new ones) IPP urls with a malicious one, resulting in arbitrary command execution (on the computer) when a print job is started (from that computer).
+Marcus Hutchins Scan finds 107,287 servers responding to the UDP port 631 — Instead of relying on Shodan data, I performed my own internet-wide scan using a distributed network of servers. This resulted in discovering drastically more exposed cups-browsed instances, causing my total count to rise from 13,289 to 107,287.
+Shodan on X: 75,000 exposed CUPS daemons on the Internet
+Annual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!
+nodeboard — Your Ultimate Digital Inventory Manager
+Lightning Pay
+activate-linux — The "Activate Windows" watermark ported to Linux
+Install Frog on Linux | Flathub — Extract text from images, websites, videos, and QR codes by taking a picture of the source.
+Clapgrep — Ever had a folder full of PDF files, where you knew, somewhere in there, is what you're looking for. But you did not know in which file. So you had to search each of them at a time...]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Coder PSA]]></title>
         <id>8a11ed8d-e556-402f-b45a-a16e91a96425</id>
