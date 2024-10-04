@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "2127782e-8bb7-4dbc-a9cf-e2cbf32fa58c",
-          "author": "Jupiter Broadcasting",
-          "description": "How Mike plans to win the Clone Wars with Dokku, we review some shocking developer data and say goodbye to another project DMCA'd by Apple.",
-          "link": "https://coder.show/586",
-          "publishedOn": "2024-09-04T09:00:00.000Z",
-          "wordCount": null,
-          "title": "586: Mike's Clone Army",
-          "itunes": {
-            "duration": "1:06:03"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/2127782e-8bb7-4dbc-a9cf-e2cbf32fa58c.mp3",
-            "length": "55488231",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
