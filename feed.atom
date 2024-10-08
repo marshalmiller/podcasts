@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-07T00:03:34.412Z</updated>
+    <updated>2024-10-08T00:02:56.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[583: Nix on Easy Mode]]></title>
+        <id>7321061a-7c49-408b-b109-411a0bcc3634</id>
+        <link href="https://linuxunplugged.com/583"/>
+        <updated>2024-10-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Wes gives his shell superpowers to solve a tricky problem. Then, we share an update on our favorite Google Photos alternative, including breaking changes and a great new way to run it.
+Sponsored By:
+
+Jupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+bda in t…]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[589: Blame the Tools using the Tools]]></title>
         <id>3e33c6d4-277d-476d-bc93-106a96f3695d</id>
