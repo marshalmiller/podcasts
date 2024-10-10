@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "2ec5a826-c0d8-47a2-899c-427e06948c0c",
+          "author": "Jupiter Broadcasting",
+          "description": "Our reaction to Google's major legal blow, forcing them to open the Play Store wide, our thoughts on the world's lovefest with AI-generated podcasts, and the next tool Microsoft is porting over from Linux.",
+          "link": "https://coder.show/590",
+          "publishedOn": "2024-10-09T09:00:00.000Z",
+          "wordCount": null,
+          "title": "590: Google’s Loss is Our Win",
+          "itunes": {
+            "duration": "34:45"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/2ec5a826-c0d8-47a2-899c-427e06948c0c.mp3",
+            "length": "29201054",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "3e33c6d4-277d-476d-bc93-106a96f3695d",
           "author": "Jupiter Broadcasting",
           "description": "Our thoughts on big tech firing up old nuclear reactors to satisfy the AI growth plans, Sam's big week, and debate if Meta just had their iPhone moment.",
