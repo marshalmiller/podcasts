@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7f9564b2-eccf-4500-9377-9f9fd4ce495a",
-          "author": "Jupiter Broadcasting",
-          "description": "Our thoughts on the iPhone 16, and then Mike surfs the WSL wave.",
-          "link": "https://coder.show/587",
-          "publishedOn": "2024-09-11T09:00:00.000Z",
-          "wordCount": null,
-          "title": "587: Surfing the WSL Wave",
-          "itunes": {
-            "duration": "1:00:01"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/7f9564b2-eccf-4500-9377-9f9fd4ce495a.mp3",
-            "length": "50414677",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
