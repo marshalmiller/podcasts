@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-16T00:03:33.770Z</updated>
+    <updated>2024-10-17T00:03:10.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[591: FOSS does what Nintendont]]></title>
+        <id>412fee0f-6a0c-43c1-bec6-eaf27f0a23a0</id>
+        <link href="https://coder.show/591"/>
+        <updated>2024-10-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We get frustrated with Nintendo. Then, dig into the 30-year-old backdoor that was recently exploited and the hard lesson we should learn from it. Then, we'll break down some "hot tips" that promise to make you the next DevRel star.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[584: Captain Meshtastic and the Solar Cowboy]]></title>
         <id>a9d9c63d-fa16-4d67-ab6f-30b7eb087200</id>
