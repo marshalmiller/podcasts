@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-17T00:03:10.890Z</updated>
+    <updated>2024-10-18T00:03:02.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -144,16 +144,6 @@ Links:
 Meshtastic Linux-Native Application
 MeshMap — Meshtastic Node Map
 LINUX Un…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[588: Hulk Smash “PUNY DEVS”]]></title>
-        <id>f5efc6c1-b45e-426e-b311-abd31d7eb5b5</id>
-        <link href="https://coder.show/588"/>
-        <updated>2024-09-18T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The insidious undercurrents threatening to crush open-source AI projects, plus our thoughts on Microsoft's "big changes" to Windows post-CrowdStrike.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
