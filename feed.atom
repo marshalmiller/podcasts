@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-21T00:03:32.920Z</updated>
+    <updated>2024-10-22T00:03:03.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[585: Choosy Moms Choose Ubuntu]]></title>
+        <id>1dc422f6-c925-4d2f-8ee0-84376e5bf1bc</id>
+        <link href="https://linuxunplugged.com/585"/>
+        <updated>2024-10-21T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Wes got Mom a new Linux laptop, and he lets her pick the distro. Plus, we take a look at the new Ubuntu 24.10, and why we think this release might be a good sign for the future.
+Sponsored By:
+
+Jupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+Ubuntu 24.10 - Oracular Oriole
+Ubuntu Unity
+AMD Framework 13
+Annual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!
+imagegenius/docker-immich — Monolithic (Single) Docker Container for Immich
+rramiachraf/dumb — Private alternative front-end for Genius.
+qdm12/gluetun: — VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+SCaLE 22X Call for Papers
+SCaLE CFP Feedback Livestream
+cli-ai — A simple command-line AI assistant that translates natural language into shell commands. Supports all Windows and Unix-based systems (Linux, MacOS).]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[591: FOSS does what Nintendont]]></title>
         <id>412fee0f-6a0c-43c1-bec6-eaf27f0a23a0</id>
