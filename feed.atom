@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-10-23T00:03:13.807Z</updated>
+    <updated>2024-10-24T00:03:13.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[592: C++ Safety Dance]]></title>
+        <id>8c87bf22-4539-423c-8705-098c6c5a73e1</id>
+        <link href="https://coder.show/592"/>
+        <updated>2024-10-23T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[C++'s Borg-like mission continues, and some thoughts on Rails 8.1. Plus, there is a little trouble in Microsoft Paradise. And why Chris finally paid for an LLM.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[585: Choosy Moms Choose Ubuntu]]></title>
         <id>1dc422f6-c925-4d2f-8ee0-84376e5bf1bc</id>
