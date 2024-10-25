@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "8a11ed8d-e556-402f-b45a-a16e91a96425",
-          "author": "Jupiter Broadcasting",
-          "description": "A quick update from Chris on where the show is at this week, and what to watch out for next week!",
-          "link": "https://coder.show/hurricanehelene",
-          "publishedOn": "2024-09-24T21:00:00.000Z",
-          "wordCount": null,
-          "title": "A Coder PSA",
-          "itunes": {
-            "duration": "1:46"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/8a11ed8d-e556-402f-b45a-a16e91a96425.mp3",
-            "length": "1828151",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
