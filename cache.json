@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "ffb365c2-37c4-42b6-8b40-95649c0e790e",
-          "author": "Jupiter Broadcasting",
-          "description": "We explain the one-packet attack on CUPS and discuss its real-world implications. Plus, a Meshtastic update and more.\nSponsored By:\n\nJupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nAttacking UNIX Systems via CUPS — A remote unauthenticated attacker can silently replace existing printers’ (or install new ones) IPP urls with a malicious one, resulting in arbitrary command execution (on the computer) when a print job is started (from that computer).\nMarcus Hutchins Scan finds 107,287 servers responding to the UDP port 631 — Instead of relying on Shodan data, I performed my own internet-wide scan using a distributed network of servers. This resulted in discovering drastically more exposed cups-browsed instances, causing my total count to rise from 13,289 to 107,287.\nShodan on X: 75,000 exposed CUPS daemons on the Internet\nAnnual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!\nnodeboard — Your Ultimate Digital Inventory Manager\nLightning Pay\nactivate-linux — The \"Activate Windows\" watermark ported to Linux\nInstall Frog on Linux | Flathub — Extract text from images, websites, videos, and QR codes by taking a picture of the source.\nClapgrep — Ever had a folder full of PDF files, where you knew, somewhere in there, is what you're looking for. But you did not know in which file. So you had to search each of them at a time...",
-          "link": "https://linuxunplugged.com/582",
-          "publishedOn": "2024-09-30T01:00:00.000Z",
-          "wordCount": null,
-          "title": "582: On the CUPS of Disaster",
-          "itunes": {
-            "duration": "01:07:30"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/ffb365c2-37c4-42b6-8b40-95649c0e790e.mp3",
-            "length": "57379208",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
