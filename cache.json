@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "d78029c9-97e9-453c-918c-263b0093413a",
+          "author": "Jupiter Broadcasting",
+          "description": "Mike reports in from the COSMIC frontier! Plus: Microsoft's juicy Google drama, GPU eye candy that'll make your wallet nervous, and the tea on why OpenAI's AGI Czar went full scorched-earth on his exit.",
+          "link": "https://coder.show/593",
+          "publishedOn": "2024-10-30T09:00:00.000Z",
+          "wordCount": null,
+          "title": "593: Bake Your Own Linux Cake",
+          "itunes": {
+            "duration": "48:16"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/d78029c9-97e9-453c-918c-263b0093413a.mp3",
+            "length": "40556848",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8c87bf22-4539-423c-8705-098c6c5a73e1",
           "author": "Jupiter Broadcasting",
           "description": "C++'s Borg-like mission continues, and some thoughts on Rails 8.1. Plus, there is a little trouble in Microsoft Paradise. And why Chris finally paid for an LLM.",
