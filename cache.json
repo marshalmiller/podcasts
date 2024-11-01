@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "3e33c6d4-277d-476d-bc93-106a96f3695d",
-          "author": "Jupiter Broadcasting",
-          "description": "Our thoughts on big tech firing up old nuclear reactors to satisfy the AI growth plans, Sam's big week, and debate if Meta just had their iPhone moment.",
-          "link": "https://coder.show/589",
-          "publishedOn": "2024-10-02T09:00:00.000Z",
-          "wordCount": null,
-          "title": "589: Blame the Tools using the Tools",
-          "itunes": {
-            "duration": "1:15:51"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/3e33c6d4-277d-476d-bc93-106a96f3695d.mp3",
-            "length": "63721557",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
