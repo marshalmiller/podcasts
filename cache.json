@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "7321061a-7c49-408b-b109-411a0bcc3634",
-          "author": "Jupiter Broadcasting",
-          "description": "Wes gives his shell superpowers to solve a tricky problem. Then, we share an update on our favorite Google Photos alternative, including breaking changes and a great new way to run it.\nSponsored By:\n\nJupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nbda in t…",
-          "link": "https://linuxunplugged.com/583",
-          "publishedOn": "2024-10-07T01:00:00.000Z",
-          "wordCount": null,
-          "title": "583: Nix on Easy Mode",
-          "itunes": {
-            "duration": "01:16:52"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/7321061a-7c49-408b-b109-411a0bcc3634.mp3",
-            "length": "65244883",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
