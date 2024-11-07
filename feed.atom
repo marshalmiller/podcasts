@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-06T00:03:05.014Z</updated>
+    <updated>2024-11-07T00:03:06.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[594: Smart Contracts for Dumb People]]></title>
+        <id>5f55fba8-7ad0-4d56-9e65-9383400a3eb8</id>
+        <link href="https://coder.show/594"/>
+        <updated>2024-11-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Malicious NPM packages are sneaking into codebases while FFmpeg devs prove old-school assembly skills can still smoke the competition. Plus, a rare bee species takes on Zuck's AI dreams.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[587: Triple Fedora Taste-Test]]></title>
         <id>2d15972b-9650-4e53-a2b3-4af71538dd0f</id>
