@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-13T00:03:19.151Z</updated>
+    <updated>2024-11-14T00:03:14.245Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[595: Year of the Snake]]></title>
+        <id>e47119b0-291f-4cd9-9e45-0056637bd9a0</id>
+        <link href="https://coder.show/595"/>
+        <updated>2024-11-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Python's eating the world - and AI's helping it digest. A cheeky look at why this programming language is suddenly everywhere and the bizarre tale of how AI infiltrated the last place you'd expect.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[588: Clearing out the Tumbleweeds]]></title>
         <id>3e0934ac-fc4c-422e-9eb5-9bbca508eacc</id>
