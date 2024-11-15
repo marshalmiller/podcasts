@@ -161,24 +161,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "412fee0f-6a0c-43c1-bec6-eaf27f0a23a0",
-          "author": "Jupiter Broadcasting",
-          "description": "We get frustrated with Nintendo. Then, dig into the 30-year-old backdoor that was recently exploited and the hard lesson we should learn from it. Then, we'll break down some \"hot tips\" that promise to make you the next DevRel star.",
-          "link": "https://coder.show/591",
-          "publishedOn": "2024-10-16T09:00:00.000Z",
-          "wordCount": null,
-          "title": "591: FOSS does what Nintendont",
-          "itunes": {
-            "duration": "37:07"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/412fee0f-6a0c-43c1-bec6-eaf27f0a23a0.mp3",
-            "length": "31182128",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
