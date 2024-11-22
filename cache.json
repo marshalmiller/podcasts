@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "8c87bf22-4539-423c-8705-098c6c5a73e1",
-          "author": "Jupiter Broadcasting",
-          "description": "C++'s Borg-like mission continues, and some thoughts on Rails 8.1. Plus, there is a little trouble in Microsoft Paradise. And why Chris finally paid for an LLM.",
-          "link": "https://coder.show/592",
-          "publishedOn": "2024-10-23T09:00:00.000Z",
-          "wordCount": null,
-          "title": "592: C++ Safety Dance",
-          "itunes": {
-            "duration": "45:24"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/8c87bf22-4539-423c-8705-098c6c5a73e1.mp3",
-            "length": "38142768",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }

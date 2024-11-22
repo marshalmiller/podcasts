@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-21T00:03:24.298Z</updated>
+    <updated>2024-11-22T00:03:25.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -158,16 +158,6 @@ Links:
 📻 LINUX Unplugged  on Fountain.FM
 dracut-loopback
 Reboot Linux faster usi…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[592: C++ Safety Dance]]></title>
-        <id>8c87bf22-4539-423c-8705-098c6c5a73e1</id>
-        <link href="https://coder.show/592"/>
-        <updated>2024-10-23T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[C++'s Borg-like mission continues, and some thoughts on Rails 8.1. Plus, there is a little trouble in Microsoft Paradise. And why Chris finally paid for an LLM.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
