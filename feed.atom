@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-27T00:04:12.324Z</updated>
+    <updated>2024-11-28T00:03:38.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[597: Make Google Great Again]]></title>
+        <id>89b51908-a8ff-4d22-a470-51a0d7bf3518</id>
+        <link href="https://coder.show/597"/>
+        <updated>2024-11-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A survey found that nearly 10% of developers are ghosts doing nothing - our thoughts on that, AI Big Brother as a service comes to the workplace, OpenAI's NYT standoff, and Google's growing problem.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[590: Self-Host Before You're Toast]]></title>
         <id>e1277ce3-95e2-4413-b415-092fdbe2cc24</id>
@@ -159,30 +169,6 @@ mirac…]]></summary>
         <link href="https://coder.show/593"/>
         <updated>2024-10-30T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[Mike reports in from the COSMIC frontier! Plus: Microsoft's juicy Google drama, GPU eye candy that'll make your wallet nervous, and the tea on why OpenAI's AGI Czar went full scorched-earth on his exit.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[586: Kexec with Determination]]></title>
-        <id>cfa6f54b-3693-48a9-a01a-e19cc9063932</id>
-        <link href="https://linuxunplugged.com/586"/>
-        <updated>2024-10-28T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're hot-swapping our rigs to Fedora 41; then Graham Christensen gives us the inside scoop on a new Nix distribution, and Determinate Systems' big week!
-Sponsored By:
-
-Jupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-dracut-loopback
-Reboot Linux faster usi…]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "cfa6f54b-3693-48a9-a01a-e19cc9063932",
-          "author": "Jupiter Broadcasting",
-          "description": "We're hot-swapping our rigs to Fedora 41; then Graham Christensen gives us the inside scoop on a new Nix distribution, and Determinate Systems' big week!\nSponsored By:\n\nJupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\ndracut-loopback\nReboot Linux faster usi…",
-          "link": "https://linuxunplugged.com/586",
-          "publishedOn": "2024-10-28T01:00:00.000Z",
-          "wordCount": null,
-          "title": "586: Kexec with Determination",
-          "itunes": {
-            "duration": "01:09:25"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/cfa6f54b-3693-48a9-a01a-e19cc9063932.mp3",
-            "length": "58988219",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -108,6 +90,24 @@
       "feedUrl": "https://coder.show/rss",
       "siteUrl": "https://coder.show",
       "articles": [
+        {
+          "id": "89b51908-a8ff-4d22-a470-51a0d7bf3518",
+          "author": "Jupiter Broadcasting",
+          "description": "A survey found that nearly 10% of developers are ghosts doing nothing - our thoughts on that, AI Big Brother as a service comes to the workplace, OpenAI's NYT standoff, and Google's growing problem.",
+          "link": "https://coder.show/597",
+          "publishedOn": "2024-11-27T11:00:00.000Z",
+          "wordCount": null,
+          "title": "597: Make Google Great Again",
+          "itunes": {
+            "duration": "46:57"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/89b51908-a8ff-4d22-a470-51a0d7bf3518.mp3",
+            "length": "39449465",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
         {
           "id": "f2e3c727-655f-4153-ac83-f14d4fa1b723",
           "author": "Jupiter Broadcasting",
