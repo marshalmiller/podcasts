@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-28T00:03:38.057Z</updated>
+    <updated>2024-11-29T00:03:29.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -159,16 +159,6 @@ Links:
 💥 Gets Sats Quick and Easy with Strike
 Flock 2024 Introducing Fedora Miracle, a proposed Fedora spin built on Mir - YouTube
 mirac…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[593: Bake Your Own Linux Cake]]></title>
-        <id>d78029c9-97e9-453c-918c-263b0093413a</id>
-        <link href="https://coder.show/593"/>
-        <updated>2024-10-30T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mike reports in from the COSMIC frontier! Plus: Microsoft's juicy Google drama, GPU eye candy that'll make your wallet nervous, and the tea on why OpenAI's AGI Czar went full scorched-earth on his exit.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
