@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "2d15972b-9650-4e53-a2b3-4af71538dd0f",
-          "author": "Jupiter Broadcasting",
-          "description": "Fedora 41 is here! We break down the best new features, then branch out for a three-way spin showdown. Which flavor will come out on top?\nSponsored By:\n\nJupiter Party Annual Membership: Put your support on automatic with our annual plan, and get one month of membership for free!\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\nFlock 2024 Introducing Fedora Miracle, a proposed Fedora spin built on Mir - YouTube\nmirac…",
-          "link": "https://linuxunplugged.com/587",
-          "publishedOn": "2024-11-04T02:41:24.000Z",
-          "wordCount": null,
-          "title": "587: Triple Fedora Taste-Test",
-          "itunes": {
-            "duration": "01:28:07"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2d15972b-9650-4e53-a2b3-4af71538dd0f.mp3",
-            "length": "74695956",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
