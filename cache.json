@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "5f55fba8-7ad0-4d56-9e65-9383400a3eb8",
-          "author": "Jupiter Broadcasting",
-          "description": "Malicious NPM packages are sneaking into codebases while FFmpeg devs prove old-school assembly skills can still smoke the competition. Plus, a rare bee species takes on Zuck's AI dreams.",
-          "link": "https://coder.show/594",
-          "publishedOn": "2024-11-06T10:00:00.000Z",
-          "wordCount": null,
-          "title": "594: Smart Contracts for Dumb People",
-          "itunes": {
-            "duration": "41:10"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5f55fba8-7ad0-4d56-9e65-9383400a3eb8.mp3",
-            "length": "34592414",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
