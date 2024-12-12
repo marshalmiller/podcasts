@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "e78c81c2-f55a-4f2b-a88c-ef34d24fd316",
+          "author": "Jupiter Broadcasting",
+          "description": "Sam's Checkmate: How Open Source AI and Silicon Valley Kingmakers dethroned the OpenAI emperor! Plus,  Tesla's API Apocalypse has arrived.",
+          "link": "https://coder.show/599",
+          "publishedOn": "2024-12-11T10:00:00.000Z",
+          "wordCount": null,
+          "title": "599: GPU Game Theory",
+          "itunes": {
+            "duration": "42:11"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/e78c81c2-f55a-4f2b-a88c-ef34d24fd316.mp3",
+            "length": "35445625",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "1e6cfee6-871d-4eff-ba4c-d4be994753d5",
           "author": "Jupiter Broadcasting",
           "description": "GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust.",
