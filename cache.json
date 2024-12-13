@@ -161,24 +161,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "e47119b0-291f-4cd9-9e45-0056637bd9a0",
-          "author": "Jupiter Broadcasting",
-          "description": "Python's eating the world - and AI's helping it digest. A cheeky look at why this programming language is suddenly everywhere and the bizarre tale of how AI infiltrated the last place you'd expect.",
-          "link": "https://coder.show/595",
-          "publishedOn": "2024-11-13T10:00:00.000Z",
-          "wordCount": null,
-          "title": "595: Year of the Snake",
-          "itunes": {
-            "duration": "39:13"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/e47119b0-291f-4cd9-9e45-0056637bd9a0.mp3",
-            "length": "32947797",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }
