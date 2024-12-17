@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "b2b7e046-533c-4e0b-8b5c-e3120c82a165",
+          "author": "Jupiter Broadcasting",
+          "description": "A special guest joins us for the news, then we dive headfirst into our RT Linux kernel adventures—where speed seduced, but stability ghosted us.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nXfce 4.20 Desktop Released With Wayland Improvements & New Features\nXfce 4.20 Release Notes\nThe Last Tuxies\nPlan your meetup: Colony Events\nLUP 600 Pacific Northwest Party · C…",
+          "link": "https://linuxunplugged.com/593",
+          "publishedOn": "2024-12-16T01:40:00.000Z",
+          "wordCount": null,
+          "title": "593: Zen and the Art of Kernel Preempting",
+          "itunes": {
+            "duration": "01:17:56"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/b2b7e046-533c-4e0b-8b5c-e3120c82a165.mp3",
+            "length": "66133879",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "9c2a6f71-fa12-419e-8920-9a34680e9cbc",
           "author": "Jupiter Broadcasting",
           "description": "USB thumb drives are old and busted. No hard drive? No problem. Need a quick system rescue or work in another distro for the day? Easy.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nODROID H4 PLUS\nODROID H4 Mini-ITX Kit\nPlan your meetup: Colony Events\nLUP 600 Pacific Northwest Party · Colony Events\nRequest for Proposals: Flathub Program Management — The GNOME Foundation, in partnership with KDE e.V., is bootstrapping Flathub LLC to become a self-sustaining entity.\nFlathub to become a self-sustaining entity and they're looking to hire someone to help\nFlathub Statistics\nFlathub Verified Apps\nVerification | Flathub Documentation\nopen issues on FlatHub-Infra GitHub\nnetboot.xyz — Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE.\nBooting Methods\nboot netboot.xyz from grub\nboot netboot.xyz from a USB Disk\nWindows | netboot.xyz\nWindows PE image as an ISO, instructions on how to build it can be found here\nLUP 333\nAnnual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!\nProxmox and Veeam backups\nhome-assistant-technitiumdns — This custom integration allows you to integrate TechnetiumDNS with Home Assistant, providing sensors for various DNS statistics.\nsam h's nix config with Blocky\nRescuezilla — Rescuezilla is an open-source easy-to-use disk imaging app that's fully compatible with Clonezilla — the industry-standard trusted by tens of millions.\nrescuezilla/rescuezilla: The Swiss Army Knife of System Recovery",
