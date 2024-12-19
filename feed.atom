@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-18T00:03:33.996Z</updated>
+    <updated>2024-12-19T00:03:31.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[600: Mikestrodamus]]></title>
+        <id>77d26f55-0213-4629-979e-61ba187adb5f</id>
+        <link href="https://coder.show/600"/>
+        <updated>2024-12-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We’re taking a victory lap down memory lane. From spooky-accurate predictions to "did we really say that?" moments, this one’s for the history books.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[593: Zen and the Art of Kernel Preempting]]></title>
         <id>b2b7e046-533c-4e0b-8b5c-e3120c82a165</id>

@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "77d26f55-0213-4629-979e-61ba187adb5f",
+          "author": "Jupiter Broadcasting",
+          "description": "We’re taking a victory lap down memory lane. From spooky-accurate predictions to \"did we really say that?\" moments, this one’s for the history books.",
+          "link": "https://coder.show/600",
+          "publishedOn": "2024-12-18T10:00:00.000Z",
+          "wordCount": null,
+          "title": "600: Mikestrodamus",
+          "itunes": {
+            "duration": "55:56"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/77d26f55-0213-4629-979e-61ba187adb5f.mp3",
+            "length": "46994151",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "e78c81c2-f55a-4f2b-a88c-ef34d24fd316",
           "author": "Jupiter Broadcasting",
           "description": "Sam's Checkmate: How Open Source AI and Silicon Valley Kingmakers dethroned the OpenAI emperor! Plus,  Tesla's API Apocalypse has arrived.",
