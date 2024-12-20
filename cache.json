@@ -161,24 +161,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "f2e3c727-655f-4153-ac83-f14d4fa1b723",
-          "author": "Jupiter Broadcasting",
-          "description": "We react to Microsoft's new vision for the desktop PC, discuss the realities of working with large dependency chains in your projects, and discuss Google selling off Chrome. Then, we read some spicy tech CEO emails!",
-          "link": "https://coder.show/596",
-          "publishedOn": "2024-11-20T10:00:00.000Z",
-          "wordCount": null,
-          "title": "596: Chrome For Sale",
-          "itunes": {
-            "duration": "52:16"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/f2e3c727-655f-4153-ac83-f14d4fa1b723.mp3",
-            "length": "43916665",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }

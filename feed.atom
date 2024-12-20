@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-19T00:03:31.280Z</updated>
+    <updated>2024-12-20T00:03:26.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -162,16 +162,6 @@ Links:
 📻 LINUX Unplugged  on Fountain.FM
 Syncthing — Open Source Continuous File Synchronization
 2024 Tuxi…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[596: Chrome For Sale]]></title>
-        <id>f2e3c727-655f-4153-ac83-f14d4fa1b723</id>
-        <link href="https://coder.show/596"/>
-        <updated>2024-11-20T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We react to Microsoft's new vision for the desktop PC, discuss the realities of working with large dependency chains in your projects, and discuss Google selling off Chrome. Then, we read some spicy tech CEO emails!]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
