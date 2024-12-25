@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "e1277ce3-95e2-4413-b415-092fdbe2cc24",
-          "author": "Jupiter Broadcasting",
-          "description": "Two years ago, we took a small step toward digital privacy. Today, we're rethinking everything about our online lives, and we'll give you the tools to do the same.\nSponsored By:\n\nBlack Friday Member Sale: 30% Off for the lifetime of your Membership! Code: blackfriday\n \nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nSyncthing — Open Source Continuous File Synchronization\n2024 Tuxi…",
-          "link": "https://linuxunplugged.com/590",
-          "publishedOn": "2024-11-25T02:50:00.000Z",
-          "wordCount": null,
-          "title": "590: Self-Host Before You're Toast",
-          "itunes": {
-            "duration": "01:20:41"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/e1277ce3-95e2-4413-b415-092fdbe2cc24.mp3",
-            "length": "68450745",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
