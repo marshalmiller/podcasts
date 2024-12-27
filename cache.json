@@ -143,24 +143,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "89b51908-a8ff-4d22-a470-51a0d7bf3518",
-          "author": "Jupiter Broadcasting",
-          "description": "A survey found that nearly 10% of developers are ghosts doing nothing - our thoughts on that, AI Big Brother as a service comes to the workplace, OpenAI's NYT standoff, and Google's growing problem.",
-          "link": "https://coder.show/597",
-          "publishedOn": "2024-11-27T11:00:00.000Z",
-          "wordCount": null,
-          "title": "597: Make Google Great Again",
-          "itunes": {
-            "duration": "46:57"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/89b51908-a8ff-4d22-a470-51a0d7bf3518.mp3",
-            "length": "39449465",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }
