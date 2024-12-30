@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "39c80ea5-ae60-4ca5-99c3-560b049c7d15",
+          "author": "Jupiter Broadcasting",
+          "description": "We tested out the OpenWRT One and tried it in a unique use case. Then, Wes goes back to 1999 to solve a problem.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLinuxFest Northwest 2025: Call for Speakers — Call closes at 11:59 PM PST on 2025-01-10. Conference is 2025-04-25 through 2025-04-27.\nQobuz — Buy your favourite albums in CD or Hi-Res quality and enjoy them …",
+          "link": "https://linuxunplugged.com/595",
+          "publishedOn": "2024-12-29T18:00:00.000Z",
+          "wordCount": null,
+          "title": "595: Network 'n Burning Bonanza",
+          "itunes": {
+            "duration": "01:10:04"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/39c80ea5-ae60-4ca5-99c3-560b049c7d15.mp3",
+            "length": "59529042",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "2733c93c-eb32-4179-97a4-fc6b8982bae6",
           "author": "Jupiter Broadcasting",
           "description": "It's the fifth annual Unplugged Tuxies; our community votes on the best projects, distros, and desktops of 2024. Join us for the final Tuxies, and the second annual Boosties!\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLINUX Unplugged 542: 2023 Tuxies\nAnnual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!",
