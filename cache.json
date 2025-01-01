@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "da8fa4c6-d41f-4fc8-94a9-de68ae0b34e0",
-          "author": "Jupiter Broadcasting",
-          "description": "The KDE and GNOME projects are working on official Linux distributions, but do we need more distros? We dig into their special sauce.\nPlus: Wes' top DNS server pick, and it's not one we've heard before.\nSponsored By:\n\nBlack Friday Member Sale: 30% Off for the lifetime of your Membership! Code: blackfriday\n \nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nFirst Router Designed Spec…",
-          "link": "https://linuxunplugged.com/591",
-          "publishedOn": "2024-12-02T02:00:00.000Z",
-          "wordCount": null,
-          "title": "591: KDE Goes Banana",
-          "itunes": {
-            "duration": "01:17:38"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/da8fa4c6-d41f-4fc8-94a9-de68ae0b34e0.mp3",
-            "length": "65890999",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
