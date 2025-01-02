@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T00:03:27.747Z</updated>
+    <updated>2025-01-02T00:03:23.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[601: The 10X Exec]]></title>
+        <id>1d33ed86-1de8-441b-b1f4-adb7ab06336c</id>
+        <link href="https://coder.show/601"/>
+        <updated>2025-01-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Some debates never die, and this week, we’re reigniting one of our spiciest from the archives. Plus, our boldest 2025 predictions yet.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[595: Network 'n Burning Bonanza]]></title>
         <id>39c80ea5-ae60-4ca5-99c3-560b049c7d15</id>
