@@ -143,24 +143,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "1e6cfee6-871d-4eff-ba4c-d4be994753d5",
-          "author": "Jupiter Broadcasting",
-          "description": "GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust.",
-          "link": "https://coder.show/598",
-          "publishedOn": "2024-12-04T10:00:00.000Z",
-          "wordCount": null,
-          "title": "598: No Code is just Other People's Code",
-          "itunes": {
-            "duration": "36:20"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/1e6cfee6-871d-4eff-ba4c-d4be994753d5.mp3",
-            "length": "30523842",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     }

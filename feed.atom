@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T00:03:23.912Z</updated>
+    <updated>2025-01-03T00:03:26.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -148,16 +148,6 @@ home-assistant-technitiumdns — This custom integration allows you to integrate
 sam h's nix config with Blocky
 Rescuezilla — Rescuezilla is an open-source easy-to-use disk imaging app that's fully compatible with Clonezilla — the industry-standard trusted by tens of millions.
 rescuezilla/rescuezilla: The Swiss Army Knife of System Recovery]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[598: No Code is just Other People's Code]]></title>
-        <id>1e6cfee6-871d-4eff-ba4c-d4be994753d5</id>
-        <link href="https://coder.show/598"/>
-        <updated>2024-12-04T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GitHub has done the research, brought the receipts, and knows just what to do to get more developers into the flow state. Is it legit or hype? We’ll dig in. Plus, making the case that Rails is better low code than low code, and we help someone go from Pizza to Rust.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
