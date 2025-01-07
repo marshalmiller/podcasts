@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-06T00:03:30.523Z</updated>
+    <updated>2025-01-07T00:03:48.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[596: Perilously Pontificated Predictions]]></title>
+        <id>81369e6c-3be2-4977-a319-df63605fafd1</id>
+        <link href="https://linuxunplugged.com/596"/>
+        <updated>2025-01-06T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[We make our big Linux predictions for 2025, but first, we score how we did for 2024.
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+LinuxFest Northwest 2025: Call for Speakers — Call closes at 11:59 PM PST on 
+Planet Nix CFP - Jan 6th
+Colony Events
+LUP was the #2 top show on Fountain.fm for 2024. THANK YOU!
+LINUX Unplugged 545: 3,062 Days Later
+MAGI OS: AI powered Linux
+MakuluLinux AI podcast – MakuluLinux
+MakuluLinux X – AI Integration Update – MakuluLinux
+OpenZFS Native Encryption Use Raises Data Corruption Concerns
+Debian Installer Trixie Alpha 1 Brings RISC-V & Drops i386 Installer
+After Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends
+mesa-dri-drivers-24.2.4-1.fc41 - Fedora Packages
+UbuntuUpdates - Package Search (all versions of mesa)
+Open-Source NVIDIA Driver Moving To NVK + Zink For OpenGL On Newer GPUs - Phoronix
+Mesa's NVIDIA Vulkan Driver "NVK" Now Exposes Vulkan 1.3 Support - Phoronix
+NixOS-based distributions - NixOS Wiki
+It's time for change, it's time for Linux. - YouTube
+How I Broke up with Adobe
+Automotive Grade Linux Launches New Expert Group Led by Toyota to Help Automakers Manage Open Source Activities - Automotive Grade Linux
+Annual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!
+Enclosed - Send private and secure notes — Minimalistic web application designed for sending end-to-end encrypted notes and files.
+enclosed - GitHub]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[601: The 10X Exec]]></title>
         <id>1d33ed86-1de8-441b-b1f4-adb7ab06336c</id>
