@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "48db2d2a-129c-465d-9ad1-37c00aede7a3",
+          "author": "Jupiter Broadcasting",
+          "description": "CES 2025 Secrets Revealed: A developer’s dream or just more hype? Plus, NVIDIA flexes its AI muscles, and we're admittedly impressed. Then, our thoughts on Dell's historic rebrand.",
+          "link": "https://coder.show/602",
+          "publishedOn": "2025-01-08T10:00:00.000Z",
+          "wordCount": null,
+          "title": "602: Dude, You're Getting a Dell Pro Max Micro Plus!",
+          "itunes": {
+            "duration": "44:30"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/48db2d2a-129c-465d-9ad1-37c00aede7a3.mp3",
+            "length": "37384277",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "1d33ed86-1de8-441b-b1f4-adb7ab06336c",
           "author": "Jupiter Broadcasting",
           "description": "Some debates never die, and this week, we’re reigniting one of our spiciest from the archives. Plus, our boldest 2025 predictions yet.",
