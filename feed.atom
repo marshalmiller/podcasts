@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-09T00:03:30.157Z</updated>
+    <updated>2025-01-10T00:03:26.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -147,16 +147,6 @@ Xfce 4.20 Release Notes
 The Last Tuxies
 Plan your meetup: Colony Events
 LUP 600 Pacific Northwest Party · C…]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[599: GPU Game Theory]]></title>
-        <id>e78c81c2-f55a-4f2b-a88c-ef34d24fd316</id>
-        <link href="https://coder.show/599"/>
-        <updated>2024-12-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sam's Checkmate: How Open Source AI and Silicon Valley Kingmakers dethroned the OpenAI emperor! Plus,  Tesla's API Apocalypse has arrived.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
