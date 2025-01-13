@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "d3d8c0ba-e829-42ac-9370-581fea2c1773",
+          "author": "Jupiter Broadcasting",
+          "description": "We're taking on some of the toughest critiques of the Linux desktop, then taking a look at CachyOS and what makes it feel like a million bucks.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nWhy Linux is not ready for the desktop, the final edition\nWhy Linux is not ready for the desktop, the final edition | Hacker News\nWhy Desktop Linux Matters, Even If (Almost) No…",
+          "link": "https://linuxunplugged.com/597",
+          "publishedOn": "2025-01-12T22:00:00.000Z",
+          "wordCount": null,
+          "title": "597: Cache My OS",
+          "itunes": {
+            "duration": "01:18:21"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/d3d8c0ba-e829-42ac-9370-581fea2c1773.mp3",
+            "length": "66490723",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "81369e6c-3be2-4977-a319-df63605fafd1",
           "author": "Jupiter Broadcasting",
           "description": "We make our big Linux predictions for 2025, but first, we score how we did for 2024.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLinuxFest Northwest 2025: Call for Speakers — Call closes at 11:59 PM PST on \nPlanet Nix CFP - Jan 6th\nColony Events\nLUP was the #2 top show on Fountain.fm for 2024. THANK YOU!\nLINUX Unplugged 545: 3,062 Days Later\nMAGI OS: AI powered Linux\nMakuluLinux AI podcast – MakuluLinux\nMakuluLinux X – AI Integration Update – MakuluLinux\nOpenZFS Native Encryption Use Raises Data Corruption Concerns\nDebian Installer Trixie Alpha 1 Brings RISC-V & Drops i386 Installer\nAfter Three Years on Mars, NASA’s Ingenuity Helicopter Mission Ends\nmesa-dri-drivers-24.2.4-1.fc41 - Fedora Packages\nUbuntuUpdates - Package Search (all versions of mesa)\nOpen-Source NVIDIA Driver Moving To NVK + Zink For OpenGL On Newer GPUs - Phoronix\nMesa's NVIDIA Vulkan Driver \"NVK\" Now Exposes Vulkan 1.3 Support - Phoronix\nNixOS-based distributions - NixOS Wiki\nIt's time for change, it's time for Linux. - YouTube\nHow I Broke up with Adobe\nAutomotive Grade Linux Launches New Expert Group Led by Toyota to Help Automakers Manage Open Source Activities - Automotive Grade Linux\nAnnual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!\nEnclosed - Send private and secure notes — Minimalistic web application designed for sending end-to-end encrypted notes and files.\nenclosed - GitHub",

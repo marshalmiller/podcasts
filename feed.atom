@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-12T00:03:34.774Z</updated>
+    <updated>2025-01-13T00:03:19.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[597: Cache My OS]]></title>
+        <id>d3d8c0ba-e829-42ac-9370-581fea2c1773</id>
+        <link href="https://linuxunplugged.com/597"/>
+        <updated>2025-01-12T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're taking on some of the toughest critiques of the Linux desktop, then taking a look at CachyOS and what makes it feel like a million bucks.
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+Why Linux is not ready for the desktop, the final edition
+Why Linux is not ready for the desktop, the final edition | Hacker News
+Why Desktop Linux Matters, Even If (Almost) No…]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[602: Dude, You're Getting a Dell Pro Max Micro Plus!]]></title>
         <id>48db2d2a-129c-465d-9ad1-37c00aede7a3</id>
