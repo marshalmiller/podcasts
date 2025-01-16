@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "b9676a7b-bd5d-40b8-8468-81d5706bd24f",
+          "author": "Jupiter Broadcasting",
+          "description": "The CEO who bet on SwiftUI—and lost their job. Then poke some fun at Rust stans, SalesForce claims they're not hiring any developers in 2025, and more!",
+          "link": "https://coder.show/603",
+          "publishedOn": "2025-01-15T10:00:00.000Z",
+          "wordCount": null,
+          "title": "603: COSMIC Defenders",
+          "itunes": {
+            "duration": "43:22"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/b9676a7b-bd5d-40b8-8468-81d5706bd24f.mp3",
+            "length": "36428344",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "48db2d2a-129c-465d-9ad1-37c00aede7a3",
           "author": "Jupiter Broadcasting",
           "description": "CES 2025 Secrets Revealed: A developer’s dream or just more hype? Plus, NVIDIA flexes its AI muscles, and we're admittedly impressed. Then, our thoughts on Dell's historic rebrand.",

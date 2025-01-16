@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-15T00:03:09.350Z</updated>
+    <updated>2025-01-16T00:03:23.813Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[603: COSMIC Defenders]]></title>
+        <id>b9676a7b-bd5d-40b8-8468-81d5706bd24f</id>
+        <link href="https://coder.show/603"/>
+        <updated>2025-01-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The CEO who bet on SwiftUI—and lost their job. Then poke some fun at Rust stans, SalesForce claims they're not hiring any developers in 2025, and more!]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[597: Cache My OS]]></title>
         <id>d3d8c0ba-e829-42ac-9370-581fea2c1773</id>
