@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "2733c93c-eb32-4179-97a4-fc6b8982bae6",
-          "author": "Jupiter Broadcasting",
-          "description": "It's the fifth annual Unplugged Tuxies; our community votes on the best projects, distros, and desktops of 2024. Join us for the final Tuxies, and the second annual Boosties!\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLINUX Unplugged 542: 2023 Tuxies\nAnnual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!",
-          "link": "https://linuxunplugged.com/594",
-          "publishedOn": "2024-12-23T02:00:00.000Z",
-          "wordCount": null,
-          "title": "594: 2024 Tuxies",
-          "itunes": {
-            "duration": "00:55:57"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/2733c93c-eb32-4179-97a4-fc6b8982bae6.mp3",
-            "length": "47673889",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
