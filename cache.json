@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "5ea3a4de-2ae7-4ad2-998b-7ea7a7b8462d",
+          "author": "Jupiter Broadcasting",
+          "description": "We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue.",
+          "link": "https://coder.show/604",
+          "publishedOn": "2025-01-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "604: The Startup Myth",
+          "itunes": {
+            "duration": "38:56"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/5ea3a4de-2ae7-4ad2-998b-7ea7a7b8462d.mp3",
+            "length": "32708824",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b9676a7b-bd5d-40b8-8468-81d5706bd24f",
           "author": "Jupiter Broadcasting",
           "description": "The CEO who bet on SwiftUI—and lost their job. Then poke some fun at Rust stans, SalesForce claims they're not hiring any developers in 2025, and more!",

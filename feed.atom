@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-22T00:03:11.587Z</updated>
+    <updated>2025-01-23T00:03:12.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[604: The Startup Myth]]></title>
+        <id>5ea3a4de-2ae7-4ad2-998b-7ea7a7b8462d</id>
+        <link href="https://coder.show/604"/>
+        <updated>2025-01-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[598: Not Your Distrohopper's Distro]]></title>
         <id>d7cb9739-9767-4628-adad-da7ce1988763</id>
