@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "e7925270-b2c4-425d-928b-0ea1586f1c5b",
+          "author": "Jupiter Broadcasting",
+          "description": "DeepSeek has everyone freaking out; we'll look at what's legitimately fascinating, what bits have been an overreaction, and the big mistake that made this all possible. \nPlus, there's some bad news for Java fans.",
+          "link": "https://coder.show/605",
+          "publishedOn": "2025-01-29T10:00:00.000Z",
+          "wordCount": null,
+          "title": "605: The Democrats Behind DeepSeek",
+          "itunes": {
+            "duration": "46:01"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/e7925270-b2c4-425d-928b-0ea1586f1c5b.mp3",
+            "length": "38663080",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "5ea3a4de-2ae7-4ad2-998b-7ea7a7b8462d",
           "author": "Jupiter Broadcasting",
           "description": "We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue.",

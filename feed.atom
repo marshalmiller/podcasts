@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-29T00:03:11.547Z</updated>
+    <updated>2025-01-30T00:03:07.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[605: The Democrats Behind DeepSeek]]></title>
+        <id>e7925270-b2c4-425d-928b-0ea1586f1c5b</id>
+        <link href="https://coder.show/605"/>
+        <updated>2025-01-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek has everyone freaking out; we'll look at what's legitimately fascinating, what bits have been an overreaction, and the big mistake that made this all possible. 
+Plus, there's some bad news for Java fans.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[599: Psycho Shower Linux Power]]></title>
         <id>18bdc1c3-db01-4f3d-8813-eb4a4a4af8e7</id>
