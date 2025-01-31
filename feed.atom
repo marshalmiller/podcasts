@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-30T00:03:07.812Z</updated>
+    <updated>2025-01-31T00:03:11.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -160,16 +160,6 @@ Automotive Grade Linux Launches New Expert Group Led by Toyota to Help Automaker
 Annual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!
 Enclosed - Send private and secure notes — Minimalistic web application designed for sending end-to-end encrypted notes and files.
 enclosed - GitHub]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[601: The 10X Exec]]></title>
-        <id>1d33ed86-1de8-441b-b1f4-adb7ab06336c</id>
-        <link href="https://coder.show/601"/>
-        <updated>2025-01-01T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Some debates never die, and this week, we’re reigniting one of our spiciest from the archives. Plus, our boldest 2025 predictions yet.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
