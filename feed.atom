@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-05T00:03:23.920Z</updated>
+    <updated>2025-02-06T00:03:18.525Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[606: Coder's Next Steps]]></title>
+        <id>6eda096f-8545-4727-99ab-48eea96b8a66</id>
+        <link href="https://coder.show/606"/>
+        <updated>2025-02-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A brief important update from Chris about some upcoming changes to the podcast.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[600: Everyone, Everywhere, All at Once]]></title>
         <id>62834d7c-515b-4ad9-9614-221ea0fce7ba</id>

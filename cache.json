@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "6eda096f-8545-4727-99ab-48eea96b8a66",
+          "author": "Jupiter Broadcasting",
+          "description": "A brief important update from Chris about some upcoming changes to the podcast.",
+          "link": "https://coder.show/606",
+          "publishedOn": "2025-02-05T10:00:00.000Z",
+          "wordCount": null,
+          "title": "606: Coder's Next Steps",
+          "itunes": {
+            "duration": "3:59"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/6eda096f-8545-4727-99ab-48eea96b8a66.mp3",
+            "length": "3357207",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "e7925270-b2c4-425d-928b-0ea1586f1c5b",
           "author": "Jupiter Broadcasting",
           "description": "DeepSeek has everyone freaking out; we'll look at what's legitimately fascinating, what bits have been an overreaction, and the big mistake that made this all possible. \nPlus, there's some bad news for Java fans.",
