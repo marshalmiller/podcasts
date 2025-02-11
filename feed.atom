@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-10T00:03:22.292Z</updated>
+    <updated>2025-02-11T00:03:22.169Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[601: Taming the Demons]]></title>
+        <id>75da12ed-c228-4e80-b259-287ef42cc42c</id>
+        <link href="https://linuxunplugged.com/601"/>
+        <updated>2025-02-10T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[It's week one of our FreeBSD challenge, and for one of us, that penalty Windows install looks uncomfortably close! Plus, Zach Mitchell joins us to update us on Planet Nix.
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+LINUX Unplugged - 2025 FreeBSD Challenge Rules.md
+Raspberry Pi 400 Personal Computer Kit
+FreeBSD 14.0 on aarch64 Raspberry Pi 4/400 - Download, Install & Configure
+LinuxBoot: Booting FreeBSD from Linux
+EuroBSDCon booting FreeBSD using Linux
+Provisioning LinuxBoot Images for FreeBSD
+FreeBSD Handbook: Chapter 1. Bootstrapping and Kernel Initialization
+FreeBSD Handbook: Chapter 15. The FreeBSD Booting Process
+How to Manage FreeBSD Boot Process?
+LinuxBoot: let Linux do it!
+LinuxBoot Introduction
+LinuxBoot on GitHub
+Annual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!
+Planet Nix — March 6th-7th, 2025 in Pasadena, CA
+Zach Mitchell
+LINUX Unplugged 554: SCaLEing Nix
+LINUX Unplugged 538: Surprisingly Smooth Transition
+LFNW2025 - April 25 - 27, 2025 • Bellingham Technical College
+Pick: GarminDB — Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[606: Coder's Next Steps]]></title>
         <id>6eda096f-8545-4727-99ab-48eea96b8a66</id>
