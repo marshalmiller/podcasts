@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "ffc3e326-b2f1-4001-98c4-567491a7003c",
+          "author": "Jupiter Broadcasting",
+          "description": "Warp (https://warp.dev)\nZach on X (https://x.com/zachlloydtweets?lang=en)\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)",
+          "link": "https://coder.show/607",
+          "publishedOn": "2025-02-16T17:00:00.000Z",
+          "wordCount": null,
+          "title": "607: Warp's Zach Lloyd",
+          "itunes": {
+            "duration": "31:12"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ffc3e326-b2f1-4001-98c4-567491a7003c.mp3",
+            "length": "45045617",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "6eda096f-8545-4727-99ab-48eea96b8a66",
           "author": "Jupiter Broadcasting",
           "description": "A brief important update from Chris about some upcoming changes to the podcast.",

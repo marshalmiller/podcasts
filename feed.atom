@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-16T00:03:20.866Z</updated>
+    <updated>2025-02-17T00:03:22.059Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[607: Warp's Zach Lloyd]]></title>
+        <id>ffc3e326-b2f1-4001-98c4-567491a7003c</id>
+        <link href="https://coder.show/607"/>
+        <updated>2025-02-16T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Warp (https://warp.dev)
+Zach on X (https://x.com/zachlloydtweets?lang=en)
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev)]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[601: Taming the Demons]]></title>
         <id>75da12ed-c228-4e80-b259-287ef42cc42c</id>
