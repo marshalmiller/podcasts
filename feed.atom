@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-17T00:03:22.059Z</updated>
+    <updated>2025-02-18T00:03:21.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[602: The BSD Humbling]]></title>
+        <id>6cb6dd49-1d39-4ed7-abc7-bbad5f1b81e7</id>
+        <link href="https://linuxunplugged.com/602"/>
+        <updated>2025-02-17T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Our FreeBSD Challenge comes to a close, and chances are one of us will be paying the Windows tax.
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+Planet Nix
+Flox — Your dev environment, everywhere
+The Launch 🚀 09: The Eagle has Landed
+The Rules of the FreeBSD Challenge
+libluksde — Library and tools to access LUKS Disk Encryption encrypted volumes
+linuxulator-steam-…]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[607: Warp's Zach Lloyd]]></title>
         <id>ffc3e326-b2f1-4001-98c4-567491a7003c</id>
