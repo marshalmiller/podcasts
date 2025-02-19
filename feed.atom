@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-18T00:03:21.964Z</updated>
+    <updated>2025-02-19T00:03:08.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -167,32 +167,6 @@ Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software �
         <link href="https://coder.show/604"/>
         <updated>2025-01-22T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[We dig into the Rails 8 Solid Trifecta, our thoughts on why fewer developers are taking jobs at startups, and a new buzzphrase: Framework Fatigue.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[598: Not Your Distrohopper's Distro]]></title>
-        <id>d7cb9739-9767-4628-adad-da7ce1988763</id>
-        <link href="https://linuxunplugged.com/598"/>
-        <updated>2025-01-20T03:20:00.000Z</updated>
-        <summary type="html"><![CDATA[With more criticisms of NixOS than ever—do they have a point? We'll dig into the tough critiques and give our perspective.
-Sponsored By:
-
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-NixOS is interesting, but has fatal flaws
-LUP 600 meetups!
-Planet Nix — March 6-7, Before and Alongside SCaLE
-SCALE 22x — March 6-9, 2025 at the Pasadena Convention Center in Pasadena, CA.
-LFNW2025…]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
