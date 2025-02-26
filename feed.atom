@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-25T00:03:16.973Z</updated>
+    <updated>2025-02-26T00:03:19.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -185,30 +185,6 @@ Pick: Warehouse on Linux | Flathub — Warehouse provides a simple UI to control
         <updated>2025-01-29T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[DeepSeek has everyone freaking out; we'll look at what's legitimately fascinating, what bits have been an overreaction, and the big mistake that made this all possible. 
 Plus, there's some bad news for Java fans.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[599: Psycho Shower Linux Power]]></title>
-        <id>18bdc1c3-db01-4f3d-8813-eb4a4a4af8e7</id>
-        <link href="https://linuxunplugged.com/599"/>
-        <updated>2025-01-27T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[On the eve of episode 600, we introduce our next challenge and explore the new wave of Linux phones.
-Sponsored By:
-
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-Liberux – Privacy, Security, Freedom
-PinePhone Braveheart Linux smartphone begins shipping January 17th - Liliputing
-Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software — The Comet is a handhel…]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

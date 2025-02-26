@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "18bdc1c3-db01-4f3d-8813-eb4a4a4af8e7",
-          "author": "Jupiter Broadcasting",
-          "description": "On the eve of episode 600, we introduce our next challenge and explore the new wave of Linux phones.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLiberux – Privacy, Security, Freedom\nPinePhone Braveheart Linux smartphone begins shipping January 17th - Liliputing\nMecha Comet - Modular Linux Handheld Computer powered by Open-Source Software — The Comet is a handhel…",
-          "link": "https://linuxunplugged.com/599",
-          "publishedOn": "2025-01-27T00:30:00.000Z",
-          "wordCount": null,
-          "title": "599: Psycho Shower Linux Power",
-          "itunes": {
-            "duration": "01:02:12"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/18bdc1c3-db01-4f3d-8813-eb4a4a4af8e7.mp3",
-            "length": "52927490",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
