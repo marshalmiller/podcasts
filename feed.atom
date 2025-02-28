@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-02-27T00:03:21.171Z</updated>
+    <updated>2025-02-28T00:03:13.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -174,17 +174,6 @@ The Rules of the FreeBSD Challenge
 Speedruns - FreeBSD Wiki
 Pick: direnv-vscode — This extension adds direnv support to Visual Studio Code by loading environment variables for the workspace root.
 Pick: Warehouse on Linux | Flathub — Warehouse provides a simple UI to control complex Flatpak options, all without resorting to the command line.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[605: The Democrats Behind DeepSeek]]></title>
-        <id>e7925270-b2c4-425d-928b-0ea1586f1c5b</id>
-        <link href="https://coder.show/605"/>
-        <updated>2025-01-29T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek has everyone freaking out; we'll look at what's legitimately fascinating, what bits have been an overreaction, and the big mistake that made this all possible. 
-Plus, there's some bad news for Java fans.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
