@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-02T00:03:54.280Z</updated>
+    <updated>2025-03-03T00:03:15.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[604: One Week Left]]></title>
+        <id>b47d1bb4-6a54-45ec-a7d1-79e54e9ba0e0</id>
+        <link href="https://linuxunplugged.com/604"/>
+        <updated>2025-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're pre-gaming two of the biggest Linux events of the year. Engineers, organizers, and surprise guests are dropping by to give us the scoop before it all begins.
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+River: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged on Fountain.FM
+SCALE 2025 Meetup — El Cholo Caf…]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[608: R With Eric Nantz]]></title>
         <id>d51f0133-5186-443e-92e8-9e7a65fa2203</id>
