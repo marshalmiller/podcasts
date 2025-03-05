@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-04T00:03:17.372Z</updated>
+    <updated>2025-03-05T00:03:20.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -172,32 +172,6 @@ Pick: GarminDB — Download and parse data from Garmin Connect or a Garmin watch
         <link href="https://coder.show/606"/>
         <updated>2025-02-05T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[A brief important update from Chris about some upcoming changes to the podcast.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[600: Everyone, Everywhere, All at Once]]></title>
-        <id>62834d7c-515b-4ad9-9614-221ea0fce7ba</id>
-        <link href="https://linuxunplugged.com/600"/>
-        <updated>2025-02-03T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We celebrate 600 episodes, announce a new show feature, and officially launch the FreeBSD challenge.
-Sponsored By:
-
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged  on Fountain.FM
-nixbsd: An unofficial NixOS fork with a FreeBSD kernel
-The Rules of the FreeBSD Challenge
-Speedruns - FreeBSD Wiki
-Pick: direnv-vscode — This extension adds direnv support to Visual Studio Code by loading environment variables for the workspace root.
-Pick: Warehouse on Linux | Flathub — Warehouse provides a simple UI to control complex Flatpak options, all without resorting to the command line.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>

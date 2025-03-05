@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "62834d7c-515b-4ad9-9614-221ea0fce7ba",
-          "author": "Jupiter Broadcasting",
-          "description": "We celebrate 600 episodes, announce a new show feature, and officially launch the FreeBSD challenge.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nnixbsd: An unofficial NixOS fork with a FreeBSD kernel\nThe Rules of the FreeBSD Challenge\nSpeedruns - FreeBSD Wiki\nPick: direnv-vscode — This extension adds direnv support to Visual Studio Code by loading environment variables for the workspace root.\nPick: Warehouse on Linux | Flathub — Warehouse provides a simple UI to control complex Flatpak options, all without resorting to the command line.",
-          "link": "https://linuxunplugged.com/600",
-          "publishedOn": "2025-02-03T03:00:00.000Z",
-          "wordCount": null,
-          "title": "600: Everyone, Everywhere, All at Once",
-          "itunes": {
-            "duration": "01:08:50"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/62834d7c-515b-4ad9-9614-221ea0fce7ba.mp3",
-            "length": "58487812",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
