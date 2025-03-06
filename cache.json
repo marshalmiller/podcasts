@@ -91,6 +91,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "a3f2ee47-5d85-4235-8b6b-e90f00c5fb95",
+          "author": "The Mad Botter",
+          "description": "For our listener Q&A, we tackle questions about the evolution of hybrid web/mobile app development, the licensing concerns around AGPL3.0 open-source projects, and the changing landscape of contract software development in a post-zero-interest-rate environment. We'll also discuss the current trend of AI integration and how developers can approach it effectively.",
+          "link": "https://coder.show/609",
+          "publishedOn": "2025-03-05T11:00:00.000Z",
+          "wordCount": null,
+          "title": "609: More Rust With Honey",
+          "itunes": {
+            "duration": "19:10"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/a3f2ee47-5d85-4235-8b6b-e90f00c5fb95.mp3",
+            "length": "27652938",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "d51f0133-5186-443e-92e8-9e7a65fa2203",
           "author": "The Mad Botter",
           "description": "House Keeping\nGoogle / YouTube Update\nJoin the Discord!\nFeedback\nRust in the Linux Kernel.\nR Stuff\nWhat is R Again?\nGreat presentation by John Chambers at UseR! 2006 https://www.r-project.org/conferences/useR-2006/Slides/Chambers.pdf \nThe times have changed, now R is very much suited for production use and not just an academic research language\nHighly recommend reading Advanced R for more comprehensive details on the quirks of the language https://adv-r.hadley.nz/index.html \nR VS Python for Data?\nDifferent philosophies on the use of the language\nCRAN vs PyPi \nInteroperability becoming more mainstream now\nVisualization: R has always been leaps and bounds ahead (Grammar of Graphics, interactive widgets, etc)\nR Dev Stack?\nIDEs: RStudio, now Positron https://positron.posit.co/ \nManaging packag…",
