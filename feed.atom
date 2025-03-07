@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-06T00:03:17.612Z</updated>
+    <updated>2025-03-07T00:03:20.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -172,16 +172,6 @@ LINUX Unplugged 554: SCaLEing Nix
 LINUX Unplugged 538: Surprisingly Smooth Transition
 LFNW2025 - April 25 - 27, 2025 • Bellingham Technical College
 Pick: GarminDB — Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[606: Coder's Next Steps]]></title>
-        <id>6eda096f-8545-4727-99ab-48eea96b8a66</id>
-        <link href="https://coder.show/606"/>
-        <updated>2025-02-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A brief important update from Chris about some upcoming changes to the podcast.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
         </author>
