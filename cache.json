@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "a945d60d-b088-4d49-9960-1e91609bc597",
+          "author": "Jupiter Broadcasting",
+          "description": "We are digging into a superpower inside your Linux Kernel. How eBPF works, and how anyone can take advantage of it.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nRiver: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\neBPF Perf Tools 2019 | SCaLE 17x\nSCALE2019_eBPF_Perf_Tools.pdf\nOracle Releases DTrace 2.0.0-1.14 For Linux Systems\nGentoo Linux Touts DTrace 2.0 Support\nbpftrace (DTrace 2.0) for Linux 2018\nFull-system dynamic tracing on Linux using eBPF and bpftrace\nA thorough introduction to eBPF\nBCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more — The BPF Compiler Collection: BCC or BPF Compiler Collection is a set of tools leveraging eBPF for kernel tracing, Linux IO analysis, networking, monitoring, and more.\nBCC Tutorial\nxdp-tools: Utilities and example programs for use with XDP\nply: a dynamic tracer for Linux\nLiam's Multi-Monitor Setup\nPick: netop — Network Top -- Help you monitor network traffic with bpf\nPick: bpftune — bpftune aims to provide lightweight, always-on auto-tuning of system behaviour.",
+          "link": "https://linuxunplugged.com/605",
+          "publishedOn": "2025-03-09T17:00:00.000Z",
+          "wordCount": null,
+          "title": "605: Goodbye World",
+          "itunes": {
+            "duration": "00:53:43"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/a945d60d-b088-4d49-9960-1e91609bc597.mp3",
+            "length": "52248421",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "b47d1bb4-6a54-45ec-a7d1-79e54e9ba0e0",
           "author": "Jupiter Broadcasting",
           "description": "We're pre-gaming two of the biggest Linux events of the year. Engineers, organizers, and surprise guests are dropping by to give us the scoop before it all begins.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nRiver: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged on Fountain.FM\nSCALE 2025 Meetup — El Cholo Caf…",
