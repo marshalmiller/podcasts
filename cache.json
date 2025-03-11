@@ -109,6 +109,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "39f86d36-3523-4d16-8c2c-839c22a91373",
+          "author": "The Mad Botter",
+          "description": "Nick's Socials\nNick on LinkedIn (https://www.linkedin.com/in/nickproud/)\nNick's Youtube (https://www.youtube.com/@nickproudprogrammer)\nNick's Book (https://a.co/d/fy5ptwJ)\nNexBotix (https://www.nexbotix.ai/)\nCoder's Socials\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)",
+          "link": "https://coder.show/610",
+          "publishedOn": "2025-03-10T15:00:00.000Z",
+          "wordCount": null,
+          "title": "610: RPA with Nick Proud",
+          "itunes": {
+            "duration": "33:17"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/39f86d36-3523-4d16-8c2c-839c22a91373.mp3",
+            "length": "48010845",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "a3f2ee47-5d85-4235-8b6b-e90f00c5fb95",
           "author": "The Mad Botter",
           "description": "For our listener Q&A, we tackle questions about the evolution of hybrid web/mobile app development, the licensing concerns around AGPL3.0 open-source projects, and the changing landscape of contract software development in a post-zero-interest-rate environment. We'll also discuss the current trend of AI integration and how developers can approach it effectively.",

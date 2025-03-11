@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-10T00:03:11.800Z</updated>
+    <updated>2025-03-11T00:03:24.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[610: RPA with Nick Proud]]></title>
+        <id>39f86d36-3523-4d16-8c2c-839c22a91373</id>
+        <link href="https://coder.show/610"/>
+        <updated>2025-03-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nick's Socials
+Nick on LinkedIn (https://www.linkedin.com/in/nickproud/)
+Nick's Youtube (https://www.youtube.com/@nickproudprogrammer)
+Nick's Book (https://a.co/d/fy5ptwJ)
+NexBotix (https://www.nexbotix.ai/)
+Coder's Socials
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev)]]></summary>
+        <author>
+            <name>The Mad Botter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[605: Goodbye World]]></title>
         <id>a945d60d-b088-4d49-9960-1e91609bc597</id>
