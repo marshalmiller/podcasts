@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "75da12ed-c228-4e80-b259-287ef42cc42c",
-          "author": "Jupiter Broadcasting",
-          "description": "It's week one of our FreeBSD challenge, and for one of us, that penalty Windows install looks uncomfortably close! Plus, Zach Mitchell joins us to update us on Planet Nix.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLINUX Unplugged - 2025 FreeBSD Challenge Rules.md\nRaspberry Pi 400 Personal Computer Kit\nFreeBSD 14.0 on aarch64 Raspberry Pi 4/400 - Download, Install & Configure\nLinuxBoot: Booting FreeBSD from Linux\nEuroBSDCon booting FreeBSD using Linux\nProvisioning LinuxBoot Images for FreeBSD\nFreeBSD Handbook: Chapter 1. Bootstrapping and Kernel Initialization\nFreeBSD Handbook: Chapter 15. The FreeBSD Booting Process\nHow to Manage FreeBSD Boot Process?\nLinuxBoot: let Linux do it!\nLinuxBoot Introduction\nLinuxBoot on GitHub\nAnnual Membership — Put your support on automatic with our annual plan, and get one month of membership for free!\nPlanet Nix — March 6th-7th, 2025 in Pasadena, CA\nZach Mitchell\nLINUX Unplugged 554: SCaLEing Nix\nLINUX Unplugged 538: Surprisingly Smooth Transition\nLFNW2025 - April 25 - 27, 2025 • Bellingham Technical College\nPick: GarminDB — Download and parse data from Garmin Connect or a Garmin watch, FitBit CSV, and MS Health CSV files into and analyze data in Sqlite serverless databases with Jupyter notebooks.",
-          "link": "https://linuxunplugged.com/601",
-          "publishedOn": "2025-02-10T00:15:00.000Z",
-          "wordCount": null,
-          "title": "601: Taming the Demons",
-          "itunes": {
-            "duration": "01:08:42"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/75da12ed-c228-4e80-b259-287ef42cc42c.mp3",
-            "length": "58380170",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
