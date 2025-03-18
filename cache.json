@@ -109,6 +109,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "ad5b3770-4245-4b66-a0b9-1da71e319a41",
+          "author": "The Mad Botter",
+          "description": "Carl sits down with Mike to talk ARM on Thelio, Linux computing, a little Rust (of course), SCALE, COSMIC and more. \nCarl's Socials\nCarl on X (https://x.com/carlrichell)\nSystem76 on X (https://x.com/system76)\nSystem76 (https://system76.com)\nCoder's Socials\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nMike's Blog (https://dominickm.com)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)\nTMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)",
+          "link": "https://coder.show/611",
+          "publishedOn": "2025-03-17T09:00:00.000Z",
+          "wordCount": null,
+          "title": "611: System76's Carl Richell",
+          "itunes": {
+            "duration": "41:12"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ad5b3770-4245-4b66-a0b9-1da71e319a41.mp3",
+            "length": "59394937",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "39f86d36-3523-4d16-8c2c-839c22a91373",
           "author": "The Mad Botter",
           "description": "Nick's Socials\nNick on LinkedIn (https://www.linkedin.com/in/nickproud/)\nNick's Youtube (https://www.youtube.com/@nickproudprogrammer)\nNick's Book (https://a.co/d/fy5ptwJ)\nNexBotix (https://www.nexbotix.ai/)\nCoder's Socials\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)",

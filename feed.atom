@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-17T00:03:58.605Z</updated>
+    <updated>2025-03-18T00:03:15.555Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[611: System76's Carl Richell]]></title>
+        <id>ad5b3770-4245-4b66-a0b9-1da71e319a41</id>
+        <link href="https://coder.show/611"/>
+        <updated>2025-03-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Carl sits down with Mike to talk ARM on Thelio, Linux computing, a little Rust (of course), SCALE, COSMIC and more. 
+Carl's Socials
+Carl on X (https://x.com/carlrichell)
+System76 on X (https://x.com/system76)
+System76 (https://system76.com)
+Coder's Socials
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Mike's Blog (https://dominickm.com)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev)
+TMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)]]></summary>
+        <author>
+            <name>The Mad Botter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[606: Nix's Magic Cookbook]]></title>
         <id>f9c6f499-4216-462e-88df-6a97ae3b7947</id>
