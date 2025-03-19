@@ -82,24 +82,6 @@
             "type": "audio/mp3"
           },
           "imageUrl": null
-        },
-        {
-          "id": "6cb6dd49-1d39-4ed7-abc7-bbad5f1b81e7",
-          "author": "Jupiter Broadcasting",
-          "description": "Our FreeBSD Challenge comes to a close, and chances are one of us will be paying the Windows tax.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nPlanet Nix\nFlox — Your dev environment, everywhere\nThe Launch 🚀 09: The Eagle has Landed\nThe Rules of the FreeBSD Challenge\nlibluksde — Library and tools to access LUKS Disk Encryption encrypted volumes\nlinuxulator-steam-…",
-          "link": "https://linuxunplugged.com/602",
-          "publishedOn": "2025-02-17T00:15:00.000Z",
-          "wordCount": null,
-          "title": "602: The BSD Humbling",
-          "itunes": {
-            "duration": "01:07:11"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/6cb6dd49-1d39-4ed7-abc7-bbad5f1b81e7.mp3",
-            "length": "97427970",
-            "type": "audio/mp3"
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -176,24 +158,6 @@
           "enclosure": {
             "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/d51f0133-5186-443e-92e8-9e7a65fa2203.mp3",
             "length": "79954390",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "ffc3e326-b2f1-4001-98c4-567491a7003c",
-          "author": "Jupiter Broadcasting",
-          "description": "Warp (https://warp.dev)\nZach on X (https://x.com/zachlloydtweets?lang=en)\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)",
-          "link": "https://coder.show/607",
-          "publishedOn": "2025-02-16T17:00:00.000Z",
-          "wordCount": null,
-          "title": "607: Warp's Zach Lloyd",
-          "itunes": {
-            "duration": "31:12"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/ffc3e326-b2f1-4001-98c4-567491a7003c.mp3",
-            "length": "45045617",
             "type": "audio/mpeg"
           },
           "imageUrl": null
