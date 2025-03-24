@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "905d6d7a-1b56-4fcb-9988-51ac463376d5",
+          "author": "Jupiter Broadcasting",
+          "description": "Canonical's VP of Engineering for Ubuntu reveals why they're swapping coreutils for Rust-built tools. Then we break down the GNOME 48 release, and why this one is special.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nRiver: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nJon Seager\nEngineering Ubuntu For The Next 20 Years — We should look deeply at the tools we ship with Ubuntu by default, selecting for tools that have resilience, performance and maintainability at their core.\nCarefully But Purposefully Oxidising Ubuntu — Starting with Ubuntu 25.10, my goal is to adopt some of these modern implementations as the default. My immediate goal is to make uutils’ coreutils implementation the default in Ubuntu 25.10, and subsequently in our next Long Term Support (LTS) release, Ubuntu 26.04 LTS, if the conditions are right.\nGNOME 48 Release Notes — The GNOME project is excited to introduce GNOME 48, a fresh release shaped by six months of hard work from our amazing community. Named “Bengaluru”, this release pays tribute to the dedication of the GNOME Asia 2024 organizers.\nawesome-tuis\nPick: Ulauncher — Application launcher for Linux🐧\nUlauncher on GitHub\nHotkey In Wayland · Ulauncher Wiki\nBrowse Ulauncher Extensions\nGitmoji Extension\nTodoist task management Extension\nmariob88/ulauncher-todoist-integration\nTurn Off Screen Extension\nHome Assistant Extension\nqcasey/ulauncher-homeassistant\nObsidian Extension",
+          "link": "https://linuxunplugged.com/607",
+          "publishedOn": "2025-03-23T21:30:00.000Z",
+          "wordCount": null,
+          "title": "607: Ubuntu's Rusty Roadmap",
+          "itunes": {
+            "duration": "01:04:13"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/905d6d7a-1b56-4fcb-9988-51ac463376d5.mp3",
+            "length": "62320175",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "f9c6f499-4216-462e-88df-6a97ae3b7947",
           "author": "Jupiter Broadcasting",
           "description": "We have stories to share, guests joining us, insights from our week at Planet Nix, and Brent's big bombshell.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nRiver: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nFlox - Nix for Simplicity & Scale — Flox is all about simplifying your development wo…",
