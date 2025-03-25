@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-24T00:03:33.116Z</updated>
+    <updated>2025-03-25T00:03:26.361Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[612: Framework's Matt Hartley]]></title>
+        <id>dc32d322-4fd2-47e9-8621-82aeecf6fc99</id>
+        <link href="https://coder.show/612"/>
+        <updated>2025-03-24T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mike sits down with Matt Hartley of Framework to discuss some of their exciting new announcements, some Linux goodness & of course an obligatory Rust shoutout. 
+Matt's Socials
+LinkedIn (https://www.linkedin.com/in/matthartley/)
+Bluesky (https://bsky.app/profile/matthartleylinux.bsky.social)
+Framework (https://frame.work/)
+Coder's Socials
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Mike's Blog (https://dominickm.com)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev)
+TMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)]]></summary>
+        <author>
+            <name>The Mad Botter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[607: Ubuntu's Rusty Roadmap]]></title>
         <id>905d6d7a-1b56-4fcb-9988-51ac463376d5</id>

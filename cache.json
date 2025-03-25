@@ -109,6 +109,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "dc32d322-4fd2-47e9-8621-82aeecf6fc99",
+          "author": "The Mad Botter",
+          "description": "Mike sits down with Matt Hartley of Framework to discuss some of their exciting new announcements, some Linux goodness & of course an obligatory Rust shoutout. \nMatt's Socials\nLinkedIn (https://www.linkedin.com/in/matthartley/)\nBluesky (https://bsky.app/profile/matthartleylinux.bsky.social)\nFramework (https://frame.work/)\nCoder's Socials\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nMike's Blog (https://dominickm.com)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)\nTMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)",
+          "link": "https://coder.show/612",
+          "publishedOn": "2025-03-24T16:00:00.000Z",
+          "wordCount": null,
+          "title": "612: Framework's Matt Hartley",
+          "itunes": {
+            "duration": "39:32"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/dc32d322-4fd2-47e9-8621-82aeecf6fc99.mp3",
+            "length": "56979425",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "ad5b3770-4245-4b66-a0b9-1da71e319a41",
           "author": "The Mad Botter",
           "description": "Carl sits down with Mike to talk ARM on Thelio, Linux computing, a little Rust (of course), SCALE, COSMIC and more. \nCarl's Socials\nCarl on X (https://x.com/carlrichell)\nSystem76 on X (https://x.com/system76)\nSystem76 (https://system76.com)\nCoder's Socials\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nMike's Blog (https://dominickm.com)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)\nTMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)",
