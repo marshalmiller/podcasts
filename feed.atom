@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-26T00:03:31.502Z</updated>
+    <updated>2025-03-27T00:03:18.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -205,33 +205,6 @@ Links:
 SCALE 2025 Meetup — El Cholo Caf…]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[608: R With Eric Nantz]]></title>
-        <id>d51f0133-5186-443e-92e8-9e7a65fa2203</id>
-        <link href="https://coder.show/608"/>
-        <updated>2025-02-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[House Keeping
-Google / YouTube Update
-Join the Discord!
-Feedback
-Rust in the Linux Kernel.
-R Stuff
-What is R Again?
-Great presentation by John Chambers at UseR! 2006 https://www.r-project.org/conferences/useR-2006/Slides/Chambers.pdf 
-The times have changed, now R is very much suited for production use and not just an academic research language
-Highly recommend reading Advanced R for more comprehensive details on the quirks of the language https://adv-r.hadley.nz/index.html 
-R VS Python for Data?
-Different philosophies on the use of the language
-CRAN vs PyPi 
-Interoperability becoming more mainstream now
-Visualization: R has always been leaps and bounds ahead (Grammar of Graphics, interactive widgets, etc)
-R Dev Stack?
-IDEs: RStudio, now Positron https://positron.posit.co/ 
-Managing packag…]]></summary>
-        <author>
-            <name>The Mad Botter</name>
         </author>
     </entry>
 </feed>
