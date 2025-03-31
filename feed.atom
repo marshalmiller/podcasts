@@ -2,10 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-30T00:03:53.994Z</updated>
+    <updated>2025-03-31T00:04:03.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[608: Linus' NT Surprise]]></title>
+        <id>8b6e89ed-822c-4709-9a38-9d8e084d3c19</id>
+        <link href="https://linuxunplugged.com/608"/>
+        <updated>2025-03-30T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux 6.14 lands with big improvements for gaming, laptops, and filesystems—but why is a Windows feature sneaking into our kernel?
+Sponsored By:
+
+Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
+ 
+1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
+ 
+River: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.
+ 
+Support LINUX Unplugged
+Links:
+
+💥 Gets Sats Quick and Easy with Strike
+📻 LINUX Unplugged  on Fountain.FM
+LinuxFest Northwest 2025 Schedule
+LINUX Unplugged LIVE Sunday — Sunday 10:00 AM · 1h · HC 108
+Linux-Powered Payments: Running a Lightning Node with nix-bitcoin — Sunday 1:30 PM · 45 min · HC 204
+Linux 6.14
+Linux 6.14 from Linux Kernel Newbies
+Btrfs Support for uncached buffered I/O
+FUSE and io_uring
+Windows NT synchronization primitives for Linux
+NixOS/nixos-hardware: A collection of NixOS modules covering hardware quirks.
+NerfyGek0/MeshtasticIOAddon — Documentation of how to use Meshtastic serial and MQTT functionality to automation custom hardware
+Pick: Eloquent — Eloquent is a proofreading software for English and more than 20 other languages.
+Eloquent - Flathub
+languagetool — Style and Grammar Checker; it finds many errors that a simple spell checker cannot detect.
+LanguageTool standalone server]]></summary>
+        <author>
+            <name>Jupiter Broadcasting</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[612: Framework's Matt Hartley]]></title>
         <id>dc32d322-4fd2-47e9-8621-82aeecf6fc99</id>

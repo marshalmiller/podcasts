@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "8b6e89ed-822c-4709-9a38-9d8e084d3c19",
+          "author": "Jupiter Broadcasting",
+          "description": "Linux 6.14 lands with big improvements for gaming, laptops, and filesystems—but why is a Windows feature sneaking into our kernel?\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nRiver: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLinuxFest Northwest 2025 Schedule\nLINUX Unplugged LIVE Sunday — Sunday 10:00 AM · 1h · HC 108\nLinux-Powered Payments: Running a Lightning Node with nix-bitcoin — Sunday 1:30 PM · 45 min · HC 204\nLinux 6.14\nLinux 6.14 from Linux Kernel Newbies\nBtrfs Support for uncached buffered I/O\nFUSE and io_uring\nWindows NT synchronization primitives for Linux\nNixOS/nixos-hardware: A collection of NixOS modules covering hardware quirks.\nNerfyGek0/MeshtasticIOAddon — Documentation of how to use Meshtastic serial and MQTT functionality to automation custom hardware\nPick: Eloquent — Eloquent is a proofreading software for English and more than 20 other languages.\nEloquent - Flathub\nlanguagetool — Style and Grammar Checker; it finds many errors that a simple spell checker cannot detect.\nLanguageTool standalone server",
+          "link": "https://linuxunplugged.com/608",
+          "publishedOn": "2025-03-30T23:30:00.000Z",
+          "wordCount": null,
+          "title": "608: Linus' NT Surprise",
+          "itunes": {
+            "duration": "00:54:46"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/8b6e89ed-822c-4709-9a38-9d8e084d3c19.mp3",
+            "length": "53250899",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "905d6d7a-1b56-4fcb-9988-51ac463376d5",
           "author": "Jupiter Broadcasting",
           "description": "Canonical's VP of Engineering for Ubuntu reveals why they're swapping coreutils for Rust-built tools. Then we break down the GNOME 48 release, and why this one is special.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nRiver: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nJon Seager\nEngineering Ubuntu For The Next 20 Years — We should look deeply at the tools we ship with Ubuntu by default, selecting for tools that have resilience, performance and maintainability at their core.\nCarefully But Purposefully Oxidising Ubuntu — Starting with Ubuntu 25.10, my goal is to adopt some of these modern implementations as the default. My immediate goal is to make uutils’ coreutils implementation the default in Ubuntu 25.10, and subsequently in our next Long Term Support (LTS) release, Ubuntu 26.04 LTS, if the conditions are right.\nGNOME 48 Release Notes — The GNOME project is excited to introduce GNOME 48, a fresh release shaped by six months of hard work from our amazing community. Named “Bengaluru”, this release pays tribute to the dedication of the GNOME Asia 2024 organizers.\nawesome-tuis\nPick: Ulauncher — Application launcher for Linux🐧\nUlauncher on GitHub\nHotkey In Wayland · Ulauncher Wiki\nBrowse Ulauncher Extensions\nGitmoji Extension\nTodoist task management Extension\nmariob88/ulauncher-todoist-integration\nTurn Off Screen Extension\nHome Assistant Extension\nqcasey/ulauncher-homeassistant\nObsidian Extension",
