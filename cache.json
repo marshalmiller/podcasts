@@ -109,6 +109,24 @@
       "siteUrl": "https://coder.show",
       "articles": [
         {
+          "id": "69ecf42c-b2fd-4636-8458-34affdee930e",
+          "author": "The Mad Botter",
+          "description": "Mike sits down with Matt from Alderon games to talk a little game development, Path Of Titans and whole lot of Intel woes\nAlderon's Socials\nAlderon Games (https://alderongames.com/)\nMatt on Twitter (https://x.com/deathlyrage)\nCoder's Socials\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nMike's Blog (https://dominickm.com)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)\nTMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)",
+          "link": "https://coder.show/613",
+          "publishedOn": "2025-03-31T09:00:00.000Z",
+          "wordCount": null,
+          "title": "613: Intel Aflame",
+          "itunes": {
+            "duration": "45:57"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/69ecf42c-b2fd-4636-8458-34affdee930e.mp3",
+            "length": "66194095",
+            "type": "audio/mpeg"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "dc32d322-4fd2-47e9-8621-82aeecf6fc99",
           "author": "The Mad Botter",
           "description": "Mike sits down with Matt Hartley of Framework to discuss some of their exciting new announcements, some Linux goodness & of course an obligatory Rust shoutout. \nMatt's Socials\nLinkedIn (https://www.linkedin.com/in/matthartley/)\nBluesky (https://bsky.app/profile/matthartleylinux.bsky.social)\nFramework (https://frame.work/)\nCoder's Socials\nMike on X (https://x.com/dominucco)\nMike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)\nMike's Blog (https://dominickm.com)\nCoder on X (https://x.com/coderradioshow)\nCoder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)\nShow Discord (https://discord.gg/k8e7gKUpEp)\nAlice (https://alice.dev)\nTMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)",

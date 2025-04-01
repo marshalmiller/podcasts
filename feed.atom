@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-31T00:04:03.229Z</updated>
+    <updated>2025-04-01T00:04:08.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[613: Intel Aflame]]></title>
+        <id>69ecf42c-b2fd-4636-8458-34affdee930e</id>
+        <link href="https://coder.show/613"/>
+        <updated>2025-03-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mike sits down with Matt from Alderon games to talk a little game development, Path Of Titans and whole lot of Intel woes
+Alderon's Socials
+Alderon Games (https://alderongames.com/)
+Matt on Twitter (https://x.com/deathlyrage)
+Coder's Socials
+Mike on X (https://x.com/dominucco)
+Mike on BlueSky (https://bsky.app/profile/dominucco.bsky.social)
+Mike's Blog (https://dominickm.com)
+Coder on X (https://x.com/coderradioshow)
+Coder on BlueSky (https://bsky.app/profile/coderradio.bsky.social)
+Show Discord (https://discord.gg/k8e7gKUpEp)
+Alice (https://alice.dev)
+TMB Earth Day 2025 Competition (https://dominickm.com/earth-day-25-competition/)]]></summary>
+        <author>
+            <name>The Mad Botter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[608: Linus' NT Surprise]]></title>
         <id>8b6e89ed-822c-4709-9a38-9d8e084d3c19</id>
