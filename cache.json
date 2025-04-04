@@ -161,24 +161,6 @@
             "type": "audio/mpeg"
           },
           "imageUrl": null
-        },
-        {
-          "id": "a3f2ee47-5d85-4235-8b6b-e90f00c5fb95",
-          "author": "The Mad Botter",
-          "description": "For our listener Q&A, we tackle questions about the evolution of hybrid web/mobile app development, the licensing concerns around AGPL3.0 open-source projects, and the changing landscape of contract software development in a post-zero-interest-rate environment. We'll also discuss the current trend of AI integration and how developers can approach it effectively.",
-          "link": "https://coder.show/609",
-          "publishedOn": "2025-03-05T11:00:00.000Z",
-          "wordCount": null,
-          "title": "609: More Rust With Honey",
-          "itunes": {
-            "duration": "19:10"
-          },
-          "enclosure": {
-            "url": "https://aphid.fireside.fm/d/1437767933/b44de5fa-47c1-4e94-bf9e-c72f8d1c8f5d/a3f2ee47-5d85-4235-8b6b-e90f00c5fb95.mp3",
-            "length": "27652938",
-            "type": "audio/mpeg"
-          },
-          "imageUrl": null
         }
       ]
     }

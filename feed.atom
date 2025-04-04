@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-03T00:03:23.215Z</updated>
+    <updated>2025-04-04T00:03:27.240Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -230,16 +230,6 @@ Pick: netop — Network Top -- Help you monitor network traffic with bpf
 Pick: bpftune — bpftune aims to provide lightweight, always-on auto-tuning of system behaviour.]]></summary>
         <author>
             <name>Jupiter Broadcasting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[609: More Rust With Honey]]></title>
-        <id>a3f2ee47-5d85-4235-8b6b-e90f00c5fb95</id>
-        <link href="https://coder.show/609"/>
-        <updated>2025-03-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For our listener Q&A, we tackle questions about the evolution of hybrid web/mobile app development, the licensing concerns around AGPL3.0 open-source projects, and the changing landscape of contract software development in a post-zero-interest-rate environment. We'll also discuss the current trend of AI integration and how developers can approach it effectively.]]></summary>
-        <author>
-            <name>The Mad Botter</name>
         </author>
     </entry>
 </feed>
