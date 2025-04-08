@@ -12,6 +12,24 @@
       "siteUrl": "https://linuxunplugged.com",
       "articles": [
         {
+          "id": "daafe9f8-d837-4389-83e4-88053b1138f8",
+          "author": "Jupiter Broadcasting",
+          "description": "We attempt to get one of the great gaming classics running on Linux, and dig into some of the technical issues still holding back Linux. Plus: Chris has a new handheld.\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nConfigCat Feature Flags: Manage features and change your software configuration using ConfigCat feature flags, without the need to re-deploy code.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLinuxFest Northwest 2025 Schedule\nPOLL: Would You Tune Into a Saturday LFNW Live Stream?\nLINUX Unplugged LIVE@LFNW Sunday — Sunday 10:00 AM · 1h · HC 108\nLinux-Powered Payments: Running a Lightning Node with nix-bitcoin — Sunday 1:30 PM · 45 min · HC 204\nLutris - Open Gaming Platform for Linux — video game preservation platform aiming to keep your video game collection up and running for the years to come.\nGitHub - ValveSoftware/Proton: Compatibility tool for Steam Play based on Wine and additional components\nR36MAX Retro Handheld Game Console with 64G Built-in 18000+ Classic Games — The R36Max is a budget device that puts the common RK3326 chip into a vertical handheld. It has the same specs as the R36Pro, but with a larger, 1:1 screen.\nR36 Max Handheld Game Console with 4\" Screen Linux System\nKooha: Elegantly record your screen — Kooha is a simple screen recorder with a minimal interface. You can simply click the record button without having to configure a bunch of settings.\nvtt-summarizer: Summarize .vtt files into meeting notes — It uses open source LLMs to handle the data extraction and summarization, ensuring everything can be run locally and without the need to share with third parties.",
+          "link": "https://linuxunplugged.com/609",
+          "publishedOn": "2025-04-07T00:00:00.000Z",
+          "wordCount": null,
+          "title": "609: We Used to Be Friends",
+          "itunes": {
+            "duration": "01:04:10"
+          },
+          "enclosure": {
+            "url": "https://aphid.fireside.fm/d/1437767933/f31a453c-fa15-491f-8618-3f71f1d565e5/daafe9f8-d837-4389-83e4-88053b1138f8.mp3",
+            "length": "62281431",
+            "type": "audio/mp3"
+          },
+          "imageUrl": null
+        },
+        {
           "id": "8b6e89ed-822c-4709-9a38-9d8e084d3c19",
           "author": "Jupiter Broadcasting",
           "description": "Linux 6.14 lands with big improvements for gaming, laptops, and filesystems—but why is a Windows feature sneaking into our kernel?\nSponsored By:\n\nTailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!\n \n1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.\n \nRiver: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.\n \nSupport LINUX Unplugged\nLinks:\n\n💥 Gets Sats Quick and Easy with Strike\n📻 LINUX Unplugged  on Fountain.FM\nLinuxFest Northwest 2025 Schedule\nLINUX Unplugged LIVE Sunday — Sunday 10:00 AM · 1h · HC 108\nLinux-Powered Payments: Running a Lightning Node with nix-bitcoin — Sunday 1:30 PM · 45 min · HC 204\nLinux 6.14\nLinux 6.14 from Linux Kernel Newbies\nBtrfs Support for uncached buffered I/O\nFUSE and io_uring\nWindows NT synchronization primitives for Linux\nNixOS/nixos-hardware: A collection of NixOS modules covering hardware quirks.\nNerfyGek0/MeshtasticIOAddon — Documentation of how to use Meshtastic serial and MQTT functionality to automation custom hardware\nPick: Eloquent — Eloquent is a proofreading software for English and more than 20 other languages.\nEloquent - Flathub\nlanguagetool — Style and Grammar Checker; it finds many errors that a simple spell checker cannot detect.\nLanguageTool standalone server",
