@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marshalmiller.github.io/podcasts/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-04-08T00:03:22.470Z</updated>
+    <updated>2025-04-09T00:03:30.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://marshalmiller.github.io/podcasts/index.html"/>
     <link rel="self" href="https://marshalmiller.github.io/podcasts/feed.atom"/>
@@ -226,43 +226,6 @@ Show Discord (https://discord.gg/k8e7gKUpEp)
 Alice (https://alice.dev)]]></summary>
         <author>
             <name>The Mad Botter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[605: Goodbye World]]></title>
-        <id>a945d60d-b088-4d49-9960-1e91609bc597</id>
-        <link href="https://linuxunplugged.com/605"/>
-        <updated>2025-03-09T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We are digging into a superpower inside your Linux Kernel. How eBPF works, and how anyone can take advantage of it.
-Sponsored By:
-
-Tailscale: Tailscale is a programmable networking software that is private and secure by default - get it free on up to 100 devices!
- 
-1Password Extended Access Management: 1Password Extended Access Management is a device trust solution for companies with Okta, and they ensure that if a device isn't trusted and secure, it can't log into your cloud apps.
- 
-River: River is the most trusted place in the U.S. for individuals and businesses to buy, sell, send, and receive Bitcoin.
- 
-Support LINUX Unplugged
-Links:
-
-💥 Gets Sats Quick and Easy with Strike
-📻 LINUX Unplugged on Fountain.FM
-eBPF Perf Tools 2019 | SCaLE 17x
-SCALE2019_eBPF_Perf_Tools.pdf
-Oracle Releases DTrace 2.0.0-1.14 For Linux Systems
-Gentoo Linux Touts DTrace 2.0 Support
-bpftrace (DTrace 2.0) for Linux 2018
-Full-system dynamic tracing on Linux using eBPF and bpftrace
-A thorough introduction to eBPF
-BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more — The BPF Compiler Collection: BCC or BPF Compiler Collection is a set of tools leveraging eBPF for kernel tracing, Linux IO analysis, networking, monitoring, and more.
-BCC Tutorial
-xdp-tools: Utilities and example programs for use with XDP
-ply: a dynamic tracer for Linux
-Liam's Multi-Monitor Setup
-Pick: netop — Network Top -- Help you monitor network traffic with bpf
-Pick: bpftune — bpftune aims to provide lightweight, always-on auto-tuning of system behaviour.]]></summary>
-        <author>
-            <name>Jupiter Broadcasting</name>
         </author>
     </entry>
 </feed>
